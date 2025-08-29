@@ -1,0 +1,54 @@
+{
+  "timezone": "Asia/Kolkata",
+  "keep_days": 7,
+  "sections": {
+    "general": {
+      "en": [
+        {
+          "name": "BBC News",
+          "url": "https://feeds.bbci.co.uk/news/rss.xml"
+        },
+        {
+          "name": "The Hindu",
+          "url": "https://www.thehindu.com/news/feeder/default.rss"
+        }
+      ],
+      "ta": [
+        {
+          "name": "Dinamalar",
+          "url": "https://www.dinamalar.com/rss_eNews.asp?rss=general"
+        },
+        {
+          "name": "OneIndia Tamil",
+          "url": "https://tamil.oneindia.com/rss/tamil-news-fb.xml"
+        }
+      ]
+    },
+    "ai": {
+      "en": [
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/tag/artificial-intelligence/feed/"
+        },
+        {
+          "name": "Google AI Blog",
+          "url": "https://ai.googleblog.com/feeds/posts/default?alt=rss"
+        }
+      ],
+      "ta": []
+    },
+    "gaming": {
+      "en": [
+        {
+          "name": "PC Gamer",
+          "url": "https://www.pcgamer.com/rss/"
+        },
+        {
+          "name": "Polygon",
+          "url": "https://www.polygon.com/rss/index.xml"
+        }
+      ],
+      "ta": []
+    }
+  }
+}

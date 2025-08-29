@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>NewsHub — Daily News (TA/EN, AI, Gaming)</title>
+  <link rel="stylesheet" href="assets/styles.css" />
+  <meta name="theme-color" content="#0b1020" />
+</head>
+<body>
+  <div class="container">
+    <nav class="navbar">
+      <div class="brand">
+        <div class="brand-logo">📰</div>
+        <div>NewsHub</div>
+      </div>
+      <div class="controls">
+        <input id="search" class="input" placeholder="Search headlines…" />
+        <select id="lang" title="Language">
+          <option value="en">English</option>
+          <option value="ta">தமிழ்</option>
+        </select>
+        <a class="btn" href="https://github.com/" target="_blank" rel="noopener">GitHub</a>
+      </div>
+    </nav>
+
+    <header class="header">
+      <span class="chip datechip" id="datechip">--</span>
+      <div class="tabbar">
+        <button class="tab active" data-tab="all">All</button>
+        <button class="tab" data-tab="general">General</button>
+        <button class="tab" data-tab="ai">AI</button>
+        <button class="tab" data-tab="gaming">Gaming</button>
+      </div>
+    </header>
+
+    <section id="dates" class="tabbar"></section>
+    <section class="grid" id="grid"></section>
+
+    <footer class="footer">
+      <div>Static site. Headlines fetched by a Python GitHub Action and written to JSON daily.</div>
+    </footer>
+  </div>
+
+  <script src="assets/app.js" defer></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js').catch(()=>{});
+      });
+    }
+  </script>
+</body>
+</html>

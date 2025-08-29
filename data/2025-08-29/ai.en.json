@@ -1,0 +1,15 @@
+{
+  "date": "2025-08-29",
+  "section": "ai",
+  "lang": "en",
+  "items": [
+    {
+      "title": "Ai — EN sample",
+      "url": "https://example.com",
+      "source": "NewsHub",
+      "published": "2025-08-29T12:56:30.910842+05:30",
+      "summary": "Sample card. Run the GitHub Action (Python) to fetch real headlines.",
+      "image": ""
+    }
+  ]
+}
