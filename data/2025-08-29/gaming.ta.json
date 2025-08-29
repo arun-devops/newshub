@@ -2,14 +2,5 @@
   "date": "2025-08-29",
   "section": "gaming",
   "lang": "ta",
-  "items": [
-    {
-      "title": "GAMING — தமிழ் மாதிரி",
-      "url": "https://example.com",
-      "source": "NewsHub",
-      "published": "2025-08-29T12:56:30.911711+05:30",
-      "summary": "Sample card. Run the GitHub Action (Python) to fetch real headlines.",
-      "image": ""
-    }
-  ]
+  "items": []
 }
