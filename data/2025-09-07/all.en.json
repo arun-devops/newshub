@@ -1,0 +1,1207 @@
+{
+  "date": "2025-09-07",
+  "section": "all",
+  "lang": "en",
+  "items": [
+    {
+      "title": "BBC News app",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
+      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+    },
+    {
+      "title": "ElevenLabs now lets authors create and publish audiobooks on its own platform",
+      "url": "https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/",
+      "source": "Ivan Mehta",
+      "published": "Wed, 26 Feb 2025 03:45:45 +0000",
+      "summary": "Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company confirmed. The announcement comes days after the company partnered with Spotify for AI-narrated audiobooks. ElevenLabs, which raised a $180 million mega-ro",
+      "image": ""
+    },
+    {
+      "title": "Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation",
+      "url": "https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/",
+      "source": "Lorenzo Franceschi-Bicchierai, Rebecca Bellan",
+      "published": "Wed, 20 Aug 2025 16:00:00 +0000",
+      "summary": "After developing a facial-recognition app for Meta’s Ray-Ban glasses and doxing random people, two former Harvard students are now launching a startup that makes smart glasses with an always-on microphone.",
+      "image": ""
+    },
+    {
+      "title": "Meta to add 100MW of solar power from US gear",
+      "url": "https://techcrunch.com/2025/08/20/meta-to-add-100-mw-of-solar-power-from-u-s-gear/",
+      "source": "Tim De Chant",
+      "published": "Wed, 20 Aug 2025 15:56:53 +0000",
+      "summary": "The social media company is adding another tranche of solar to power a new AI data center in South Carolina.",
+      "image": ""
+    },
+    {
+      "title": "Gridware’s boxes literally listen to power lines to find outages",
+      "url": "https://techcrunch.com/2025/01/08/gridwares-boxes-literally-listen-to-power-lines-to-find-outages/",
+      "source": "Tim De Chant",
+      "published": "Wed, 08 Jan 2025 19:00:00 +0000",
+      "summary": "Gridware's sensors listen for sounds that the company’s software has been trained to identify as different hazards to the grid.",
+      "image": ""
+    },
+    {
+      "title": "Obvio’s stop sign cameras use AI to root out unsafe drivers",
+      "url": "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/",
+      "source": "Sean O'Kane",
+      "published": "Wed, 04 Jun 2025 14:00:00 +0000",
+      "summary": "American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs -- a solution the founders also say won’t create a panopticon.",
+      "image": ""
+    },
+    {
+      "title": "Gridcare thinks more than 100 GW of data center capacity is hiding in the grid",
+      "url": "https://techcrunch.com/2025/05/27/gridcare-thinks-more-than-100-gw-of-data-center-capacity-is-hiding-in-the-grid/",
+      "source": "Tim De Chant",
+      "published": "Tue, 27 May 2025 12:00:00 +0000",
+      "summary": "Gridcare raised $13.3 million for its data platform that finds underutilized capacity on the electrical grid.",
+      "image": ""
+    },
+    {
+      "title": "How one AI startup is helping rice farmers battle climate change",
+      "url": "https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/",
+      "source": "Tim De Chant",
+      "published": "Tue, 26 Aug 2025 15:21:19 +0000",
+      "summary": "Mitti Labs is working with The Nature Conservancy to expand the use of climate-friendly rice farming practices in India. The startup uses its AI to verify reductions in methane emissions.",
+      "image": ""
+    },
+    {
+      "title": "Geothermal could power nearly all new data centers through 2030",
+      "url": "https://techcrunch.com/2025/03/11/geothermal-could-power-nearly-all-new-data-centers-through-2030/",
+      "source": "Tim De Chant",
+      "published": "Tue, 11 Mar 2025 17:43:52 +0000",
+      "summary": "Geothermal resources have enormous potential to provide the sort of consistent power that data centers crave.",
+      "image": ""
+    },
+    {
+      "title": "YouTube AI updates include auto dubbing expansion, age ID tech, and more",
+      "url": "https://techcrunch.com/2025/02/11/youtube-ai-updates-to-include-expansion-of-auto-dubbing-age-identifying-tech-and-more/",
+      "source": "Sarah Perez",
+      "published": "Tue, 11 Feb 2025 14:57:22 +0000",
+      "summary": "In his annual letter, YouTube CEO Neal Mohan dubbed AI one of the company&#8217;s four &#8220;big bets&#8221; for 2025. The executive pointed to the company&#8217;s investments in AI tools for creators, including ones for video ideas, thumbnails, and language translation. The latter feature will rol",
+      "image": ""
+    },
+    {
+      "title": "Who are climate-conscious consumers? Not who you’d expect, says Northwind Climate",
+      "url": "https://techcrunch.com/2025/04/01/who-are-climate-conscious-consumers-not-who-youd-expect-says-northwind-climate/",
+      "source": "Tim De Chant",
+      "published": "Tue, 01 Apr 2025 19:52:59 +0000",
+      "summary": "Rather than divide people into demographic buckets, Northwind Climate analyzes survey responses for behavioral clues.",
+      "image": ""
+    },
+    {
+      "title": "Meta adds another 650 MW of solar power to its AI push",
+      "url": "https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/",
+      "source": "Tim De Chant",
+      "published": "Thu, 22 May 2025 16:49:53 +0000",
+      "summary": "The company already has more than 12 gigawatts of capacity in its renewable power portfolio.",
+      "image": ""
+    },
+    {
+      "title": "Nvidia thinks AI can solve electrical grid problems caused by AI",
+      "url": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/",
+      "source": "Tim De Chant",
+      "published": "Thu, 20 Mar 2025 16:41:12 +0000",
+      "summary": "The Open Power AI Consortium says it will use domain-specific AI models to tackle problems in the power industry.",
+      "image": ""
+    },
+    {
+      "title": "Solar notches another win as Microsoft adds 475 MW to power its AI data centers",
+      "url": "https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/",
+      "source": "Tim De Chant",
+      "published": "Thu, 20 Mar 2025 14:57:11 +0000",
+      "summary": "The company recently signed a deal with energy provider AES for three solar projects across the Midwest.",
+      "image": ""
+    },
+    {
+      "title": "Data center tweaks could unlock 76 GW of new power capacity in the US",
+      "url": "https://techcrunch.com/2025/02/13/data-center-tweaks-could-unlock-76-gw-of-new-power-capacity-in-the-u-s/",
+      "source": "Tim De Chant",
+      "published": "Thu, 13 Feb 2025 14:00:00 +0000",
+      "summary": "A new study argues that data centers could be ideal demand-response participants because they have the potential to be flexible.",
+      "image": ""
+    },
+    {
+      "title": "The Global Story: The deal that broke Ukraine's trust",
+      "url": "https://www.bbc.co.uk/programmes/w3ct714l?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Thu, 04 Sep 2025 05:00:00 GMT",
+      "summary": "An exploration of the 1994 Budapest Memorandum, intended to enshrine Ukraine's security.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea8d/live/3880ea60-8a43-11f0-9cf6-cbf3e73ce2b9.jpg"
+    },
+    {
+      "title": "Data centers love solar: Here’s a comprehensive guide to deals over 100 megawatts",
+      "url": "https://techcrunch.com/2025/03/30/data-centers-love-solar-heres-a-comprehensive-guide-to-deals-over-100-megawatts/",
+      "source": "Tim De Chant",
+      "published": "Sun, 30 Mar 2025 14:00:00 +0000",
+      "summary": "New and expanded data centers are expected to double the sector’s power demand by 2029 as tech companies rush to capitalize on AI.",
+      "image": ""
+    },
+    {
+      "title": "Cloudburst hits Naugaon area in Uttarkashi; no loss of life so far",
+      "url": "https://www.thehindu.com/news/national/uttarakhand/cloudburst-hits-naugaon-area-in-uttarkashi/article70021650.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 07:04:17 +0530",
+      "summary": "The cloudburst occurred at Syori Phal Patti in Yamuna Valley in the evening, and sludge from a flooded stream rushed downwards, inflicting damage in low-lying areas",
+      "image": "https://th-i.thgim.com/public/incoming/39knje/article70021654.ece/alternates/LANDSCAPE_1200/PTI08_28_2025_000332B.jpg"
+    },
+    {
+      "title": "Caste census: Clamour emerges over how sub castes are classified",
+      "url": "https://www.thehindu.com/news/national/karnataka/caste-census-clamour-emerges-over-how-sub-castes-are-classified/article70017253.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 07:00:00 +0530",
+      "summary": "The listing of sub-castes in alphabetical order, rather than under each caste as one category, has riled many communities",
+      "image": "https://th-i.thgim.com/public/incoming/krc40h/article70020456.ece/alternates/LANDSCAPE_1200/2L9A0545.JPG"
+    },
+    {
+      "title": "Morning Digest: Probe into voter fraud in Aland hits a roadblock, ECI yet to share technical data; Sabalenka beats Anisimova to win second straight U.S. Open title, and more",
+      "url": "https://www.thehindu.com/news/morning-digest-september-7-2025/article70020597.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 06:54:43 +0530",
+      "summary": "Here is a select list of stories to start the day",
+      "image": "https://th-i.thgim.com/public/incoming/ogjq3a/article70020257.ece/alternates/LANDSCAPE_1200/PTI05_02_2025_000354A.jpg"
+    },
+    {
+      "title": "A private broom: Chennai’s conservancy woes",
+      "url": "https://www.thehindu.com/news/cities/chennai/a-private-broom-chennais-conservancy-woes/article70015110.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 06:30:00 +0530",
+      "summary": "For a few weeks now, conservancy workers in Chennai, who had to shift to private operators, have protested against the loss of income and chances of a permanent job. While this issue has sparked a critique of public-private partnership for core civic tasks, the problems of the workers remain unresol",
+      "image": "https://th-i.thgim.com/public/incoming/op2z4d/article70019725.ece/alternates/LANDSCAPE_1200/11_Sanitary%20Workers%20Protest%20.jpg"
+    },
+    {
+      "title": "Britain's Crown Prosecution Service inspects Tihar jail as India intensifies efforts to extradite fugitives",
+      "url": "https://www.thehindu.com/news/national/britains-crown-prosecution-service-inspects-tihar-jail-as-india-intensifies-efforts-to-extradite-fugitives/article70021355.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 05:41:57 +0530",
+      "summary": "According to information, the CPS team visited the high-security ward of Tihar and spoke with the prisoners there",
+      "image": "https://th-i.thgim.com/public/incoming/jcqd8c/article70021632.ece/alternates/LANDSCAPE_1200/2024-07-26T140113Z_899243339_RC2139AVCK57_RTRMADP_3_INDIA-REGULATOR-VIJAY-MALLYA.JPG"
+    },
+    {
+      "title": "Five persons booked for running mobile sex determination test unit in Tirupattur",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/five-persons-booked-for-running-mobile-sex-determination-test-unit-in-tirupattur/article70019616.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 05:30:00 +0530",
+      "summary": "All of them were booked under Medical Termination of Pregnancy (MTP) Act, 1971, by Kurusilapattu police in Tirupattur.",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/zesv0a/article70019787.ece/alternates/LANDSCAPE_1200/deter.jpeg"
+    },
+    {
+      "title": "Youth held for selling painkiller tablets in Vellore",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/youth-held-for-selling-painkiller-tablets-in-vellore/article70019599.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 05:30:00 +0530",
+      "summary": "Investigations revealed the suspect Vishwa was selling the tablets for youth and students in the area.",
+      "image": ""
+    },
+    {
+      "title": "Forest department initiates probe into fire in reserve forest atop Arunachala Hills",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/forest-department-initiates-probe-into-fire-in-reserve-forest-atop-arunachala-hills/article70019627.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 05:30:00 +0530",
+      "summary": "More than one acre of forest land was gutted in the incident. The hills are home to spotted deer, sloth bear, peacocks, monkeys and Indian gaur.",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/kgiyxp/article70019740.ece/alternates/LANDSCAPE_1200/fire-19.jpeg"
+    },
+    {
+      "title": "Arts and Science college in Vaniyambadi holds Graduation day",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/arts-and-science-college-in-vaniyambadi-holds-graduation-day/article70019608.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 05:30:00 +0530",
+      "summary": "The executive director of VIT highlighted the importance of women’s empowerment and cited women achievers as examples",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/x1e4j0/article70020531.ece/alternates/LANDSCAPE_1200/VIT-21.jpeg"
+    },
+    {
+      "title": "WBSSC to hold examination for teachers recruitment on September 7 amidst high security",
+      "url": "https://www.thehindu.com/news/cities/kolkata/wbssc-to-hold-examination-for-teachers-recruitment-on-september-7-amidst-high-security/article70020202.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 05:28:10 +0530",
+      "summary": "About 3.19 lakh candidates will take the exam tomorrow for appointment as teachers for class IX and class X in state-run schools. The recruitment on the last occasion in 2016 was riddled with irregularities and corruption",
+      "image": "https://th-i.thgim.com/public/incoming/q8dgis/article70021631.ece/alternates/LANDSCAPE_1200/80717_14_7_2025_18_56_52_1_140724SSCMARCHTONABANNA1.JPG"
+    },
+    {
+      "title": "Boko Haram militants kill 60 in attack in Nigeria's northeast",
+      "url": "https://www.thehindu.com/news/international/boko-haram-militants-kill-60-in-attack-in-nigerias-northeast/article70020738.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 03:44:08 +0530",
+      "summary": "The Bama local government area was the target of several Boko Haram attacks a decade ago, forcing many residents to flee",
+      "image": "https://th-i.thgim.com/public/incoming/tl9kpd/article70020741.ece/alternates/LANDSCAPE_1200/Nigeria-Airstrikes_99292.jpg"
+    },
+    {
+      "title": "Haryana government transfers 20 IAS officers, 1 HCS officer in major reshuffle",
+      "url": "https://www.thehindu.com/news/national/haryana/haryana-government-transfers-20-ias-officers-1-hcs-officer-in-major-reshuffle/article70020636.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 03:10:38 +0530",
+      "summary": "Munish Sharma, Deputy Commissioner, Charkhi Dadri, has been transferred and posted as Secretary, Haryana Board of School Education, Bhiwani, relieving Munish Nagpal of the charge",
+      "image": ""
+    },
+    {
+      "title": "Is a shift underway in India’s foreign policy? | Explained",
+      "url": "https://www.thehindu.com/news/national/is-a-shift-underway-in-indias-foreign-policy-explained/article70020387.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 02:43:00 +0530",
+      "summary": "How productive was the Shanghai Cooperation Organisation summit? Did a meeting between China, Russia and India at Tianjin signal a change in relations? Did U.S. moves on tariffs and sanctions prompt this? What are the leaders saying?",
+      "image": "https://th-i.thgim.com/public/incoming/d0g5vc/article70020443.ece/alternates/LANDSCAPE_1200/20250901058L.jpg"
+    },
+    {
+      "title": "Mumbai bids grand farewell to ‘Ganpati Bappa’ amid rains, bomb threat; over 18,000 idols immersed",
+      "url": "https://www.thehindu.com/news/cities/mumbai/mumbai-bids-grand-farewell-to-ganpati-bappa-amid-rains-bomb-threat-over-18000-idols-immersed/article70020631.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 02:36:44 +0530",
+      "summary": "According to the BMC, 18,186 Ganapati idols, 1,058 of ‘sarvajanik mandals’ (local community groups) and 258 of Goddess idols, were immersed in natural water bodies and artificial ponds created by the civic body till 9 p.m.",
+      "image": "https://th-i.thgim.com/public/incoming/vbrc4i/article70020632.ece/alternates/LANDSCAPE_1200/IMG_BESTPIX_-_Indians_Ce_2_1_88DBHV4I.jpg"
+    },
+    {
+      "title": "Thousands bid silent farewell to Giorgio Armani in Milan",
+      "url": "https://www.thehindu.com/news/international/thousands-bid-silent-farewell-to-giorgio-armani-in-milan/article70020626.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 02:07:00 +0530",
+      "summary": "Early visitors also included Milan Mayor Giuseppe Sala; the city will hold a day of public mourning on September 8",
+      "image": "https://th-i.thgim.com/public/incoming/8yrj34/article70020629.ece/alternates/LANDSCAPE_1200/Italy_Obit_Armani_25133.jpg"
+    },
+    {
+      "title": "Rajendra Arlekar | Saffron guard",
+      "url": "https://www.thehindu.com/news/national/kerala/rajendra-arlekar-saffron-guard/article70020566.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 01:55:00 +0530",
+      "summary": "The Kerala Governor, a former functionary of the BJP, faces criticism for ‘saffronising’ education and violating constitutional propriety",
+      "image": "https://th-i.thgim.com/public/news/national/fnz4rj/article70020567.ece/alternates/LANDSCAPE_1200/Rajendra_Arlekar.jpg"
+    },
+    {
+      "title": "Sabalenka keeps cool to retain US Open title",
+      "url": "https://www.bbc.com/sport/tennis/articles/c4gzpd3ln3wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 07 Sep 2025 01:44:47 GMT",
+      "summary": "World number one Aryna Sabalenka lands a first major of the year after seeing off home hope Amanda Anisimova to retain her US Open title.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8353/live/650d4860-8b71-11f0-8ec2-c7d37f298402.jpg"
+    },
+    {
+      "title": "Katchatheevu | A flashpoint in the Palk Strait",
+      "url": "https://www.thehindu.com/news/international/katchatheevu-a-flashpoint-in-the-palk-strait/article70020557.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 01:41:00 +0530",
+      "summary": "Half a century since New Delhi gave up its claim to the barren island and recognised Sri Lanka’s sovereignty over it, politicians in India periodically rake up the issue, triggering tensions in ties between the friendly countries",
+      "image": "https://th-i.thgim.com/public/news/national/4y64u1/article70020555.ece/alternates/LANDSCAPE_1200/Dissanayake.jpg"
+    },
+    {
+      "title": "BCCI adds ₹14,627 crore in five years, ₹4,193 crore in last financial year: Report",
+      "url": "https://www.thehindu.com/sport/cricket/bcci-adds-14627-crore-in-five-years-4193-crore-in-last-financial-year-report/article70020611.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 01:29:05 +0530",
+      "summary": "Aided by IPL earnings and ICC distributions, the BCCI posted a surplus of ₹1,623.08 crore for 2023-24, up from ₹1,167.99 crore in the previous year, according to the report",
+      "image": "https://th-i.thgim.com/public/incoming/dr4xj7/article70003533.ece/alternates/LANDSCAPE_1200/MDF92595.JPG"
+    },
+    {
+      "title": "We may never see PS2 classic The Lord of the Rings: The Two Towers on PC, but we got the next best thing in Forgotten Realms: Demon Stone",
+      "url": "https://www.pcgamer.com/games/action/we-may-never-see-ps2-classic-the-lord-of-the-rings-the-two-towers-on-pc-but-we-got-the-next-best-thing-in-forgotten-realms-demon-stone/",
+      "source": "Jody Macgregor",
+      "published": "Sun, 07 Sep 2025 01:14:37 +0000",
+      "summary": "I'm aware The Two Towers game was on Xbox and GBA as well, don't @ me.",
+      "image": "https://cdn.mos.cms.futurecdn.net/BV2gSV9GhRsAuXB5UamtiP-1280-80.jpg"
+    },
+    {
+      "title": "Maharashtra’s anganwadi centres find few takers for protein powder, premixed khichdi",
+      "url": "https://www.thehindu.com/news/cities/Delhi/maharashtras-anganwadi-centres-find-few-takers-for-protein-powder-premixed-khichdi/article70020299.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 01:09:47 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/yc52ws/article70020617.ece/alternates/LANDSCAPE_1200/Anganwadi2.jpg"
+    },
+    {
+      "title": "Delhi riots: Sharjeel Imam moves Supreme Court after High Court rejects bail plea",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-riots-sharjeel-imam-moves-sc-after-hc-rejects-bail-plea/article70020457.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 01:03:41 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/bkgmo2/article70020613.ece/alternates/LANDSCAPE_1200/IMG_TH_-__-_INDIA-CITIZE_2_1_T7CS12GB.jpg"
+    },
+    {
+      "title": "Relief eludes thousands in camps despite receding Yamuna levels",
+      "url": "https://www.thehindu.com/news/cities/Delhi/relief-eludes-thousands-in-camps-despite-receding-yamuna-levels/article70020415.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 01:02:45 +0530",
+      "summary": "Over 12,000 displaced residents struggle as sanitation and food distribution remain inadequate in relief camps; children miss classes as schools remain shut; reptiles displaced by floodwaters enter homes, offices, and metro stations, sparking fear",
+      "image": "https://th-i.thgim.com/public/incoming/4qtxo9/article70020608.ece/alternates/LANDSCAPE_1200/40_Yamuna_Flood_06_09_Delhi.jpg"
+    },
+    {
+      "title": "Cyber Crime Wing probes the involvement of Chinese network in cyber frauds through SIM Boxes",
+      "url": "https://www.thehindu.com/news/cities/chennai/cyber-crime-wing-probes-the-involvement-of-chinese-network-in-cyber-frauds-through-sim-boxes/article70019455.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 01:01:57 +0530",
+      "summary": "Cyber crime syndicates are setting up SIM box networks to bypass gateways put in place by telecom department and other service providers to reduce calls from foreign and spoofed local numbers; fraudsters are roping in local residents promising a ‘commission’",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/3mhthi/article70019920.ece/alternates/LANDSCAPE_1200/sim%20boxes.jpeg"
+    },
+    {
+      "title": "Forest watcher injured in wild elephant attack near Athirappilly",
+      "url": "https://www.thehindu.com/news/national/kerala/forest-watcher-injured-in-wild-elephant-attack-near-athirappilly/article70020550.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 01:00:27 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Man stabbed in bar",
+      "url": "https://www.thehindu.com/news/cities/kozhikode/man-stabbed-in-bar/article70020386.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 00:57:54 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "DUSU polls: HC seeks DU response on ₹1-lakh surety clause",
+      "url": "https://www.thehindu.com/news/cities/Delhi/dusu-polls-hc-seeks-du-response-on-1-lakh-surety-clause/article70020418.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 00:53:29 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Delhi CM announces 1200 units of free power for Ramlila events",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-cm-announces-1200-units-of-free-power-for-ramlila-events/article70020465.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 00:52:04 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/4icasf/article70020469.ece/alternates/LANDSCAPE_1200/20250906330L.jpg"
+    },
+    {
+      "title": "Delhi records 163 clean air days",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-records-163-clean-air-days/article70020434.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 00:48:02 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/v3zzel/article70020595.ece/alternates/LANDSCAPE_1200/AIR%20POLLUTION%20STANDALONE%20%20DELHI%202025_01_05_4.jpg"
+    },
+    {
+      "title": "Bengaluru court convicts woman for murdering 6-year-old nephew",
+      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-court-convicts-woman-for-murdering-6-year-old-nephew/article70019505.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 00:45:13 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Gold ornaments worth ₹1.5 crore stolen from Jain event held at Red Fort; accused at large",
+      "url": "https://www.thehindu.com/news/cities/Delhi/gold-ornaments-worth-15-crore-stolen-from-jain-event-held-at-red-fort-accused-at-large/article70020600.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 00:40:48 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "KL University ranked 26th nationally in NIRF rankings",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kl-university-ranked-26th-nationally-in-nirf-rankings/article70020076.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 00:37:08 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "CEITA urges Centre to reduce GST on electronics to protect domestic trade",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/ceita-urges-centre-to-reduce-gst-on-electronics-to-protect-domestic-trade/article70020232.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 00:30:50 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "T.N. Health Minister flags air travelers’ woes, seeks Airbus services on key routes",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-health-minister-flags-air-travelers-woes-seeks-airbus-services-on-key-routes/article70020350.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 00:24:05 +0530",
+      "summary": "Mr.Subramanian highlighted that, in recent times, passengers flying to Madurai from Chennai airport have been experiencing severe mental stress due to inadequate seating in shuttle buses",
+      "image": "https://th-i.thgim.com/public/incoming/lxpmuk/article70020589.ece/alternates/LANDSCAPE_1200/Subramanian10.jpg"
+    },
+    {
+      "title": "Reform UK's new faces seek to share spotlight with Farage",
+      "url": "https://www.bbc.com/news/articles/cgl1k744548o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 07 Sep 2025 00:15:41 GMT",
+      "summary": "The party is keen to get away from the idea that it is a one-man-band, focused too much on its leader Nigel Farage.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da7/live/e23e46d0-8b1d-11f0-b7cb-a948b12ba583.jpg"
+    },
+    {
+      "title": "Bengaluru road-rage: Man arrested for attempting to assault autorickshaw driver",
+      "url": "https://www.thehindu.com/news/national/karnataka/bengaluru-raod-rage-man-arrested-for-attempting-to-assault-autorickshaw-driver/article70020090.ece",
+      "source": "The Hindu",
+      "published": "Sun, 07 Sep 2025 00:14:19 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Market ructions and cabinet reshuffles will help shape Reeves' Budget",
+      "url": "https://www.bbc.com/news/articles/cqxzr0jdpngo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 07 Sep 2025 00:12:49 GMT",
+      "summary": "OBR spreadsheets, bond markets, and backbench unhappiness on cuts will all influence the chancellor's thinking.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d595/live/76d09e90-8a6c-11f0-8ba8-9d1af6a803b3.jpg"
+    },
+    {
+      "title": "'When I left the military I felt quite alone': Female veterans call for more support",
+      "url": "https://www.bbc.com/news/articles/c0kz66r601po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 07 Sep 2025 00:09:45 GMT",
+      "summary": "Dr Bex Bennett co-founded Sisters in Service, which has now recruited 160 members across the UK.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d7/live/30c92c00-874c-11f0-85bc-5324cab789cf.jpg"
+    },
+    {
+      "title": "One of the most sacred places in the world is being turned into a luxury mega-resort",
+      "url": "https://www.bbc.com/news/articles/c707kx2nk7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 06 Sep 2025 23:59:26 GMT",
+      "summary": "Luxury hotels, villas and bazaars are being built at the revered biblical site, which is home to Bedouins.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda7/live/e6f6ba70-88db-11f0-9cf6-cbf3e73ce2b9.jpg"
+    },
+    {
+      "title": "Inflatable tanks and flat-pack guns - inside Ukraine's decoy war",
+      "url": "https://www.bbc.com/news/articles/cr4e435x4kqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 06 Sep 2025 23:52:52 GMT",
+      "summary": "Both Russia and Ukraine are using blow up dolls and plastic decoys as tricks on the battlefield.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0584/live/c34175b0-8800-11f0-b391-6936825093bd.jpg"
+    },
+    {
+      "title": "Paradox refunds PlayStation Store preorders of Bloodlines 2 in preparation for 'adjustments' to its reviled $30 DLC to be revealed later this month",
+      "url": "https://www.pcgamer.com/games/rpg/paradox-refunds-playstation-store-preorders-of-bloodlines-2-in-preparation-for-adjustments-to-its-reviled-usd30-dlc-to-be-revealed-later-this-month/",
+      "source": "Stevie Bonifield",
+      "published": "Sat, 06 Sep 2025 23:43:52 +0000",
+      "summary": "Starting on Monday, Paradox will begin refunding pre-orders of the Premium Edition ahead of \"adjustments\" over DLC pricing",
+      "image": "https://cdn.mos.cms.futurecdn.net/ndbkvV5cCHAAtq34dzDSVD-1280-80.jpg"
+    },
+    {
+      "title": "Youth nabbed for stabbing girl",
+      "url": "https://www.thehindu.com/news/cities/chennai/youth-nabbed-for-stabbing-girl/article70018837.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:43:50 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Police Day celebrated in Tamil Nadu for the first time",
+      "url": "https://www.thehindu.com/news/cities/chennai/police-day-celebrated-in-tamil-nadu-for-the-first-time/article70019518.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:43:31 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Chennai Corporation completes 12 bridges in four years",
+      "url": "https://www.thehindu.com/news/cities/chennai/chennai-corporation-completes-12-bridges-in-four-years/article70019468.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:43:03 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Chennai is my best friend: Kanimozhi Karunanidhi",
+      "url": "https://www.thehindu.com/news/cities/chennai/chennai-is-my-best-friend-kanimozhi-karunanidhi/article70020070.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:42:56 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/y09ijb/article70020074.ece/alternates/LANDSCAPE_1200/Kanimozhi_1.jpg"
+    },
+    {
+      "title": "Chennai Mayor flags off improvement work on 22 waterbodies",
+      "url": "https://www.thehindu.com/news/cities/chennai/chennai-mayor-flags-off-improvement-work-on-22-waterbodies/article70019867.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:42:45 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Entries open Tamil feature film competition",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/entries-open-tamil-feature-film-competition/article70020377.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:42:37 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Residents complain about sinking manholes that pose a hazard to motorists along GCC roads",
+      "url": "https://www.thehindu.com/news/cities/chennai/residents-complain-about-sinking-manholes-that-pose-a-hazard-to-motorists-along-gcc-roads/article70020097.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:42:22 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/news/cities/chennai/8498p0/article70020446.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-06%20at%2020.38.49.jpeg"
+    },
+    {
+      "title": "Sankara Nethralaya holds ‘Walk for Vision 2025’ to mark national eye donation day",
+      "url": "https://www.thehindu.com/news/cities/chennai/sankara-nethralaya-holds-walk-for-vision-2025-to-mark-national-eye-donation-day/article70018964.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:42:07 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/news/cities/chennai/in8w5i/article70018961.ece/alternates/LANDSCAPE_1200/Sankara%20Nethralaya.jpeg"
+    },
+    {
+      "title": "Police Commissioner inaugurates guidance programme",
+      "url": "https://www.thehindu.com/news/cities/chennai/police-commissioner-inaugurates-guidance-programme/article70019674.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:41:55 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/news/cities/chennai/x5thts/article70020065.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-06%20at%2019.31.54.jpeg"
+    },
+    {
+      "title": "‘Mavelicuz 2025’ to draw to a close in Kozhikode",
+      "url": "https://www.thehindu.com/news/national/kerala/mavelicuz-2025-to-draw-to-a-close-in-kozhikode/article70020094.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:39:11 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Carlo Acutis: From a baptism in London to the first millennial saint",
+      "url": "https://www.bbc.com/news/articles/c5yg5me8dvlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 06 Sep 2025 23:35:58 GMT",
+      "summary": "Before his death at 15, Carlo Acutis was known for his love of technology and had created a website to document miracles.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de0e/live/bc1429a0-8b83-11f0-9ded-07f8df19ee37.png"
+    },
+    {
+      "title": "Opposition parties criticise DMK government for deterioration of law and order situation in T.N.",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/opposition-parties-criticise-dmk-government-for-deterioration-of-law-and-order-situation-in-tn/article70019434.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:32:45 +0530",
+      "summary": "AIADMK general secretary Edappadi K. Palaniswami says the Chief Minister M.K. Stalin-led government has failed to maintain law and order and DMK functionaries being involved in criminal activities has become a regular occurrence",
+      "image": "https://th-i.thgim.com/public/incoming/zdua0s/article70020546.ece/alternates/LANDSCAPE_1200/moopanar4_30.jpg"
+    },
+    {
+      "title": "Anna Wintour was Vogue. Now she's gone, can the magazine stay relevant?",
+      "url": "https://www.bbc.com/news/articles/c04q91q3zvpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 06 Sep 2025 23:32:14 GMT",
+      "summary": "She made a name for herself as someone who understood the zeitgeist. But her successor Chloe Malle faces an uphill battle.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f400/live/74ed1280-8a61-11f0-b391-6936825093bd.jpg"
+    },
+    {
+      "title": "Tamil Nadu government introduces overseas scholarship for Muslim students",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-introduces-overseas-scholarship-for-muslim-students/article70019372.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:28:17 +0530",
+      "summary": "The scholarship will assist their higher studies if they are admitted to institutions ranked within the top 250 in the Global QS rankings",
+      "image": ""
+    },
+    {
+      "title": "Election Commission risks losing credibility, warns SC advocate Sanjay Hegde",
+      "url": "https://www.thehindu.com/news/national/karnataka/election-commission-risks-losing-credibility-warns-sc-advocate-sanjay-hegde/article70020292.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:27:03 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/mp4onl/article70020538.ece/alternates/LANDSCAPE_1200/DSC_2389.JPG"
+    },
+    {
+      "title": "Charity visit on the cards as Harry returns to UK",
+      "url": "https://www.bbc.com/news/articles/cz9jpdq1k04o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 06 Sep 2025 23:25:15 GMT",
+      "summary": "It is one of several engagements for the Duke of Sussex during his visit to the UK this week.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec8/live/98b24380-8b41-11f0-9cf6-cbf3e73ce2b9.jpg"
+    },
+    {
+      "title": "Probe begins into rally with Palestine’s national flag in Kakinada",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/probe-begins-into-rally-with-palestines-national-flag-in-kakinada/article70020439.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:24:20 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Police constable arrested on rape charges",
+      "url": "https://www.thehindu.com/news/national/karnataka/police-constable-arrested-on-rape-charges/article70019268.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 23:17:28 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Rights reform to 'head off Farage' and 'EastEnders Jamie axed'",
+      "url": "https://www.bbc.com/news/articles/c8rvlxrv2jyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 06 Sep 2025 23:03:56 GMT",
+      "summary": "The fallout from Angela Rayner's resignation and the axing of EastEnders star Jamie Borthwick lead Sunday's papers.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e139/live/b9fc52b0-8b6e-11f0-84c8-99de564f0440.jpg"
+    },
+    {
+      "title": "How will the EU's new border system work?",
+      "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 06 Sep 2025 23:03:13 GMT",
+      "summary": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eea5/live/1c47a510-89a2-11f0-9a26-53a7b49d8dfd.png"
+    },
+    {
+      "title": "HC grants bail to three persons accused in Madurai property tax scam",
+      "url": "https://www.thehindu.com/news/cities/Madurai/hc-grants-bail-to-three-persons-accused-in-madurai-property-tax-scam/article70020483.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:59:34 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "J&K parties seek removal of Waqf chairperson Darakshan Andrabi over ‘National Emblem plaque’ row",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-parties-seek-removal-of-waqf-chairperson-darakshan-andrabi-over-national-emblem-plaque-row/article70020027.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:54:17 +0530",
+      "summary": "Chairperson placing a plaque with the National Emblem at the shrine sparks protests; BJP, Shiv Sena demand action against those who vandalised plaque",
+      "image": "https://th-i.thgim.com/public/news/national/3q4rwq/article70020477.ece/alternates/LANDSCAPE_1200/PTI09_05_2025_000312A.jpg"
+    },
+    {
+      "title": "AIMIM to support Justice Sudershan Reddy as VP candidate",
+      "url": "https://www.thehindu.com/news/national/telangana/aimim-to-support-justice-sudershan-reddy-as-vp-candidate/article70020445.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:49:35 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "‘Seven years after decriminalisation of homosexuality, little has changed’",
+      "url": "https://www.thehindu.com/news/cities/bangalore/seven-years-after-decriminalisation-of-homosexuality-little-has-changed/article70020374.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:48:24 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Dharmasthala case: Complainant remanded in judicial custody for 14 days, taken to Shivamogga jail",
+      "url": "https://www.thehindu.com/news/cities/Mangalore/dharmasthala-case-complainant-remanded-in-judicial-custody-for-14-days-taken-to-shivamogga-jail/article70020309.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:47:37 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/sk1lf/article70020476.ece/alternates/LANDSCAPE_1200/DSC_2572.jpg"
+    },
+    {
+      "title": "Kavitha vows to continue fight for 42% quota; BC leaders join Telangana Jagruthi",
+      "url": "https://www.thehindu.com/news/national/telangana/kavitha-vows-to-continue-fight-for-42-quota-bc-leaders-join-telangana-jagruthi/article70020422.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:47:29 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Parts of Thiruvengadam Street in disarray",
+      "url": "https://www.thehindu.com/news/cities/chennai/parts-of-thiruvengadam-street-in-disarray/article70020433.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:36:05 +0530",
+      "summary": "Half of the road has been rendered unmotorable, and during rush hour, the traffic is a deluge seeking to escape through a narrow nozzle",
+      "image": "https://th-i.thgim.com/public/incoming/7n71nj/article70020437.ece/alternates/LANDSCAPE_1200/07dc%20Thiruvengadam%20Street%202.JPG"
+    },
+    {
+      "title": "Science-based problem-solving should take an inclusive approach, says academic",
+      "url": "https://www.thehindu.com/news/national/karnataka/science-based-problem-solving-should-take-an-inclusive-approach-says-academic/article70020286.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:34:37 +0530",
+      "summary": "Given the lack of adequate scientists and doctors across the globe, he points out that the role of community health workers was paramount and their access to right set of tools critical",
+      "image": "https://th-i.thgim.com/public/incoming/xsqfmi/article70020425.ece/alternates/LANDSCAPE_1200/DSC_2464.JPG"
+    },
+    {
+      "title": "A teacher and road safety campaigner rolled into one",
+      "url": "https://www.thehindu.com/news/cities/a-teacher-and-road-safety-campaigner-rolled-into-one/article70020413.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:30:15 +0530",
+      "summary": "On September 5, S. Mala, a Velachery resident and a teacher with Children’s Garden Higher Secondary School in Mylapore, received Vidhya Seva Samman Award for her work in the classroom growing lives and on the road saving them",
+      "image": "https://th-i.thgim.com/public/incoming/m10j4x/article70020419.ece/alternates/LANDSCAPE_1200/07dcmypr_mala2.jpg"
+    },
+    {
+      "title": "Man found dead with head injury in Perumbavoor",
+      "url": "https://www.thehindu.com/news/national/kerala/man-found-dead-with-head-injury-in-perumbavoor/article70020069.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:30:09 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Dinner gatherings at PM, BJP chief’s residences cancelled over floods in Punjab and other regions",
+      "url": "https://www.thehindu.com/news/national/dinner-gatherings-at-pm-bjp-chiefs-residences-cancelled-over-floods-in-punjab-and-other-regions/article70020128.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:29:57 +0530",
+      "summary": "While Friday brought some respite from the relentless rain, several northern Indian States grapple with the destruction left behind by the monsoon in the most affected areas",
+      "image": "https://th-i.thgim.com/public/incoming/rlu7e7/article70020423.ece/alternates/LANDSCAPE_1200/PTI09_06_2025_000144B.jpg"
+    },
+    {
+      "title": "Supreme Court panel on students’ mental health gets State Nodal Officers; over 1 lakh survey responses received",
+      "url": "https://www.thehindu.com/news/national/supreme-court-panel-on-students-mental-health-gets-state-nodal-officers-over-1-lakh-survey-responses-received/article70019992.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:29:18 +0530",
+      "summary": "The 12-member National Task Force was formed after parents of students who had died by suicide in higher education campuses had sought relief from the Supreme Court",
+      "image": "https://th-i.thgim.com/public/incoming/4lhgzy/article69577810.ece/alternates/LANDSCAPE_1200/PTI05_05_2025_000098A.jpg"
+    },
+    {
+      "title": "SHRC begins inquiry against police for illegal detention of woman, three children",
+      "url": "https://www.thehindu.com/news/national/karnataka/shrc-begins-inquiry-against-police-for-illegal-detention-of-woman-three-children/article70008731.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:26:11 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Dickson denies Bears to steer Somerset to Finals Day",
+      "url": "https://www.bbc.com/sport/cricket/articles/ced50qdd205o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 06 Sep 2025 22:23:51 GMT",
+      "summary": "Sean Dickson hits two sixes and a four to lead Somerset to a final-over victory over Bears to qualify for T20 Blast Finals Day.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79b5/live/e7136830-8b62-11f0-88ed-05f699bf7f27.jpg"
+    },
+    {
+      "title": "Commissioners of corporations lead cleaniness operations, encroachment clearance across Bengaluru",
+      "url": "https://www.thehindu.com/news/national/karnataka/commissioners-of-corporations-lead-cleaniness-operations-encroachment-clearance-across-bengaluru/article70020122.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:18:51 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Ripon Building, Chennai Central find ‘new addresses’",
+      "url": "https://www.thehindu.com/news/cities/chennai/ripon-building-chennai-central-find-new-addresses/article70020361.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:17:07 +0530",
+      "summary": "Each of the 15 zones within GCC limits can decide on the designs for the view cutters to be installed around power transformers, say officials",
+      "image": "https://th-i.thgim.com/public/incoming/p9hrlu/article70020395.ece/alternates/LANDSCAPE_1200/07dc%20Chennai%20central%20on%20Kutchety%20Road%20.JPG"
+    },
+    {
+      "title": "Karnataka’s fertility rate declines further to 1.5, well below replacement level",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnatakas-fertility-rate-declines-further-to-15-well-below-replacement-level/article70020113.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:16:12 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/wcow74/article70020402.ece/alternates/LANDSCAPE_1200/IMG_01population.jpg_2_1_FDA9J10S.jpg"
+    },
+    {
+      "title": "Declining budget for MGNREGS means reduced income for women in rural India, say activists",
+      "url": "https://www.thehindu.com/news/national/declining-budget-for-mgnregs-means-reduced-income-for-women-in-rural-india-say-activists/article70020246.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:14:54 +0530",
+      "summary": "Given the Finance Ministry’s directive capping the expenditure in the first two quarters at 60% of the total available budget, the Centre has only ₹79 crore under the programme for the month of September",
+      "image": "https://th-i.thgim.com/public/incoming/mdby8f/article70020397.ece/alternates/LANDSCAPE_1200/10258_29_3_2025_19_31_25_5_NREGA_5.JPG"
+    },
+    {
+      "title": "A thorough probe will be launched into irregularities, scams reported in Corporations, says Edappadi K. Palaniswami",
+      "url": "https://www.thehindu.com/news/cities/Madurai/a-thorough-probe-will-be-launched-into-irregularities-scams-reported-in-corporations-says-edappadi-k-palaniswami/article70020388.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:14:41 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/d1s5z7/article70020399.ece/alternates/LANDSCAPE_1200/10216_6_9_2025_18_59_17_1_06_09_2015_EPS_NATHAM_1.JPG"
+    },
+    {
+      "title": "Pugazhendhi criticises EPS for removing Sengottaiyan from party posts",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/pugazhendhi-criticises-eps-for-removing-sengottaiyan-from-party-posts/article70020195.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:12:26 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/hp2y49/article70020358.ece/alternates/LANDSCAPE_1200/9870_6_9_2025_20_9_22_1_IMG_20250906_WA0142.JPG"
+    },
+    {
+      "title": "Shortage of laterite stones: BJP to stage dharna in Mangaluru on Sept. 16",
+      "url": "https://www.thehindu.com/news/cities/Mangalore/shortage-of-laterite-stones-bjp-to-stage-dharna-in-mangaluru-on-sept-16/article70020326.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:07:12 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Duty to Constitution lies with every lawyer, not just people in power corridors, says Justice Nagarathna",
+      "url": "https://www.thehindu.com/news/national/duty-to-constitution-lies-with-every-lawyer-not-just-people-in-power-corridors-says-justice-nagarathna/article70020226.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:05:52 +0530",
+      "summary": "In a convocation address, the senior apex court judge exhorted law graduates to use their knowledge and skills to build inclusive institutions and promote systemic equity, becoming ‘true custodians of the rule of law’",
+      "image": "https://th-i.thgim.com/public/incoming/fhvi6/article70020349.ece/alternates/LANDSCAPE_1200/B%20V%20Nagaratna_03.jpg"
+    },
+    {
+      "title": "West Bengal Minister surrenders before court, gets bail in teacher recruitment case",
+      "url": "https://www.thehindu.com/news/cities/kolkata/west-bengal-minister-surrenders-before-court-gets-bail-in-teacher-recruitment-case/article70019812.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 22:04:17 +0530",
+      "summary": "Chandranath Sinha is the second Minister in the Cabinet to be booked in the recruitment scam",
+      "image": "https://th-i.thgim.com/public/incoming/6bs2i8/article70020384.ece/alternates/LANDSCAPE_1200/PTI09_06_2025_000188B.jpg"
+    },
+    {
+      "title": "Nainar Nagendran did not handle alliance efficiently, says Dhinakaran",
+      "url": "https://www.thehindu.com/news/cities/Madurai/nainar-nagendran-did-not-handle-alliance-efficiently-says-dhinakaran/article70020258.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:56:49 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Ganesh immersion in Hyderabad continues peacefully",
+      "url": "https://www.thehindu.com/news/national/telangana/ganesh-immersion-in-hyderabad-continues-peacefully/article70020325.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:52:50 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/news/national/telangana/rxqr2w/article70020313.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-06%20at%2019.11.43_d72e611c.jpg"
+    },
+    {
+      "title": "Attempt at self-harm averted with timely intervention",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/attempt-at-self-harm-averted-with-timely-intervention/article70020344.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:51:27 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/lit7np/article70020336.ece/alternates/LANDSCAPE_1200/1000196638.jpg"
+    },
+    {
+      "title": "Minister launches 27 projects worth ₹41 crore in Ramanathapuram",
+      "url": "https://www.thehindu.com/news/cities/Madurai/minister-launches-27-projects-worth-41-crore-in-ramanathapuram/article70020288.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:48:27 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/k80290/article70020353.ece/alternates/LANDSCAPE_1200/10217_6_9_2025_20_34_10_2_DSC_7873.JPG"
+    },
+    {
+      "title": "Process has become punishment in criminal justice delivery: ex-CJI N.V. Ramana",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/process-has-become-punishment-in-criminal-justice-delivery-ex-cji-nv-ramana/article70020077.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:45:22 +0530",
+      "summary": "At Lexposium 2025, organised by the SRM School of Law in association with The Hindu, the retired judge listed several factors that erode public trust on the judiciary, including pendency of cases and high costs of litigation",
+      "image": "https://th-i.thgim.com/public/incoming/oxkdb4/article70020250.ece/alternates/LANDSCAPE_1200/2501_6_9_2025_12_6_59_1_DSC_8120.JPEG"
+    },
+    {
+      "title": "Youth hacked to death in Manamadurai",
+      "url": "https://www.thehindu.com/news/cities/Madurai/youth-hacked-to-death-in-manamadurai/article70020317.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:43:08 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Dozens detained at Serbia anti-government rally: Minister",
+      "url": "https://www.thehindu.com/news/international/dozens-detained-at-serbia-anti-government-rally-minister/article70020339.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:41:20 +0530",
+      "summary": "Several thousand people rallied in Novi Sad late Friday seeking early elections in the latest in a series of student-led protests across Serbia sparked by the fatal collapse of the northern city's train station roof last November",
+      "image": "https://th-i.thgim.com/public/incoming/1yqq07/article70020346.ece/alternates/LANDSCAPE_1200/APTOPIX_Serbia_Protest_27784.jpg"
+    },
+    {
+      "title": "Remarks linking Dharmasthala: T.N. MP files defamation case against Karnataka BJP MLA",
+      "url": "https://www.thehindu.com/news/national/karnataka/remarks-linking-dharmasthala-tn-mp-files-defamation-case-against-karnataka-bjp-mla/article70020041.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:38:21 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/rci46i/article70020334.ece/alternates/LANDSCAPE_1200/Shashikumar%20SenthilA.JPG"
+    },
+    {
+      "title": "Hungary police ban Pride parade amid LGBTQ crackdown",
+      "url": "https://www.thehindu.com/news/international/hungary-police-ban-pride-parade-amid-lgbtq-crackdown/article70020321.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:36:32 +0530",
+      "summary": "They justified the move by citing amendments to laws and the constitution this year that make it illegal to hold an Assembly promoting homosexuality",
+      "image": "https://th-i.thgim.com/public/incoming/qzs6gm/article70020328.ece/alternates/LANDSCAPE_1200/2025-07-24T121146Z_535809538_RC2QBFAM2X1N_RTRMADP_3_HUNGARY-POLITICS-MAYOR.JPG"
+    },
+    {
+      "title": "Reform criticised over doctor's Covid jab claims at conference",
+      "url": "https://www.bbc.com/news/articles/c62z4rd87nlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 06 Sep 2025 21:34:55 GMT",
+      "summary": "A speaker at the Reform UK conference claimed it was \"highly likely\" that the jab was linked to the King and Princess of Wales' cancers.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc7d/live/8364aa70-8b5c-11f0-9777-59015d8a56ef.jpg"
+    },
+    {
+      "title": "Hollow Knight: Silksong sinks to 'Mixed' Steam review status among Chinese gamers over its bafflingly bad translation, with Team Cherry promising to improve it",
+      "url": "https://www.pcgamer.com/games/action/hollow-knight-silksong-sinks-to-mixed-steam-review-status-among-chinese-gamers-over-its-bafflingly-bad-translation-with-team-cherry-promising-to-improve-it/",
+      "source": "Ted Litchfield",
+      "published": "Sat, 06 Sep 2025 21:30:29 +0000",
+      "summary": "The extent of the issues makes it sound like a tall order.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ThYcoVdoxVUpSu6DUNwyQB-1280-80.png"
+    },
+    {
+      "title": "MSMEs in Coimbatore demand reduction in GST",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/msmes-in-coimbatore-demand-reduction-in-gst/article70020214.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:30:16 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/lccdpt/article70020318.ece/alternates/LANDSCAPE_1200/Micro%20industries%2010.jpg"
+    },
+    {
+      "title": "Man booked for inflammatory post on cattle theft",
+      "url": "https://www.thehindu.com/news/cities/Mangalore/man-booked-for-inflammatory-post-on-cattle-theft/article70020049.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:22:13 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "China criticises Australia, Canada warships in Taiwan Strait",
+      "url": "https://www.thehindu.com/news/international/china-criticises-australia-canada-warships-in-taiwan-strait/article70020102.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:22:05 +0530",
+      "summary": "(Chinese) troops remain on high alert at all times, resolutely safeguarding national sovereignty and security and regional peace and stability, says Senior Colonel Shi Yi",
+      "image": ""
+    },
+    {
+      "title": "Raw material exhibition in Coimbatore from September 11 to 13",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/raw-material-exhibition-in-coimbatore-from-september-11-to-13/article70020130.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:18:46 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Venezuela's Maduro urges dialogue after Trump threat",
+      "url": "https://www.thehindu.com/news/international/venezuelas-maduro-urges-dialogue-after-trump-threat/article70019825.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:14:41 +0530",
+      "summary": "Tensions between the two countries soared in recent days after the Pentagon accused Venezuela of buzzing its ships in the Caribbean following a deadly U.S. strike on an alleged Venezuelan drug boat",
+      "image": "https://th-i.thgim.com/public/incoming/lcehbf/article70020282.ece/alternates/LANDSCAPE_1200/2025-08-28T171621Z_5182278_RC2ZVFAQXEPI_RTRMADP_3_USA-MILITARY-CARIBBEAN-VENEZUELA.JPG"
+    },
+    {
+      "title": "Police officers involved in Kunnamkulam custodial torture suspended",
+      "url": "https://www.thehindu.com/news/national/kerala/police-officers-involved-in-kunnamkulam-custodial-torture-suspended/article70020134.ece",
+      "source": "The Hindu",
+      "published": "Sat, 06 Sep 2025 21:13:16 +0530",
+      "summary": "Police surveillance camera footage of the torture, procured through an uphill RTI litigation by the victim, a Youth Congress leader, had led to public outrage. Congress workers march to the residences of the suspended officers",
+      "image": ""
+    },
+    {
+      "title": "Anthropic agrees to pay $1.5 billion to authors whose work trained AI in priciest copyright settlement in U.S. history",
+      "url": "https://www.pcgamer.com/software/ai/anthropic-agrees-to-pay-usd1-5-billion-to-authors-whose-work-trained-ai-in-priciest-copyright-settlement-in-u-s-history/",
+      "source": "Stevie Bonifield",
+      "published": "Sat, 06 Sep 2025 21:00:58 +0000",
+      "summary": "Anthropic agreed to pay 500,000 authors $3,000 each for copyright infringement.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Vmhmhycwkn6YrhJ8EMDcK3-1280-80.png"
+    },
+    {
+      "title": "Final Fantasy Tactics remake director reveals the NES game he can’t put down",
+      "url": "https://www.polygon.com/final-fantasy-tactics-remake-director-favorite-nes-game-chip-dale/",
+      "source": "Jen Glennon",
+      "published": "Sat, 06 Sep 2025 20:00:16 GMT",
+      "summary": "Final Fantasy Tactics remake director Kazutoyo Maehiro loves a truly deep-cut NES game starring a '90s Disney duo.",
+      "image": ""
+    },
+    {
+      "title": "Life is Strange is finally getting the streaming TV show treatment a decade after it came out",
+      "url": "https://www.pcgamer.com/movies-tv/life-is-strange-is-finally-getting-the-streaming-tv-show-treatment-a-decade-after-it-came-out/",
+      "source": "Stevie Bonifield",
+      "published": "Sat, 06 Sep 2025 18:50:45 +0000",
+      "summary": "Amazon has officially greenlit a Life is Strange TV series for Prime Video.",
+      "image": "https://cdn.mos.cms.futurecdn.net/S4vEztpuHEtbnV4AA6rAxW-1280-80.jpg"
+    },
+    {
+      "title": "I almost lost a D&D player by forgetting a fundamental Dungeon Master rule",
+      "url": "https://www.polygon.com/dungeons-dragons-dnd-master-important-rule-player-agency/",
+      "source": "Francesco Cacciatore",
+      "published": "Sat, 06 Sep 2025 18:00:15 GMT",
+      "summary": "As a Dungeon Master, sometimes you'll have to take stuff away from your players. How do you handle something that could shatter your DnD group?",
+      "image": ""
+    },
+    {
+      "title": "Alien: Earth’s Morrow is a ‘Ronin’ cyborg with a ‘Zen state of dark enlightenment’",
+      "url": "https://www.polygon.com/alien-earths-best-character-is-sort-of-ronin-cyborg-with-a-zen-state-of-dark-enlightenment/",
+      "source": "Jake Kleinman",
+      "published": "Sat, 06 Sep 2025 17:00:16 GMT",
+      "summary": "Actor Babou Ceesay peels back the layers of his enigmatic alien hunter Morrow and the meaning behind Alien: Earth's most cryptic scene",
+      "image": ""
+    },
+    {
+      "title": "I'm mourning the Dragon Age game I missed my opportunity to play",
+      "url": "https://www.pcgamer.com/games/dragon-age/im-mourning-the-dragon-age-game-i-missed-my-opportunity-to-play/",
+      "source": "Jeremy Peel",
+      "published": "Sat, 06 Sep 2025 17:00:00 +0000",
+      "summary": "Dragon Age: The Last Court featured some of the series' very best writing. Or so I'm led to believe.",
+      "image": "https://cdn.mos.cms.futurecdn.net/k9kFYq4p5KWHqiS6Ej2LvZ-1280-80.jpg"
+    },
+    {
+      "title": "Han Solo is finally getting his 'Old Man Logan' moment",
+      "url": "https://www.polygon.com/star-wars-han-solo-hunt-for-the-falcon-comic-review/",
+      "source": "Aimee Hart",
+      "published": "Sat, 06 Sep 2025 16:00:16 GMT",
+      "summary": "Han Solo returns for yet another adventure with Star Wars: Han Solo - Hunt for the Falcon, a comic book miniseries from writer Rodney Barnes.",
+      "image": ""
+    },
+    {
+      "title": "The Sims 4's new Love Island DLC is giving me cold feet",
+      "url": "https://www.polygon.com/sims-4-adventure-awaits-love-island/",
+      "source": "Claire Lewis",
+      "published": "Sat, 06 Sep 2025 15:00:15 GMT",
+      "summary": "The Sims 4 Adventure Awaits expansion pack promises reality TV-style competitions. I just hope they actually work.",
+      "image": ""
+    },
+    {
+      "title": "Tenet released 5 years ago, and it's only gotten better with age",
+      "url": "https://www.polygon.com/tenet-christopher-nolan-five-year-anniversary-review/",
+      "source": "Austin Manchester",
+      "published": "Sat, 06 Sep 2025 15:00:15 GMT",
+      "summary": "Tenet shows that even a Christopher Nolan slight misfire is still a gripping watch, and it's even better the second time around.",
+      "image": ""
+    },
+    {
+      "title": "I spoke to FF14's 'Solo Only', who spent 85 days beating a single raid boss on his own, and I was wrong—that old MMO magic is still alive and well",
+      "url": "https://www.pcgamer.com/games/mmo/i-spoke-to-ff14s-solo-only-who-spent-85-days-beating-a-single-raid-boss-on-his-own-and-i-was-wrong-that-old-mmo-magic-is-still-alive-and-well/",
+      "source": "Harvey Randall",
+      "published": "Sat, 06 Sep 2025 15:00:00 +0000",
+      "summary": "A genre reborn.",
+      "image": "https://cdn.mos.cms.futurecdn.net/vj6g9J2xgK5YTNh6dPrv3e-1280-80.png"
+    },
+    {
+      "title": "Can you identify these videogame factions from just one screenshot? Grind some rep with our latest quiz",
+      "url": "https://www.pcgamer.com/games/can-you-identify-these-videogame-factions-from-just-one-screenshot-grind-some-rep-with-our-latest-quiz/",
+      "source": "Robin Valentine",
+      "published": "Sat, 06 Sep 2025 14:00:00 +0000",
+      "summary": "From gangs to armies to secret societies.",
+      "image": "https://cdn.mos.cms.futurecdn.net/E3XmaN2nVt3GhH6wQwrgVK-1280-80.jpg"
+    },
+    {
+      "title": "This Australian puzzler that took seven years to make is basically Myst with endearingly naff FMVs and music composed by a 10-year-old",
+      "url": "https://www.pcgamer.com/games/puzzle/this-australian-puzzler-that-took-seven-years-to-make-is-basically-myst-with-endearingly-naff-fmvs-and-music-composed-by-a-10-year-old/",
+      "source": "Rick Lane",
+      "published": "Sat, 06 Sep 2025 14:00:00 +0000",
+      "summary": "Neyyah is available now.",
+      "image": "https://cdn.mos.cms.futurecdn.net/6vfRtbsyXBtvwrSVviw3WD-1280-80.jpg"
+    },
+    {
+      "title": "Even Hollow Knight fans are surprised at how punishing Silksong is",
+      "url": "https://www.polygon.com/silksong-difficulty-challenge-hollow-knight-easy-mode-hornet/",
+      "source": "Patricia Hernandez",
+      "published": "Sat, 06 Sep 2025 13:00:16 GMT",
+      "summary": "Silksong is a difficult game, even according to seasoned Hollow Knight players. We analyze why.",
+      "image": ""
+    },
+    {
+      "title": "Stellaris' Shadows of the Shroud DLC will make communing with cosmic entities more rewarding later this month",
+      "url": "https://www.pcgamer.com/games/strategy/stellaris-shadows-of-the-shroud-dlc-will-make-communing-with-cosmic-entities-more-rewarding-later-this-month/",
+      "source": "Rick Lane",
+      "published": "Sat, 06 Sep 2025 13:00:00 +0000",
+      "summary": "Prepare for a psionic overhaul on September 22.",
+      "image": "https://cdn.mos.cms.futurecdn.net/E6J2kxQsR9xYKdr8LboyvQ-1280-80.jpg"
+    },
+    {
+      "title": "Bring back the strangest Disney cartoon of 1996",
+      "url": "https://www.polygon.com/mighty-ducks-animated-series-1996-first-face-off/",
+      "source": "Isaac Rouse",
+      "published": "Sat, 06 Sep 2025 12:00:16 GMT",
+      "summary": "Before reboots ruled, The Mighty Ducks cartoon mashed hockey, superheroes, and sci-fi into a ’90s mix that still feels ahead of its time",
+      "image": ""
+    },
+    {
+      "title": "Command & Conquer successor Tempest Rising gets a big new update next week, adding massive 3v3 multiplayer matches and active pause to singleplayer",
+      "url": "https://www.pcgamer.com/games/rts/command-and-conquer-successor-tempest-rising-gets-a-big-new-update-next-week-adding-massive-3v3-multiplayer-matches-and-active-pause-to-singleplayer/",
+      "source": "Rick Lane",
+      "published": "Sat, 06 Sep 2025 12:00:00 +0000",
+      "summary": "Lands September 9.",
+      "image": "https://cdn.mos.cms.futurecdn.net/zSyFkbLGPB3TvzTYL7wbwZ-1280-80.png"
+    },
+    {
+      "title": "This brilliant boomer shooter inspired by Blood gets a whole new campaign and a free update later this month",
+      "url": "https://www.pcgamer.com/games/fps/this-brilliant-boomer-shooter-inspired-by-blood-gets-a-whole-new-campaign-and-a-free-update-later-this-month/",
+      "source": "Rick Lane",
+      "published": "Sat, 06 Sep 2025 11:00:00 +0000",
+      "summary": "Cultic: Chapter Two launches on September 18.",
+      "image": "https://cdn.mos.cms.futurecdn.net/kmmQfAAje3XwrokWTUGA6D-1280-80.jpg"
+    },
+    {
+      "title": "3 Netflix shows you need to binge this weekend (Sept. 4)",
+      "url": "https://www.polygon.com/netflix-shows-weekend-binge-sept-6/",
+      "source": "Polygon Staff",
+      "published": "Sat, 06 Sep 2025 10:00:16 GMT",
+      "summary": "Shows you've never seen before, including a mystery, fantasy, and show that's actually for adults from creator Tina Fey.",
+      "image": ""
+    },
+    {
+      "title": "'The Threadspun Town' quest walkthrough in Hollow Knight: Silksong",
+      "url": "https://www.polygon.com/hollow-knight-silksong-the-threadspun-town-quest-wish-walkthrough-widow/",
+      "source": "Johnny Yu",
+      "published": "Sat, 06 Sep 2025 03:00:07 GMT",
+      "summary": "\"The Threadspun Town\" quest is a challenging quest that sends you all over Shellwood in Hollow Knight: Silksong. Here's how to finish the wish.",
+      "image": ""
+    },
+    {
+      "title": "Today's Wordle clues, hints and answer for September 6 (#1540)",
+      "url": "https://www.pcgamer.com/games/puzzle/wordle-answer-today-september-6-2025/",
+      "source": "Kerry Brunskill",
+      "published": "Sat, 06 Sep 2025 03:00:00 +0000",
+      "summary": "Win the weekend Wordle with our help.",
+      "image": "https://cdn.mos.cms.futurecdn.net/pVMPobdrC6ic3vHHbpo4H6-1280-80.jpg"
+    },
+    {
+      "title": "Now that the wait for Silksong is over, gamers can get back to their true calling: asking for Half-Life 3 in the chat",
+      "url": "https://www.pcgamer.com/gaming-industry/now-that-the-wait-for-silksong-is-over-gamers-can-get-back-to-their-true-calling-asking-for-half-life-3-in-the-chat/",
+      "source": "Wes Fenlon",
+      "published": "Sat, 06 Sep 2025 01:34:39 +0000",
+      "summary": "That was a nice diversion.",
+      "image": "https://cdn.mos.cms.futurecdn.net/GZYxfSzrE9PMeErbvbWKtN-1280-80.jpg"
+    },
+    {
+      "title": "How to switch off Apple Intelligence on your iPhone, iPad, and Mac",
+      "url": "https://techcrunch.com/2025/01/27/how-to-switch-off-apple-intelligence-on-your-iphone-ipad-and-mac/",
+      "source": "Lorenzo Franceschi-Bicchierai",
+      "published": "Mon, 27 Jan 2025 22:34:04 +0000",
+      "summary": "Here's a step-by-step guide on how to turn off and disable Apple Intelligence from your devices.",
+      "image": ""
+    },
+    {
+      "title": "Perplexity accused of scraping websites that explicitly blocked AI scraping",
+      "url": "https://techcrunch.com/2025/08/04/perplexity-accused-of-scraping-websites-that-explicitly-blocked-ai-scraping/",
+      "source": "Lorenzo Franceschi-Bicchierai",
+      "published": "Mon, 04 Aug 2025 15:41:39 +0000",
+      "summary": "Internet giant Cloudflare says it detected Perplexity crawling and scraping websites, even after customers had added technical blocks telling Perplexity not to scrape their pages.",
+      "image": ""
+    },
+    {
+      "title": "Breakneck data center growth challenges Microsoft’s sustainability goals",
+      "url": "https://techcrunch.com/2025/06/02/breakneck-data-center-growth-challenges-microsofts-sustainability-goals/",
+      "source": "Tim De Chant",
+      "published": "Mon, 02 Jun 2025 18:07:05 +0000",
+      "summary": "Microsoft's sustainability goals are imperiled by its push into AI and cloud services.",
+      "image": ""
+    },
+    {
+      "title": "Meta turns to solar — again — in its data center-building boom",
+      "url": "https://techcrunch.com/2025/01/31/meta-turns-to-solar-again-in-its-data-center-building-boom/",
+      "source": "Tim De Chant",
+      "published": "Fri, 31 Jan 2025 19:38:51 +0000",
+      "summary": "The announcement comes as Meta CEO Mark Zuckerberg maintains the company’s ambitious AI strategy, which will require hefty capital investments in data centers.",
+      "image": ""
+    },
+    {
+      "title": "Self Inspection raises $3M for its AI-powered vehicle inspections",
+      "url": "https://techcrunch.com/2025/02/07/self-inspection-raises-3m-for-its-ai-powered-vehicle-inspections/",
+      "source": "Sean O'Kane",
+      "published": "Fri, 07 Feb 2025 18:00:44 +0000",
+      "summary": "A number of startups are racing to make vehicle inspections faster, easier, and cheaper. Self Inspection, a startup based in San Diego, thinks it has them all beat with its AI-powered service &#8212; and now it has convinced outside investors. Self Inspection, founded in 2021, is set to announce Thu",
+      "image": ""
+    },
+    {
+      "title": "Former Bethesda marketing VP says he fought against reusing the Prey name for Arkane's 2017 immersive sim: 'I definitely pissed some people off internally over that'",
+      "url": "https://www.pcgamer.com/games/fps/former-bethesda-marketing-vp-says-he-fought-against-reusing-the-prey-name-for-arkanes-2017-immersive-sim-i-definitely-pissed-some-people-off-internally-over-that/",
+      "source": "Andy Chalk",
+      "published": "Fri, 05 Sep 2025 23:06:01 +0000",
+      "summary": "Pete Hines was not happy about the choice because \"we spend more time explaining why it's called Prey than we do talking about the game.\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/YJfrd7pboxTSCBZb2fBYb9-1280-80.jpg"
+    },
+    {
+      "title": "Borderlands 4 global release times mean some of you can play a day earlier than expected",
+      "url": "https://www.pcgamer.com/games/fps/borderlands-4-global-release-times-mean-some-of-you-can-play-a-day-earlier-than-expected/",
+      "source": "Andrea Shearon",
+      "published": "Fri, 05 Sep 2025 22:26:57 +0000",
+      "summary": "I hate when my friends from the future play games without me.",
+      "image": "https://cdn.mos.cms.futurecdn.net/nnvNj2RqjiCoG6GRCQbMYG-1280-80.png"
+    },
+    {
+      "title": "Silksong players stuck in Far Fields: Here's how to get out",
+      "url": "https://www.pcgamer.com/games/action/silksong-stuck-in-far-fields/",
+      "source": "Tyler Colp",
+      "published": "Fri, 05 Sep 2025 22:05:25 +0000",
+      "summary": "Here's the trick to getting out of this early game area.",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZY847r4eucrJMiQXqrQYRP-1280-80.jpg"
+    },
+    {
+      "title": "Starfield fans are pretty sure Bethesda just dropped the first teaser for the game's second expansion: 'We look forward to the adventures yet to come'",
+      "url": "https://www.pcgamer.com/games/rpg/starfield-fans-are-pretty-sure-bethesda-just-dropped-the-first-teaser-for-the-games-second-expansion-we-look-forward-to-the-adventures-yet-to-come/",
+      "source": "Andy Chalk",
+      "published": "Fri, 05 Sep 2025 21:44:09 +0000",
+      "summary": "What is \"Terran Armada?\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/ryJsfwwwNmGsPdfvjmBnxd-1280-80.jpg"
+    },
+    {
+      "title": "Is Silksong everything we hoped? 5 PC Gamer writers react to the first hours of Team Cherry's extraordinarily hyped sequel",
+      "url": "https://www.pcgamer.com/games/action/is-silksong-everything-we-hoped-5-pc-gamer-writers-react-to-the-first-hours-of-team-cherrys-extraordinarily-hyped-sequel/",
+      "source": "Lincoln Carpenter",
+      "published": "Fri, 05 Sep 2025 21:34:44 +0000",
+      "summary": "Were those six years of Silksanity well spent?",
+      "image": "https://cdn.mos.cms.futurecdn.net/PPGFzJdrWjBfzDsg2NvxNg-1280-80.jpg"
+    },
+    {
+      "title": "Randy Pitchford shares thoughts on the Stop Killing Games campaign, gets very existential: 'It's so sobering to think about the fact that everything will end. Not just us, but literally everything, and I kind of hate that'",
+      "url": "https://www.pcgamer.com/games/randy-pitchford-shares-thoughts-on-the-stop-killing-games-campaign-gets-very-existential-its-so-sobering-to-think-about-the-fact-that-everything-will-end-not-just-us-but-literally-everything-and-i-kind-of-hate-that/",
+      "source": "Andy Chalk",
+      "published": "Fri, 05 Sep 2025 20:38:44 +0000",
+      "summary": "\"I hate the fact that someday, the people that I care about aren't going to be here, and someday I'm not going to be here.\"",
+      "image": "https://cdn.mos.cms.futurecdn.net/GT7XU6ezWnSWTngBvemAbM-1280-80.jpg"
+    }
+  ]
+}
