@@ -1,0 +1,807 @@
+{
+  "date": "2025-09-29",
+  "section": "general",
+  "lang": "en",
+  "items": [
+    {
+      "title": "BBC News app",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
+      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+    },
+    {
+      "title": "NATO says beefing up Baltic presence after Denmark drone sightings",
+      "url": "https://www.thehindu.com/news/international/nato-says-beefing-up-baltic-presence-after-denmark-drone-sightings/article70105819.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:57:53 +0530",
+      "summary": "Several NATO countries say Russian fighter jets and drones have violated their airspace in Europe over recent weeks, accusing Moscow of testing the alliance.",
+      "image": "https://th-i.thgim.com/public/incoming/k0ll9/article70106438.ece/alternates/LANDSCAPE_1200/Denmark_Drone_Airport_62451.jpg"
+    },
+    {
+      "title": "New York City Mayor Eric Adams ends his re-election campaign",
+      "url": "https://www.thehindu.com/news/international/new-york-city-mayor-eric-adams-ends-his-re-election-campaign/article70106440.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:49:56 +0530",
+      "summary": "In the video, Mr. Adams did not directly mention or endorse any of the remaining candidates in the race; he warned that “extremism is growing in our politics.”",
+      "image": "https://th-i.thgim.com/public/incoming/qderq0/article70106451.ece/alternates/LANDSCAPE_1200/2025-09-28T173123Z_800267760_RC2PPGAMTESU_RTRMADP_3_USA-SEPT11-NEW-YORK.JPG"
+    },
+    {
+      "title": "Rights group seeks international intervention over killings in Chittagong Hill Tracts",
+      "url": "https://www.thehindu.com/news/international/rights-group-seeks-international-intervention-over-killings-in-chittagong-hill-tracts/article70106096.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:49:46 +0530",
+      "summary": "The Rights and Risks Analysis Group has said that the Bangladesh Army has been bringing in “outsiders” to settle in the CHT to change the demographics of the region",
+      "image": "https://th-i.thgim.com/public/incoming/9eb351/article70106465.ece/alternates/LANDSCAPE_1200/Suhas-Chakma%201.jpg"
+    },
+    {
+      "title": "Disabled Post Office Horizon victim offered 15% of claim",
+      "url": "https://www.bbc.com/news/articles/cq5jqxjqj0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 23:48:03 GMT",
+      "summary": "Janet Skinner had a neurological collapse and was temporarily paralysed after her final court hearing.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee7/live/0dbcda00-9a10-11f0-92db-77261a15b9d2.jpg"
+    },
+    {
+      "title": "Europe survive US comeback charge to win sensational Ryder Cup",
+      "url": "https://www.bbc.com/sport/golf/articles/c0m4g7k4l0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 23:34:55 GMT",
+      "summary": "Captain Luke Donald cements his status as a bona fide Ryder Cup legend as Europe hold of a spirited US fightback to win in New York.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7a/live/86c17e80-9cca-11f0-928c-71dbb8619e94.jpg"
+    },
+    {
+      "title": "UGC makes registration on new Study In India portal mandatory for all foreign students",
+      "url": "https://www.thehindu.com/news/national/karnataka/ugc-makes-registration-on-new-study-in-india-portal-mandatory-for-all-foreign-students/article70105143.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:34:33 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Moldovans cast ballots in a tense election plagued by Russian interference claims",
+      "url": "https://www.thehindu.com/news/international/moldovans-cast-ballots-in-a-tense-election-plagued-by-russian-interference-claims/article70106363.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:31:17 +0530",
+      "summary": "The Central Electoral Commission reported more than 400,000 people, or about 14% of eligible voters, had cast ballots by 11 a.m.",
+      "image": "https://th-i.thgim.com/public/incoming/a4xik3/article70106392.ece/alternates/LANDSCAPE_1200/Moldova_Election_62927.jpg"
+    },
+    {
+      "title": "Satheesan urges Centre to intervene in Air India Express service cuts",
+      "url": "https://www.thehindu.com/news/national/kerala/satheesan-urges-centre-to-intervene-in-air-india-express-service-cuts/article70106427.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:19:15 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Government raising awareness on early diagnosis for heart conditions, says Minister",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/government-raising-awareness-on-early-diagnosis-for-heart-conditions-says-minister/article70105844.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:17:04 +0530",
+      "summary": "On the eve of World Heart Day, Satya Kumar Yadav claims that around 1.41 lakh people with heart conditions receive free medical treatment worth around ₹996 crore through the NTR Vaidya Seva",
+      "image": ""
+    },
+    {
+      "title": "Mattanchery police nab Maharashtra man for alleged role in ₹2.8cr. ‘virtual arrest’ scam",
+      "url": "https://www.thehindu.com/news/national/kerala/mattanchery-police-nab-maharashtra-man-for-alleged-role-in-28cr-virtual-arrest-scam/article70106092.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:14:19 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "RJD, Congress to give up seats in favour of allies in Bihar",
+      "url": "https://www.thehindu.com/elections/bihar-assembly/congress-rjd-to-cut-down-its-tally-by-at-least-a-dozen-seats-to-accommodate-allies/article70105230.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:11:29 +0530",
+      "summary": "The RJD-led mahagatbandhan is narrowing down on a seat-sharing formula for the upcoming Bihar Assembly polls, where both RJD and Congress have agreed to give up a dozen seats each to accommodate the now expanded coalition",
+      "image": "https://th-i.thgim.com/public/incoming/d0n7ea/article70106422.ece/alternates/LANDSCAPE_1200/20250417189L.jpg"
+    },
+    {
+      "title": "Trump hints at ‘something special’ in West Asia talks",
+      "url": "https://www.thehindu.com/news/international/trump-hints-at-something-special-in-middle-east-talks/article70106382.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:10:10 +0530",
+      "summary": "U.S. President Trump said that “all are on board for something special” in Middle East, with Netanyahu’s visit to White House and plan for Gaza peace",
+      "image": "https://th-i.thgim.com/public/incoming/yv7c7w/article70086348.ece/alternates/LANDSCAPE_1200/2025-09-23T200658Z_548447446_RC2EWGAL491J_RTRMADP_3_USA-MINING-LITHIUM-AMERICAS.JPG"
+    },
+    {
+      "title": "The picturesque Dutch village set to charge tourists an entry fee",
+      "url": "https://www.bbc.com/news/articles/cn4ly3mr443o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 23:09:59 GMT",
+      "summary": "Zaanse Schans, popular for its windmills, has a population of just 100 people - but more than two million tourists will have visited this year.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8247/live/0317e6f0-8feb-11f0-a795-b308c7069dd1.jpg"
+    },
+    {
+      "title": "Heavy rush in Vijayawada on eve of Moola Nakshatram day, traffic diversions in place",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/heavy-rush-in-vijayawada-on-eve-of-moola-nakshatram-day-traffic-diversions-in-place/article70105651.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:06:52 +0530",
+      "summary": "Thousands of devotees throng the city for darshan of Goddess Kanaka Durga, leading to traffic snarls at major junctions. Officials announce diversions and no-vehicle zones, with tight security for the Chief Minister’s visit to Indrakeeladri",
+      "image": "https://th-i.thgim.com/public/incoming/21ijbl/article70106423.ece/alternates/LANDSCAPE_1200/28GNRAO-PASSANGERS-01%202.JPG"
+    },
+    {
+      "title": "Faith-driven hunt threatens survival of Telangana’s State bird, Palapitta",
+      "url": "https://www.thehindu.com/news/national/telangana/faith-driven-hunt-threatens-survival-of-telanganas-state-bird-palapitta/article70105508.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:03:53 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/et8hco/article70105468.ece/alternates/LANDSCAPE_1200/2248_3_10_2022_19_52_58_1_03HYNGG_INDIANBLUEJAY03.JPG"
+    },
+    {
+      "title": "How weight-loss injections are turning obesity into a wealth issue",
+      "url": "https://www.bbc.com/news/articles/cre5xp83394o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 23:02:31 GMT",
+      "summary": "With claims of a 'two-tier system', could it be that these drugs are exacerbating health inequalities?",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c8e/live/6181cad0-991e-11f0-af62-91486a511a31.jpg"
+    },
+    {
+      "title": "KVPS slams government for ‘humiliating’ Legislative Council Chairman",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kvps-slams-government-for-humiliating-legislative-council-chairman/article70106233.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:01:48 +0530",
+      "summary": "Moshenu Raju has not been invited to the inauguration of the new Assembly building complex as he belonged to the SC community, the KVPS leaders allege",
+      "image": ""
+    },
+    {
+      "title": "Deepavali discount sale begins at Co-optex showroom in Villupuram",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/deepavali-discount-sale-begins-at-co-optex-showroom-in-villupuram/article70105223.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:52:40 +0530",
+      "summary": "According to a press release, Co-optex will offer a rebate of 30% on silk and cotton saris sourced from weavers in Coimbatore, Kancheepuram, Salem, Arani, and Tirubhuvanam, among other places.",
+      "image": ""
+    },
+    {
+      "title": "Krishna floods: Officials close bathing ghats, stop devotees from taking bath in river",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/krishna-floods-officials-close-bathing-ghats-stop-devotees-from-taking-bath-in-river/article70106108.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:52:32 +0530",
+      "summary": "Villagers evacuated from Pata Yadlalanka island at Avanigadda; those staying in the downstream of Krishna asked not to cross the overflowing canals and the river on countrymade boats",
+      "image": "https://th-i.thgim.com/public/incoming/n1bxkj/article70106398.ece/alternates/LANDSCAPE_1200/DSC_3649.JPG"
+    },
+    {
+      "title": "LPG consumers can change their suppliers, companies soon",
+      "url": "https://www.thehindu.com/news/national/lpg-consumers-can-change-their-suppliers-companies-soon/article70105625.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:49:27 +0530",
+      "summary": "Petroleum and Natural Gas Regulatory Board has invited comments from stakeholders and consumers",
+      "image": ""
+    },
+    {
+      "title": "The Hindu and Andhra Hospitals to conduct awareness programme today on heart health",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-hindu-and-andhra-hospitals-to-conduct-awareness-programme-today-on-heart-health/article70106188.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:48:08 +0530",
+      "summary": "Aim is to educate people the importance of maintaining a healthy heart through lifestyle choices, timely diagnosis, and preventive care",
+      "image": ""
+    },
+    {
+      "title": "600 treated at free eye camp",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/600-treated-at-free-eye-camp/article70106200.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:47:07 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Former IAS officer opposes government’s decision of PPP model for medical colleges",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-ias-officer-opposes-governments-decision-of-ppp-model-for-medical-colleges/article70106183.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:44:17 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "WRD begins restoration of Thalavanur anicut across Thenpennai River",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/wrd-begins-restoration-of-thalavanur-anicut-across-thenpennai-river/article70105199.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:44:00 +0530",
+      "summary": "Located about 10 km from Villupuram, the anicut had been designed to trap flood waters and help recharge ground water.",
+      "image": ""
+    },
+    {
+      "title": "Dharmendra Pradhan calls on CM Nitish in Patna",
+      "url": "https://www.thehindu.com/news/national/bihar/dharmendra-pradhan-calls-on-cm-nitish-in-patna/article70105488.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:42:04 +0530",
+      "summary": "The Union Minister was recently appointed the BJP’s in-charge for the Bihar Assembly election",
+      "image": "https://th-i.thgim.com/public/incoming/s653g2/article70106374.ece/alternates/LANDSCAPE_1200/20250928048L.jpg"
+    },
+    {
+      "title": "RIVER designs mobile app to strengthen rabies surveillance",
+      "url": "https://www.thehindu.com/news/cities/puducherry/river-designs-mobile-app-to-strengthen-rabies-surveillance/article70105303.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:35:23 +0530",
+      "summary": "Technical sessions led by experts held subsequently covered a wide range of topics including rabies immunization, animal reservoirs, diagnostic techniques, and the objectives of the National Rabies Control Programme",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/oto523/article70105454.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-28%20at%206.00.52%20PM.jpeg"
+    },
+    {
+      "title": "At UNGA week, India signals realignment with the Global South",
+      "url": "https://www.thehindu.com/news/national/at-unga-week-india-signals-realignment-with-the-global-south/article70106158.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:34:47 +0530",
+      "summary": "Troubles with the U.S., a shift on criticising Israel, External Affairs Minister Jaishankar’s meetings on UNGA sidelines indicate focus on developing world",
+      "image": "https://th-i.thgim.com/public/incoming/30rksu/article70106329.ece/alternates/LANDSCAPE_1200/2025-09-27T175901Z_645195732_RC2H0HAGL5PK_RTRMADP_3_UN-ASSEMBLY.JPG"
+    },
+    {
+      "title": "PSI suspended for releasing suspect without inquiry",
+      "url": "https://www.thehindu.com/news/national/karnataka/psi-suspended-for-releasing-suspect-without-inquiry/article70105310.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:33:27 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "CM Revanth Reddy vows rehabilitation of residents in Musi river catchment areas",
+      "url": "https://www.thehindu.com/news/national/telangana/cm-revanth-reddy-vows-rehabilitation-of-residents-in-musi-river-catchment-areas/article70106067.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:30:43 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/rtoh02/article70106339.ece/alternates/LANDSCAPE_1200/DSC3921.jpg"
+    },
+    {
+      "title": "Karur stampede: one-man commission to investigate incident just a ritual, says Seeman",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/karur-stampede-one-man-commission-to-investigate-incident-just-a-ritual-says-seeman/article70105697.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:26:00 +0530",
+      "summary": "Former BJP State president K. Annamalai and former T.N. Chief Minister O. Panneerselvam call for CBI probe into the incident",
+      "image": "https://th-i.thgim.com/public/incoming/4am0qq/article70106322.ece/alternates/LANDSCAPE_1200/Seeman%208.jpg"
+    },
+    {
+      "title": "BJP leaders to tour flood-hit districts in Karnataka in two teams",
+      "url": "https://www.thehindu.com/news/national/karnataka/bjp-leaders-to-tour-flood-hit-districts-in-karnataka-in-two-teams/article70105865.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:22:12 +0530",
+      "summary": "The Bharatiya Janata Party leaders will tour different flood-hit districts in Karnataka to assess the situation",
+      "image": "https://th-i.thgim.com/public/incoming/4ulio6/article70106320.ece/alternates/LANDSCAPE_1200/BJP.JPEG"
+    },
+    {
+      "title": "Ensure safety of flood-affected people, Kalaburagi officials told",
+      "url": "https://www.thehindu.com/news/national/karnataka/ensure-safety-of-flood-affected-people-kalaburagi-officials-told/article70105872.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:19:33 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Four killed in attack on Michigan Mormon church",
+      "url": "https://www.thehindu.com/news/international/mormon-church-michigan-shooting-several-dead/article70106292.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:16:51 +0530",
+      "summary": "The suspect, a 40-year-old man, was shot dead by law enforcement responding to the attack, in which the church was also set ablaze",
+      "image": "https://th-i.thgim.com/public/incoming/57j2js/article70106386.ece/alternates/LANDSCAPE_1200/Church_Shooting_Michigan_71734.jpg"
+    },
+    {
+      "title": "Water and adventure sports facility inaugurated in Hubballi",
+      "url": "https://www.thehindu.com/news/national/karnataka/water-and-adventure-sports-inaugurated-in-hubballi/article70105767.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:14:59 +0530",
+      "summary": "Unkal Lake cleaned, beautified and developed under the Smart Cities project",
+      "image": ""
+    },
+    {
+      "title": "Murphy beats McGill to win British Open for first time",
+      "url": "https://www.bbc.com/sport/snooker/articles/cy85l2e2j5xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 22:14:53 GMT",
+      "summary": "Shaun Murphy beats Anthony McGill 10-7 in a thrilling final to win the British Open title for the first time.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0621/live/c99ce5e0-9cb2-11f0-9b03-63cb4d3852ef.jpg"
+    },
+    {
+      "title": "Reeves to guarantee paid work for young people unemployed for 18 months",
+      "url": "https://www.bbc.com/news/articles/c80gj2knrx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 22:13:31 GMT",
+      "summary": "The chancellor will commit to \"the abolition of long-term youth unemployment\" in her speech at Labour conference.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0104/live/6e3af170-9cac-11f0-8e15-edf4f5ab4f3b.jpg"
+    },
+    {
+      "title": "No ceasefire, Maoists must give up arms, says Amit Shah",
+      "url": "https://www.thehindu.com/news/national/no-ceasefire-maoists-must-give-up-arms-says-amit-shah/article70106145.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:11:31 +0530",
+      "summary": "Union Home Minister reiterates pledge to eradicate Left-Wing Extremism by March 2026, cites success of unified strategy under Modi government",
+      "image": "https://th-i.thgim.com/public/incoming/cg8d9l/article70106216.ece/alternates/LANDSCAPE_1200/PTI09_28_2025_000374B.jpg"
+    },
+    {
+      "title": "1,360 members of 445 families shifted from flood-hit villages to care centres in Yadgir",
+      "url": "https://www.thehindu.com/news/national/karnataka/1360-members-of-445-families-shifted-from-flood-hit-villages-to-care-centres-in-yadgir/article70105699.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:09:27 +0530",
+      "summary": "Road connectivity to 24 villages in the district has been disrupted after bridges/bridge-cum-barrages got submerged in the Bhima waters",
+      "image": ""
+    },
+    {
+      "title": "Prioritise heritage conservation over high-rise culture, says Lt. Governor Kailashnathan",
+      "url": "https://www.thehindu.com/news/cities/puducherry/prioritise-heritage-conservation-over-high-rise-culture-says-lt-governor-kailashnathan/article70105259.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:09:21 +0530",
+      "summary": "The Lt. Governor said demolition of old structures to build new tall buildings was tantamount to burying the city’s cherished heritage.",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/8ksbxh/article70105383.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-28%20at%205.35.34%20PM.jpeg"
+    },
+    {
+      "title": "APSSDC, OMCAP offer overseas jobs for homecare nurses in Qatar",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/apssdc-omcap-offer-overseas-jobs-for-homecare-nurses-in-qatar/article70106006.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:09:15 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Gang abducts and robs trio of ₹1.01 cr. in Bengaluru; nabbed within 15 minutes after police were alerted",
+      "url": "https://www.thehindu.com/news/national/karnataka/trio-abducted-robbed-of-101-cr-in-bengaluru-accused-nabbed-within-15-min-after-police-were-alerted/article70105260.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:05:21 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Volunteers, political parties distribute food, water to grieving relatives of victims at Karur hospital",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/volunteers-political-parties-distribute-food-water-to-grieving-relatives-of-victims-at-karur-hospital/article70105423.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:04:45 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/news/cities/Tiruchirapalli/2e466v/article70106275.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-28%20at%209.58.29%20PM.jpeg"
+    },
+    {
+      "title": "Research, innovation, entrepreneurship are thrust areas for Higher Education 2.0, says top NITI Aayog official",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/research-innovation-entrepreneurship-are-thrust-areas-for-higher-education-20-says-top-niti-aayog-official/article70105639.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:04:30 +0530",
+      "summary": "Mr. Shah said that the contribution of innovation and entrepreneurship has been reflected in the steady rise of start-ups in the country.",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/xxcqi3/article70105772.ece/alternates/LANDSCAPE_1200/VIT-29.jpeg"
+    },
+    {
+      "title": "Emotional Lowry almost lost for words after crucial Ryder Cup putt",
+      "url": "https://www.bbc.com/sport/golf/videos/c3vz7q00659o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 21:58:14 GMT",
+      "summary": "Shane Lowry is almost lost for words  following his crucial putt to retain the Ryder Cup for Europe.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ed/live/52cb6380-9cb5-11f0-b741-177e3e2c2fc7.jpg"
+    },
+    {
+      "title": "Death toll in Karur stampede rises to 40; Justice Aruna Jagadeesan begins inquiries",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/death-toll-in-karur-stampede-rises-to-40-justice-aruna-jagadeesan-begins-inquiries/article70105243.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:56:07 +0530",
+      "summary": "Of the 40 dead, 17 were women, 14 men, and nine children. Medical teams completed post-mortems on all victims on September 27 night and began handing over the bodies to their families before dawn on September 28",
+      "image": "https://th-i.thgim.com/public/incoming/rshh9i/article70106258.ece/alternates/LANDSCAPE_1200/KMCH%20MORTUARY%202.JPG"
+    },
+    {
+      "title": "Karur stampede: VCK seeks ₹50 lakh compensation for victims’ families",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/karur-stampede-vck-seeks-50-lakh-compensation-for-victims-families/article70105859.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:55:48 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/bmg7lx/article70106265.ece/alternates/LANDSCAPE_1200/THOL_THIRUMAVALAVAN_VCK_PRESIDENT_3.jpg"
+    },
+    {
+      "title": "Two civilians killed in Ladakh protests cremated amid curfew in Leh",
+      "url": "https://www.thehindu.com/news/national/ladakh/two-civilians-killed-in-ladakh-protests-cremated-amid-curfew-in-leh/article70105886.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:52:21 +0530",
+      "summary": "The unrest in Ladakh is the BJP’s own creation. The same people who once cheered abrogation of Article 370  now feel betrayed by unkept promises. Youth anger, joblessness, and denial of Sixth Schedule rights have pushed them to the streets",
+      "image": "https://th-i.thgim.com/public/incoming/7e41kc/article70106238.ece/alternates/LANDSCAPE_1200/20250928164L.jpg"
+    },
+    {
+      "title": "Parts of Hyderabad receive light showers on Sunday night",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/parts-of-hyderabad-receive-light-showers-on-sunday-night/article70106201.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:51:58 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "HDK cautions against forced acquisition of farmlands in Bidadi, lashes out at Shivakumar",
+      "url": "https://www.thehindu.com/news/national/karnataka/hdk-cautions-against-forced-acquisition-of-farmlands-in-bidadi-lashes-out-at-shivakumar/article70106051.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:51:38 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/m267h8/article70106244.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-28%20at%2019.11.00.jpeg"
+    },
+    {
+      "title": "Saleem elected to CPI national executive",
+      "url": "https://www.thehindu.com/news/cities/puducherry/saleem-elected-to-cpi-national-executive/article70105520.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:50:53 +0530",
+      "summary": "The 25th party congress of the CPI was concluded in Chandigarh recently",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/l7uguv/article70105717.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-28%20at%207.22.54%20PM.jpeg"
+    },
+    {
+      "title": "Bodoland People’s Front stakes claim to form next Bodoland council",
+      "url": "https://www.thehindu.com/news/national/assam/bodoland-peoples-front-stakes-claim-to-form-next-bodoland-council/article70105024.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:38:58 +0530",
+      "summary": "The Hagrama Mohilary-led party said it was willing to work with rivals UPPL and BJP",
+      "image": "https://th-i.thgim.com/public/incoming/e55au2/article70106112.ece/alternates/LANDSCAPE_1200/PTI09_28_2025_000114B.jpg"
+    },
+    {
+      "title": "Large number of devotees participate in ‘Prabhat Pheri’",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/large-number-of-devotees-participate-in-prabhat-pheri/article70105656.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:38:11 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/qy2csj/article70106124.ece/alternates/LANDSCAPE_1200/VSP29_DASARA%206.JPG"
+    },
+    {
+      "title": "Punjab should be seen as India’s gateway to Eurasia, says Congress’ Bajwa",
+      "url": "https://www.thehindu.com/news/national/punjab/punjab-should-be-seen-as-indias-gateway-to-eurasia-says-congress-bajwa/article70105296.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:35:54 +0530",
+      "summary": "The Opposition leader proposed the creation of an ‘Amritsar-Rajpura economic corridor’ with ‘agro-processing clusters, industrial parks, and logistics hubs powering Punjab’s integration into global supply chains’",
+      "image": "https://th-i.thgim.com/public/incoming/4hpxp6/article70106195.ece/alternates/LANDSCAPE_1200/G17Q_0YWcAAYnar.jpg"
+    },
+    {
+      "title": "Migrants to face tougher conditions for settled status, home secretary to announce",
+      "url": "https://www.bbc.com/news/articles/c0m4g3zvy02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 21:32:01 GMT",
+      "summary": "New tests will include learning English to a high standard, paying National Insurance and not claiming benefits.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e9a/live/e7ff7d70-9c9b-11f0-be60-77dafac10a24.jpg"
+    },
+    {
+      "title": "39 persons caught in stampede were brought dead: Karur Collector",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/39-persons-caught-in-stampede-were-brought-dead-karur-collector/article70105752.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:31:35 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Govt. school teacher held for sexual assault in Coimbatore",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/government-schools-physical-education-teacher-held-for-sexual-assault/article70106134.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:27:05 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Amberpet STP inaugurated; foundation laid for 39 STPs to treat sewage in ORR laid",
+      "url": "https://www.thehindu.com/news/national/telangana/amberpet-stp-inaugurated-foundation-laid-for-39-stps-to-treat-sewage-in-orr-laid/article70106040.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:23:50 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Vijay should ensure adequate arrangements for his cadre: Premallatha",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/vijay-should-ensure-adequate-arrangements-for-his-cadre-premallatha/article70106009.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:22:22 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Power tariff will come down by 13 paise per unit following APERC order: Energy Minister",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/power-tariff-will-come-down-by-13-paise-per-unit-following-aperc-order-energy-minister/article70106028.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:18:59 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "T-CHIP Semicon Constitution Summit 2025 concludes with MoUs, global roadmap",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/t-chip-semicon-constitution-summit-2025-concludes-with-mous-global-roadmap/article70105757.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:15:13 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "H. Raja slams Karur police over stampede response",
+      "url": "https://www.thehindu.com/news/cities/Madurai/h-raja-slams-karur-police-over-stampede-response/article70106083.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:14:42 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Survey: Eight assistant teachers suspended in Mysuru",
+      "url": "https://www.thehindu.com/news/national/karnataka/survey-eight-assistant-teachers-suspended-in-mysuru/article70106101.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:12:40 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Water level in Mullaperiyar dam stands at 131.20 feet",
+      "url": "https://www.thehindu.com/news/cities/Madurai/water-level-in-mullaperiyar-dam-stands-at-13120-feet/article70106013.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:12:36 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/vbzqxs/article70106125.ece/alternates/LANDSCAPE_1200/IMG_10216_18_11_2021_18__3_1_NODK7CT2.jpg"
+    },
+    {
+      "title": "Godavari river continues to be in spate, low-lying areas in Basar inundated",
+      "url": "https://www.thehindu.com/news/national/telangana/godavari-river-continues-to-be-in-spate-low-lying-areas-in-basar-inundated/article70105921.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:12:20 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "In stampede cases, police must prove ‘gross’ criminal negligence directly endangered human life, according to court verdicts",
+      "url": "https://www.thehindu.com/news/national/in-stampede-cases-the-police-must-prove-gross-criminal-negligence-directly-endangered-human-life-according-to-court-verdicts/article70105791.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:11:55 +0530",
+      "summary": "One of the offences levelled against TVK leaders in a case registered by the Karur Town Police following a stampede at a meeting addressed by actor Vijay is commission of an “act endangering life and personal safety of others”",
+      "image": "https://th-i.thgim.com/public/incoming/5k54aw/article70106138.ece/alternates/LANDSCAPE_1200/4861_28_9_2025_13_12_51_3_TVK_03.JPG"
+    },
+    {
+      "title": "Incessant rain batters Maharashtra; over 11,500 people shifted to relief camps",
+      "url": "https://www.thehindu.com/news/national/maharashtra/incessant-rain-batters-maharashtra-over-11500-people-shifted-to-relief-camps/article70105981.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:07:00 +0530",
+      "summary": "Six villages in Dharashiv cut off; CM Fadnavis terms next two days “critical” as IMD issues red alert for Mumbai, Konkan, and Marathwada",
+      "image": "https://th-i.thgim.com/public/incoming/uriytq/article70106053.ece/alternates/LANDSCAPE_1200/PTI09_28_2025_000304A.jpg"
+    },
+    {
+      "title": "Ganja, non-duty paid liquor seized during checks",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/ganja-non-duty-paid-liquor-seized-during-checks/article70105919.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:04:49 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/hbzzx5/article70105916.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-28%20at%2018.38.21_c9402afc.jpg"
+    },
+    {
+      "title": "Small boat carrying record 125 people crosses Channel",
+      "url": "https://www.bbc.com/news/articles/cn0re8x7172o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 21:04:03 GMT",
+      "summary": "Another migrant dies attempting the journey on a weekend which has seen a number of crossings.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca3/live/bf497af0-9c61-11f0-b66e-67a4632b8ff2.jpg"
+    },
+    {
+      "title": "Search continues for drowned Bhavani devotees",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/search-continues-for-drowned-bhavani-devotees/article70105407.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:00:12 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Woman injured in wild boar attack in Idukki",
+      "url": "https://www.thehindu.com/news/national/kerala/woman-injured-in-wild-boar-attack-in-idukki/article70106042.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 20:57:27 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Slots for ‘Neril Subcollector’ project increased",
+      "url": "https://www.thehindu.com/news/national/kerala/slots-for-neril-subcollector-project-increased/article70106038.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 20:53:04 +0530",
+      "summary": "Idukki Subcollector completes two online sittings, 13 people submit complaints",
+      "image": ""
+    },
+    {
+      "title": "LDF backs NSS leadership that is under fire for endorsing government’s Sabarimala policy",
+      "url": "https://www.thehindu.com/news/national/kerala/ldf-backs-nss-leadership-that-is-under-fire-for-endorsing-governments-sabarimala-policy/article70105855.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 20:49:43 +0530",
+      "summary": "Transport Minister K.B. Ganesh Kumar slams “scattered protests by a few disgruntled elements” and says Sukumaran Nair has not veered from NSS’s stated principle of political equi-distance",
+      "image": ""
+    },
+    {
+      "title": "Arsenal seize 'massive opportunity' by proving mentality",
+      "url": "https://www.bbc.com/sport/football/articles/cn4l8kzkr1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 20:45:35 GMT",
+      "summary": "Arsenal were in trouble as they trailed Newcastle with six minutes to go - but they are becoming a side who refuse to fold, and it gives them optimism for the challenges ahead, writes Ciaran Kelly.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c421/live/e9caff90-9ca4-11f0-b829-b95ae45b90af.jpg"
+    },
+    {
+      "title": "Don't underestimate peril for Labour, says Burnham",
+      "url": "https://www.bbc.com/news/articles/cn0xzpngj5xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 20:33:44 GMT",
+      "summary": "The mayor of Greater Manchester said those calling for loyalty were  \"underestimating the peril the party is in\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fed/live/2cbc28f0-9c79-11f0-8277-67a32d4ec754.png"
+    },
+    {
+      "title": "Rangers fans still angry but is tanker turning?",
+      "url": "https://www.bbc.com/sport/football/articles/cjr5qv12rqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 19:16:04 GMT",
+      "summary": "Rangers fans remain unconvinced by head coach Russell Martin, but was the Ibrox side's victory at Livingston on Sunday evidence of improvement under the Englishman?",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82b2/live/a8016810-9c95-11f0-928c-71dbb8619e94.jpg"
+    },
+    {
+      "title": "Hackers contact Harrods after 430,000 customer records hit by IT breach",
+      "url": "https://www.bbc.com/news/articles/cpq5w324pd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 17:25:38 GMT",
+      "summary": "The luxury department store said it was working with authorities, and the affected data was limited to basic details.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a4/live/7875fa30-9c80-11f0-92db-77261a15b9d2.jpg"
+    },
+    {
+      "title": "Arrests at protest supporting Palestine Action near Labour conference",
+      "url": "https://www.bbc.com/news/articles/cx20l1257l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 17:05:04 GMT",
+      "summary": "Merseyside Police says arrests were made on suspicion of supporting the proscribed group.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ff/live/3bfe3980-9c87-11f0-95c6-7592d7636e22.jpg"
+    },
+    {
+      "title": "Swiss voters narrowly approve plan for electronic ID cards",
+      "url": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 15:55:38 GMT",
+      "summary": "The proposal was backed by 50.4% of voters, in the second Swiss ballot on the issue in four years.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bad5/live/82dc66a0-9c7e-11f0-95c6-7592d7636e22.jpg"
+    },
+    {
+      "title": "Jaguar Land Rover may need more than £1.5bn government loan guarantee, MP says",
+      "url": "https://www.bbc.com/news/articles/c62zggj69e0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 15:38:20 GMT",
+      "summary": "Liam Byrne spoke after the government announced it was backing a £1.5bn loan to the company, and warned cyber-attacks could become more common.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d262/live/65281cd0-9c5b-11f0-b66e-67a4632b8ff2.jpg"
+    },
+    {
+      "title": "'It's bigger than us': England aim to inspire after women's Rugby World Cup glory",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cd9ygg1l48zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 15:15:12 GMT",
+      "summary": "After beating Canada to lift the Women's World Cup in front of a record crowd, England celebrated at Battersea Power Station as they aim to inspire \"future Red Roses\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ac6/live/98efbeb0-9c79-11f0-b741-177e3e2c2fc7.jpg"
+    },
+    {
+      "title": "Lola Young 'doing OK' after collapsing on stage during gig",
+      "url": "https://www.bbc.com/news/articles/cr7031gv2m8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 14:03:32 GMT",
+      "summary": "Lola Young was performing at a festival when she appeared to drop her microphone and fall backwards.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/152d/live/a091b3f0-9c77-11f0-8277-67a32d4ec754.jpg"
+    },
+    {
+      "title": "Thunberg denies claims Gaza flotilla is a publicity stunt",
+      "url": "https://www.bbc.com/news/articles/cx25grpxzd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 13:15:04 GMT",
+      "summary": "The Swedish activist tells the BBC that no one would \"risk their life\" purely to gain attention.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dda9/live/cf4e3f40-9c6f-11f0-b741-177e3e2c2fc7.jpg"
+    },
+    {
+      "title": "Woman raped by group of men in churchyard",
+      "url": "https://www.bbc.com/news/articles/cly622k0jm4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 12:39:55 GMT",
+      "summary": "The woman, in her 30s, was attacked in the grounds of St Mary's Church in Banbury, police say.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26dc/live/81249f20-9c6b-11f0-b741-177e3e2c2fc7.jpg"
+    },
+    {
+      "title": "Zelensky condemns 'vile' Russian strikes lasting 12 hours",
+      "url": "https://www.bbc.com/news/articles/c75qeqr5905o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 11:46:41 GMT",
+      "summary": "More than 600 drones and missiles, predominantly aimed at Kyiv, hit factories and the Institute of Cardiology.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e0c/live/0796d830-9c48-11f0-b741-177e3e2c2fc7.jpg"
+    },
+    {
+      "title": "From drug theft to Dubai arrests: The Scottish gangland feud that went global",
+      "url": "https://www.bbc.com/news/articles/c8xr1n4pp49o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 07:54:42 GMT",
+      "summary": "The deadly dispute between the Daniel and Lyons crime families has been raging for 25 years.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c71/live/6072fbb0-9896-11f0-928c-71dbb8619e94.jpg"
+    },
+    {
+      "title": "Play now",
+      "url": "https://www.bbc.com/weather/articles/cwy5r7xwq8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 04:43:27 GMT",
+      "summary": "Think you can work out where's hotter and colder than you today? Find out by playing our game",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9457/live/a4b0d300-8366-11f0-ab3e-bd52082cd0ae.png"
+    },
+    {
+      "title": "Selena Gomez marries music producer Benny Blanco",
+      "url": "https://www.thehindu.com/entertainment/selena-gomez-marries-music-producer-benny-blanco/article70107493.ece",
+      "source": "The Hindu",
+      "published": "Mon, 29 Sep 2025 07:25:16 +0530",
+      "summary": "The couple, who got engaged in December last year, took the vows on September 27",
+      "image": "https://th-i.thgim.com/public/incoming/8bqjdu/article70107495.ece/alternates/LANDSCAPE_1200/People-Selena_Gomez_28507.jpg"
+    },
+    {
+      "title": "An online Malayalam course for everyone",
+      "url": "https://www.thehindu.com/life-and-style/an-online-malayalam-course-for-everyone/article70069221.ece",
+      "source": "The Hindu",
+      "published": "Mon, 29 Sep 2025 07:19:00 +0530",
+      "summary": "As the fourth batch of Amrutham Malayalam online classes are set to begin from October 2, a look at how this classroom has grown as a melting pot of cultures and friendships",
+      "image": "https://th-i.thgim.com/public/incoming/w1zulm/article70107477.ece/alternates/LANDSCAPE_1200/books_02.jpg"
+    },
+    {
+      "title": "Denmark bans civilian drone flights ahead of EU summit",
+      "url": "https://www.thehindu.com/news/international/denmark-bans-civilian-drone-flights-ahead-of-eu-summit/article70107487.ece",
+      "source": "The Hindu",
+      "published": "Mon, 29 Sep 2025 07:16:39 +0530",
+      "summary": "Mysterious drone sightings across Denmark since September 22 have prompted the closure of several airports, with Denmark hinting at possible Russian involvement, though Moscow denies the charge",
+      "image": "https://th-i.thgim.com/public/incoming/7qfn5u/article70107488.ece/alternates/LANDSCAPE_1200/Denmark_NATO_Russia_88395.jpg"
+    },
+    {
+      "title": "Morning Digest: Asia Cup trophy not awarded to India as team refuses to accept it from Mohsin Naqvi; 2 civilians killed in Ladakh protests cremated amid curfew, and more",
+      "url": "https://www.thehindu.com/news/the-hindu-morning-digest-september-29-2025/article70106741.ece",
+      "source": "The Hindu",
+      "published": "Mon, 29 Sep 2025 06:36:16 +0530",
+      "summary": "Here is a select list of stories to start the day.",
+      "image": "https://th-i.thgim.com/public/incoming/6u05dq/article70107455.ece/alternates/LANDSCAPE_1200/AP09_29_2025_000071A.jpg"
+    },
+    {
+      "title": "Elevated interchange Metro station to come up in Sholinganallur",
+      "url": "https://www.thehindu.com/news/cities/chennai/elevated-interchange-metro-station-to-come-up-in-sholinganallur/article70104988.ece",
+      "source": "The Hindu",
+      "published": "Mon, 29 Sep 2025 06:00:00 +0530",
+      "summary": "8-storey building will be constructed close to the station; trains will pass through the building and people can switch between two corridors",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/ktjj7m/article70105335.ece/alternates/LANDSCAPE_1200/Screenshot%202025-09-28%20180627.png"
+    },
+    {
+      "title": "Traffic woes wosen in Ramapuram Main Road as storm-water drain work drags on",
+      "url": "https://www.thehindu.com/news/cities/chennai/traffic-woes-wosen-in-ramapuram-main-road-as-stormwater-work-drags-on/article70105005.ece",
+      "source": "The Hindu",
+      "published": "Mon, 29 Sep 2025 05:45:00 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/wfbwo/article70105729.ece/alternates/LANDSCAPE_1200/BVR_5800.JPG"
+    },
+    {
+      "title": "Chennai Corporation to take up ₹145 crore project to improve Narayanapuram Lake",
+      "url": "https://www.thehindu.com/news/cities/chennai/chennai-corporation-to-take-up-145-crore-project-to-improve-narayanapuram-lake/article70102376.ece",
+      "source": "The Hindu",
+      "published": "Mon, 29 Sep 2025 05:45:00 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/qj4fbt/article70105777.ece/alternates/LANDSCAPE_1200/BVR_0433.JPG"
+    },
+    {
+      "title": "Key initiatives honoured with M.S. Swaminathan Award for Environmental Protection",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/key-initiatives-honoured-with-ms-swaminathan-award-for-environmental-protection/article70105332.ece",
+      "source": "The Hindu",
+      "published": "Mon, 29 Sep 2025 05:45:00 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/5fdmke/article70105528.ece/alternates/LANDSCAPE_1200/MS%20SWAMINATHAN%20CENTENARY%20YEAR%20CELEBRATION%20ROTARY%20CLUB%20EAST.jpg"
+    },
+    {
+      "title": "Fire breaks out at Tiruvannamalai GH",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/fire-breaks-out-at-tiruvannamalai-gh/article70106229.ece",
+      "source": "The Hindu",
+      "published": "Mon, 29 Sep 2025 05:30:00 +0530",
+      "summary": "Based on an alert, a six-member firefighters team and Tiruvannamalai East police personnel rushed to the spot.",
+      "image": ""
+    },
+    {
+      "title": "92% UGD work completed in Vellore, says Corporation Commissioner",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/92-ugd-work-completed-in-vellore-says-corporation-commissioner/article70105641.ece",
+      "source": "The Hindu",
+      "published": "Mon, 29 Sep 2025 05:30:00 +0530",
+      "summary": "Corporation Commissioner R. Lakshmanan told The Hindu that completion of ongoing pipeline-carrying bridge across Palar river, pipe-laying work in at least five streets in Old Town area, and construction of a new pumping station at Vasanthapuram behind the fort complex are remaining works as part of ",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/w1bkip/article70106447.ece/alternates/LANDSCAPE_1200/road-13.jpeg"
+    },
+    {
+      "title": "CMC organises cookery competition in Vellore to mark World Diabetes Day",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cmc-organises-cookery-competition-in-vellore-to-mark-world-diabetes-day/article70105654.ece",
+      "source": "The Hindu",
+      "published": "Mon, 29 Sep 2025 05:30:00 +0530",
+      "summary": "Welcoming the gathering, Ms. Agarwal said that the importance of inculcating healthy habits right from childhood is required.",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/65k0o/article70106467.ece/alternates/LANDSCAPE_1200/cook-4.jpeg"
+    },
+    {
+      "title": "Will donate my Asia Cup match fee to Armed Forces and Pahalgam victims: Suryakumar Yadav",
+      "url": "https://www.thehindu.com/sport/cricket/suryakumar-yadav-asia-cup-trophy-match-fees/article70107194.ece",
+      "source": "The Hindu",
+      "published": "Mon, 29 Sep 2025 05:28:44 +0530",
+      "summary": "“I have never seen this before, winning team not receiving trophy,” said Suryakumar Yadav on Indian team not being presented Asia Cup; India defeated Pakistan by five wickets in the final to win the trophy",
+      "image": "https://th-i.thgim.com/public/incoming/joc6g9/article70107451.ece/alternates/LANDSCAPE_1200/2025-09-28T185153Z_672691040_UP1EL9S1GEG87_RTRMADP_3_CRICKET-ASIACUP-IND-PAK.JPG"
+    },
+    {
+      "title": "7-year-old Class 2 student hung upside down by school bus driver in Panipat over ‘misbehaviour’; FIR filed",
+      "url": "https://www.thehindu.com/news/national/haryana/7-year-old-hung-upside-down-by-school-bus-driver-in-panipat-over-misbehaviour-fir-filed/article70105952.ece",
+      "source": "The Hindu",
+      "published": "Mon, 29 Sep 2025 05:13:00 +0530",
+      "summary": "The incident that took place over a month ago came to light when the boy’s mother stumbled upon the video on Instagram on Saturday",
+      "image": ""
+    }
+  ]
+}

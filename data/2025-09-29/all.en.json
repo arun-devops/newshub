@@ -1,0 +1,1207 @@
+{
+  "date": "2025-09-29",
+  "section": "all",
+  "lang": "en",
+  "items": [
+    {
+      "title": "BBC News app",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
+      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+    },
+    {
+      "title": "ElevenLabs now lets authors create and publish audiobooks on its own platform",
+      "url": "https://techcrunch.com/2025/02/25/elevenlabs-is-now-letting-authors-create-and-publish-audiobooks-on-its-own-platform/",
+      "source": "Ivan Mehta",
+      "published": "Wed, 26 Feb 2025 03:45:45 +0000",
+      "summary": "Voice AI company ElevenLabs is now letting authors publish AI-generated audiobooks on its own Reader app, TechCrunch has learned and the company confirmed. The announcement comes days after the company partnered with Spotify for AI-narrated audiobooks. ElevenLabs, which raised a $180 million mega-ro",
+      "image": ""
+    },
+    {
+      "title": "Harvard dropouts to launch ‘always on’ AI smart glasses that listen and record every conversation",
+      "url": "https://techcrunch.com/2025/08/20/harvard-dropouts-to-launch-always-on-ai-smart-glasses-that-listen-and-record-every-conversation/",
+      "source": "Lorenzo Franceschi-Bicchierai, Rebecca Bellan",
+      "published": "Wed, 20 Aug 2025 16:00:00 +0000",
+      "summary": "After developing a facial-recognition app for Meta’s Ray-Ban glasses and doxing random people, two former Harvard students are now launching a startup that makes smart glasses with an always-on microphone.",
+      "image": ""
+    },
+    {
+      "title": "Meta to add 100MW of solar power from US gear",
+      "url": "https://techcrunch.com/2025/08/20/meta-to-add-100-mw-of-solar-power-from-u-s-gear/",
+      "source": "Tim De Chant",
+      "published": "Wed, 20 Aug 2025 15:56:53 +0000",
+      "summary": "The social media company is adding another tranche of solar to power a new AI data center in South Carolina.",
+      "image": ""
+    },
+    {
+      "title": "Gridware’s boxes literally listen to power lines to find outages",
+      "url": "https://techcrunch.com/2025/01/08/gridwares-boxes-literally-listen-to-power-lines-to-find-outages/",
+      "source": "Tim De Chant",
+      "published": "Wed, 08 Jan 2025 19:00:00 +0000",
+      "summary": "Gridware's sensors listen for sounds that the company’s software has been trained to identify as different hazards to the grid.",
+      "image": ""
+    },
+    {
+      "title": "Obvio’s stop sign cameras use AI to root out unsafe drivers",
+      "url": "https://techcrunch.com/2025/06/04/obvios-stop-sign-cameras-use-ai-to-root-out-unsafe-drivers/",
+      "source": "Sean O'Kane",
+      "published": "Wed, 04 Jun 2025 14:00:00 +0000",
+      "summary": "American streets are incredibly dangerous for pedestrians. A San Carlos, California-based startup called Obvio thinks it can change that by installing cameras at stop signs -- a solution the founders also say won’t create a panopticon.",
+      "image": ""
+    },
+    {
+      "title": "Gridcare thinks more than 100 GW of data center capacity is hiding in the grid",
+      "url": "https://techcrunch.com/2025/05/27/gridcare-thinks-more-than-100-gw-of-data-center-capacity-is-hiding-in-the-grid/",
+      "source": "Tim De Chant",
+      "published": "Tue, 27 May 2025 12:00:00 +0000",
+      "summary": "Gridcare raised $13.3 million for its data platform that finds underutilized capacity on the electrical grid.",
+      "image": ""
+    },
+    {
+      "title": "How one AI startup is helping rice farmers battle climate change",
+      "url": "https://techcrunch.com/2025/08/26/how-one-ai-startup-is-helping-rice-farmers-battle-climate-change/",
+      "source": "Tim De Chant",
+      "published": "Tue, 26 Aug 2025 15:21:19 +0000",
+      "summary": "Mitti Labs is working with The Nature Conservancy to expand the use of climate-friendly rice farming practices in India. The startup uses its AI to verify reductions in methane emissions.",
+      "image": ""
+    },
+    {
+      "title": "Geothermal could power nearly all new data centers through 2030",
+      "url": "https://techcrunch.com/2025/03/11/geothermal-could-power-nearly-all-new-data-centers-through-2030/",
+      "source": "Tim De Chant",
+      "published": "Tue, 11 Mar 2025 17:43:52 +0000",
+      "summary": "Geothermal resources have enormous potential to provide the sort of consistent power that data centers crave.",
+      "image": ""
+    },
+    {
+      "title": "YouTube AI updates include auto dubbing expansion, age ID tech, and more",
+      "url": "https://techcrunch.com/2025/02/11/youtube-ai-updates-to-include-expansion-of-auto-dubbing-age-identifying-tech-and-more/",
+      "source": "Sarah Perez",
+      "published": "Tue, 11 Feb 2025 14:57:22 +0000",
+      "summary": "In his annual letter, YouTube CEO Neal Mohan dubbed AI one of the company&#8217;s four &#8220;big bets&#8221; for 2025. The executive pointed to the company&#8217;s investments in AI tools for creators, including ones for video ideas, thumbnails, and language translation. The latter feature will rol",
+      "image": ""
+    },
+    {
+      "title": "Who are climate-conscious consumers? Not who you’d expect, says Northwind Climate",
+      "url": "https://techcrunch.com/2025/04/01/who-are-climate-conscious-consumers-not-who-youd-expect-says-northwind-climate/",
+      "source": "Tim De Chant",
+      "published": "Tue, 01 Apr 2025 19:52:59 +0000",
+      "summary": "Rather than divide people into demographic buckets, Northwind Climate analyzes survey responses for behavioral clues.",
+      "image": ""
+    },
+    {
+      "title": "Meta adds another 650 MW of solar power to its AI push",
+      "url": "https://techcrunch.com/2025/05/22/meta-adds-another-650-mw-of-solar-power-to-its-ai-push/",
+      "source": "Tim De Chant",
+      "published": "Thu, 22 May 2025 16:49:53 +0000",
+      "summary": "The company already has more than 12 gigawatts of capacity in its renewable power portfolio.",
+      "image": ""
+    },
+    {
+      "title": "Nvidia thinks AI can solve electrical grid problems caused by AI",
+      "url": "https://techcrunch.com/2025/03/20/nvidia-thinks-ai-can-solve-electrical-grid-problems-caused-by-ai/",
+      "source": "Tim De Chant",
+      "published": "Thu, 20 Mar 2025 16:41:12 +0000",
+      "summary": "The Open Power AI Consortium says it will use domain-specific AI models to tackle problems in the power industry.",
+      "image": ""
+    },
+    {
+      "title": "Solar notches another win as Microsoft adds 475 MW to power its AI data centers",
+      "url": "https://techcrunch.com/2025/03/20/solar-notches-another-win-as-microsoft-adds-475-mw-to-power-its-ai-data-centers/",
+      "source": "Tim De Chant",
+      "published": "Thu, 20 Mar 2025 14:57:11 +0000",
+      "summary": "The company recently signed a deal with energy provider AES for three solar projects across the Midwest.",
+      "image": ""
+    },
+    {
+      "title": "Data center tweaks could unlock 76 GW of new power capacity in the US",
+      "url": "https://techcrunch.com/2025/02/13/data-center-tweaks-could-unlock-76-gw-of-new-power-capacity-in-the-u-s/",
+      "source": "Tim De Chant",
+      "published": "Thu, 13 Feb 2025 14:00:00 +0000",
+      "summary": "A new study argues that data centers could be ideal demand-response participants because they have the potential to be flexible.",
+      "image": ""
+    },
+    {
+      "title": "Data centers love solar: Here’s a comprehensive guide to deals over 100 megawatts",
+      "url": "https://techcrunch.com/2025/03/30/data-centers-love-solar-heres-a-comprehensive-guide-to-deals-over-100-megawatts/",
+      "source": "Tim De Chant",
+      "published": "Sun, 30 Mar 2025 14:00:00 +0000",
+      "summary": "New and expanded data centers are expected to double the sector’s power demand by 2029 as tech companies rush to capitalize on AI.",
+      "image": ""
+    },
+    {
+      "title": "NATO says beefing up Baltic presence after Denmark drone sightings",
+      "url": "https://www.thehindu.com/news/international/nato-says-beefing-up-baltic-presence-after-denmark-drone-sightings/article70105819.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:57:53 +0530",
+      "summary": "Several NATO countries say Russian fighter jets and drones have violated their airspace in Europe over recent weeks, accusing Moscow of testing the alliance.",
+      "image": "https://th-i.thgim.com/public/incoming/k0ll9/article70106438.ece/alternates/LANDSCAPE_1200/Denmark_Drone_Airport_62451.jpg"
+    },
+    {
+      "title": "New York City Mayor Eric Adams ends his re-election campaign",
+      "url": "https://www.thehindu.com/news/international/new-york-city-mayor-eric-adams-ends-his-re-election-campaign/article70106440.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:49:56 +0530",
+      "summary": "In the video, Mr. Adams did not directly mention or endorse any of the remaining candidates in the race; he warned that “extremism is growing in our politics.”",
+      "image": "https://th-i.thgim.com/public/incoming/qderq0/article70106451.ece/alternates/LANDSCAPE_1200/2025-09-28T173123Z_800267760_RC2PPGAMTESU_RTRMADP_3_USA-SEPT11-NEW-YORK.JPG"
+    },
+    {
+      "title": "Rights group seeks international intervention over killings in Chittagong Hill Tracts",
+      "url": "https://www.thehindu.com/news/international/rights-group-seeks-international-intervention-over-killings-in-chittagong-hill-tracts/article70106096.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:49:46 +0530",
+      "summary": "The Rights and Risks Analysis Group has said that the Bangladesh Army has been bringing in “outsiders” to settle in the CHT to change the demographics of the region",
+      "image": "https://th-i.thgim.com/public/incoming/9eb351/article70106465.ece/alternates/LANDSCAPE_1200/Suhas-Chakma%201.jpg"
+    },
+    {
+      "title": "Disabled Post Office Horizon victim offered 15% of claim",
+      "url": "https://www.bbc.com/news/articles/cq5jqxjqj0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 23:48:03 GMT",
+      "summary": "Janet Skinner had a neurological collapse and was temporarily paralysed after her final court hearing.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ee7/live/0dbcda00-9a10-11f0-92db-77261a15b9d2.jpg"
+    },
+    {
+      "title": "Europe survive US comeback charge to win sensational Ryder Cup",
+      "url": "https://www.bbc.com/sport/golf/articles/c0m4g7k4l0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 23:34:55 GMT",
+      "summary": "Captain Luke Donald cements his status as a bona fide Ryder Cup legend as Europe hold of a spirited US fightback to win in New York.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c7a/live/86c17e80-9cca-11f0-928c-71dbb8619e94.jpg"
+    },
+    {
+      "title": "UGC makes registration on new Study In India portal mandatory for all foreign students",
+      "url": "https://www.thehindu.com/news/national/karnataka/ugc-makes-registration-on-new-study-in-india-portal-mandatory-for-all-foreign-students/article70105143.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:34:33 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Moldovans cast ballots in a tense election plagued by Russian interference claims",
+      "url": "https://www.thehindu.com/news/international/moldovans-cast-ballots-in-a-tense-election-plagued-by-russian-interference-claims/article70106363.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:31:17 +0530",
+      "summary": "The Central Electoral Commission reported more than 400,000 people, or about 14% of eligible voters, had cast ballots by 11 a.m.",
+      "image": "https://th-i.thgim.com/public/incoming/a4xik3/article70106392.ece/alternates/LANDSCAPE_1200/Moldova_Election_62927.jpg"
+    },
+    {
+      "title": "Ryu Ga Gotoku boss credits PC gamers' love of Yakuza 0 with taking the series worldwide: 'I truly believe we are where we are today because of them'",
+      "url": "https://www.pcgamer.com/games/action/ryu-ga-gotoku-boss-credits-pc-gamers-love-of-yakuza-0-with-taking-the-series-worldwide-i-truly-believe-we-are-where-we-are-today-because-of-them/",
+      "source": "Ted Litchfield",
+      "published": "Sun, 28 Sep 2025 23:20:36 +0000",
+      "summary": "Stop, please, you're making us blush.",
+      "image": "https://cdn.mos.cms.futurecdn.net/u9oFBiuzYKG4ai9hTBkama-1280-80.jpg"
+    },
+    {
+      "title": "Satheesan urges Centre to intervene in Air India Express service cuts",
+      "url": "https://www.thehindu.com/news/national/kerala/satheesan-urges-centre-to-intervene-in-air-india-express-service-cuts/article70106427.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:19:15 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Government raising awareness on early diagnosis for heart conditions, says Minister",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/government-raising-awareness-on-early-diagnosis-for-heart-conditions-says-minister/article70105844.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:17:04 +0530",
+      "summary": "On the eve of World Heart Day, Satya Kumar Yadav claims that around 1.41 lakh people with heart conditions receive free medical treatment worth around ₹996 crore through the NTR Vaidya Seva",
+      "image": ""
+    },
+    {
+      "title": "Mattanchery police nab Maharashtra man for alleged role in ₹2.8cr. ‘virtual arrest’ scam",
+      "url": "https://www.thehindu.com/news/national/kerala/mattanchery-police-nab-maharashtra-man-for-alleged-role-in-28cr-virtual-arrest-scam/article70106092.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:14:19 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "RJD, Congress to give up seats in favour of allies in Bihar",
+      "url": "https://www.thehindu.com/elections/bihar-assembly/congress-rjd-to-cut-down-its-tally-by-at-least-a-dozen-seats-to-accommodate-allies/article70105230.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:11:29 +0530",
+      "summary": "The RJD-led mahagatbandhan is narrowing down on a seat-sharing formula for the upcoming Bihar Assembly polls, where both RJD and Congress have agreed to give up a dozen seats each to accommodate the now expanded coalition",
+      "image": "https://th-i.thgim.com/public/incoming/d0n7ea/article70106422.ece/alternates/LANDSCAPE_1200/20250417189L.jpg"
+    },
+    {
+      "title": "Trump hints at ‘something special’ in West Asia talks",
+      "url": "https://www.thehindu.com/news/international/trump-hints-at-something-special-in-middle-east-talks/article70106382.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:10:10 +0530",
+      "summary": "U.S. President Trump said that “all are on board for something special” in Middle East, with Netanyahu’s visit to White House and plan for Gaza peace",
+      "image": "https://th-i.thgim.com/public/incoming/yv7c7w/article70086348.ece/alternates/LANDSCAPE_1200/2025-09-23T200658Z_548447446_RC2EWGAL491J_RTRMADP_3_USA-MINING-LITHIUM-AMERICAS.JPG"
+    },
+    {
+      "title": "The picturesque Dutch village set to charge tourists an entry fee",
+      "url": "https://www.bbc.com/news/articles/cn4ly3mr443o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 23:09:59 GMT",
+      "summary": "Zaanse Schans, popular for its windmills, has a population of just 100 people - but more than two million tourists will have visited this year.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8247/live/0317e6f0-8feb-11f0-a795-b308c7069dd1.jpg"
+    },
+    {
+      "title": "Heavy rush in Vijayawada on eve of Moola Nakshatram day, traffic diversions in place",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/heavy-rush-in-vijayawada-on-eve-of-moola-nakshatram-day-traffic-diversions-in-place/article70105651.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:06:52 +0530",
+      "summary": "Thousands of devotees throng the city for darshan of Goddess Kanaka Durga, leading to traffic snarls at major junctions. Officials announce diversions and no-vehicle zones, with tight security for the Chief Minister’s visit to Indrakeeladri",
+      "image": "https://th-i.thgim.com/public/incoming/21ijbl/article70106423.ece/alternates/LANDSCAPE_1200/28GNRAO-PASSANGERS-01%202.JPG"
+    },
+    {
+      "title": "Faith-driven hunt threatens survival of Telangana’s State bird, Palapitta",
+      "url": "https://www.thehindu.com/news/national/telangana/faith-driven-hunt-threatens-survival-of-telanganas-state-bird-palapitta/article70105508.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:03:53 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/et8hco/article70105468.ece/alternates/LANDSCAPE_1200/2248_3_10_2022_19_52_58_1_03HYNGG_INDIANBLUEJAY03.JPG"
+    },
+    {
+      "title": "How weight-loss injections are turning obesity into a wealth issue",
+      "url": "https://www.bbc.com/news/articles/cre5xp83394o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 23:02:31 GMT",
+      "summary": "With claims of a 'two-tier system', could it be that these drugs are exacerbating health inequalities?",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c8e/live/6181cad0-991e-11f0-af62-91486a511a31.jpg"
+    },
+    {
+      "title": "KVPS slams government for ‘humiliating’ Legislative Council Chairman",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kvps-slams-government-for-humiliating-legislative-council-chairman/article70106233.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 23:01:48 +0530",
+      "summary": "Moshenu Raju has not been invited to the inauguration of the new Assembly building complex as he belonged to the SC community, the KVPS leaders allege",
+      "image": ""
+    },
+    {
+      "title": "Deepavali discount sale begins at Co-optex showroom in Villupuram",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/deepavali-discount-sale-begins-at-co-optex-showroom-in-villupuram/article70105223.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:52:40 +0530",
+      "summary": "According to a press release, Co-optex will offer a rebate of 30% on silk and cotton saris sourced from weavers in Coimbatore, Kancheepuram, Salem, Arani, and Tirubhuvanam, among other places.",
+      "image": ""
+    },
+    {
+      "title": "Krishna floods: Officials close bathing ghats, stop devotees from taking bath in river",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/krishna-floods-officials-close-bathing-ghats-stop-devotees-from-taking-bath-in-river/article70106108.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:52:32 +0530",
+      "summary": "Villagers evacuated from Pata Yadlalanka island at Avanigadda; those staying in the downstream of Krishna asked not to cross the overflowing canals and the river on countrymade boats",
+      "image": "https://th-i.thgim.com/public/incoming/n1bxkj/article70106398.ece/alternates/LANDSCAPE_1200/DSC_3649.JPG"
+    },
+    {
+      "title": "LPG consumers can change their suppliers, companies soon",
+      "url": "https://www.thehindu.com/news/national/lpg-consumers-can-change-their-suppliers-companies-soon/article70105625.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:49:27 +0530",
+      "summary": "Petroleum and Natural Gas Regulatory Board has invited comments from stakeholders and consumers",
+      "image": ""
+    },
+    {
+      "title": "The Hindu and Andhra Hospitals to conduct awareness programme today on heart health",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-hindu-and-andhra-hospitals-to-conduct-awareness-programme-today-on-heart-health/article70106188.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:48:08 +0530",
+      "summary": "Aim is to educate people the importance of maintaining a healthy heart through lifestyle choices, timely diagnosis, and preventive care",
+      "image": ""
+    },
+    {
+      "title": "600 treated at free eye camp",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/600-treated-at-free-eye-camp/article70106200.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:47:07 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Former IAS officer opposes government’s decision of PPP model for medical colleges",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/former-ias-officer-opposes-governments-decision-of-ppp-model-for-medical-colleges/article70106183.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:44:17 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "WRD begins restoration of Thalavanur anicut across Thenpennai River",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/wrd-begins-restoration-of-thalavanur-anicut-across-thenpennai-river/article70105199.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:44:00 +0530",
+      "summary": "Located about 10 km from Villupuram, the anicut had been designed to trap flood waters and help recharge ground water.",
+      "image": ""
+    },
+    {
+      "title": "Dharmendra Pradhan calls on CM Nitish in Patna",
+      "url": "https://www.thehindu.com/news/national/bihar/dharmendra-pradhan-calls-on-cm-nitish-in-patna/article70105488.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:42:04 +0530",
+      "summary": "The Union Minister was recently appointed the BJP’s in-charge for the Bihar Assembly election",
+      "image": "https://th-i.thgim.com/public/incoming/s653g2/article70106374.ece/alternates/LANDSCAPE_1200/20250928048L.jpg"
+    },
+    {
+      "title": "RIVER designs mobile app to strengthen rabies surveillance",
+      "url": "https://www.thehindu.com/news/cities/puducherry/river-designs-mobile-app-to-strengthen-rabies-surveillance/article70105303.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:35:23 +0530",
+      "summary": "Technical sessions led by experts held subsequently covered a wide range of topics including rabies immunization, animal reservoirs, diagnostic techniques, and the objectives of the National Rabies Control Programme",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/oto523/article70105454.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-28%20at%206.00.52%20PM.jpeg"
+    },
+    {
+      "title": "At UNGA week, India signals realignment with the Global South",
+      "url": "https://www.thehindu.com/news/national/at-unga-week-india-signals-realignment-with-the-global-south/article70106158.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:34:47 +0530",
+      "summary": "Troubles with the U.S., a shift on criticising Israel, External Affairs Minister Jaishankar’s meetings on UNGA sidelines indicate focus on developing world",
+      "image": "https://th-i.thgim.com/public/incoming/30rksu/article70106329.ece/alternates/LANDSCAPE_1200/2025-09-27T175901Z_645195732_RC2H0HAGL5PK_RTRMADP_3_UN-ASSEMBLY.JPG"
+    },
+    {
+      "title": "PSI suspended for releasing suspect without inquiry",
+      "url": "https://www.thehindu.com/news/national/karnataka/psi-suspended-for-releasing-suspect-without-inquiry/article70105310.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:33:27 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "CM Revanth Reddy vows rehabilitation of residents in Musi river catchment areas",
+      "url": "https://www.thehindu.com/news/national/telangana/cm-revanth-reddy-vows-rehabilitation-of-residents-in-musi-river-catchment-areas/article70106067.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:30:43 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/rtoh02/article70106339.ece/alternates/LANDSCAPE_1200/DSC3921.jpg"
+    },
+    {
+      "title": "Karur stampede: one-man commission to investigate incident just a ritual, says Seeman",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/karur-stampede-one-man-commission-to-investigate-incident-just-a-ritual-says-seeman/article70105697.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:26:00 +0530",
+      "summary": "Former BJP State president K. Annamalai and former T.N. Chief Minister O. Panneerselvam call for CBI probe into the incident",
+      "image": "https://th-i.thgim.com/public/incoming/4am0qq/article70106322.ece/alternates/LANDSCAPE_1200/Seeman%208.jpg"
+    },
+    {
+      "title": "BJP leaders to tour flood-hit districts in Karnataka in two teams",
+      "url": "https://www.thehindu.com/news/national/karnataka/bjp-leaders-to-tour-flood-hit-districts-in-karnataka-in-two-teams/article70105865.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:22:12 +0530",
+      "summary": "The Bharatiya Janata Party leaders will tour different flood-hit districts in Karnataka to assess the situation",
+      "image": "https://th-i.thgim.com/public/incoming/4ulio6/article70106320.ece/alternates/LANDSCAPE_1200/BJP.JPEG"
+    },
+    {
+      "title": "Ensure safety of flood-affected people, Kalaburagi officials told",
+      "url": "https://www.thehindu.com/news/national/karnataka/ensure-safety-of-flood-affected-people-kalaburagi-officials-told/article70105872.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:19:33 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Four killed in attack on Michigan Mormon church",
+      "url": "https://www.thehindu.com/news/international/mormon-church-michigan-shooting-several-dead/article70106292.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:16:51 +0530",
+      "summary": "The suspect, a 40-year-old man, was shot dead by law enforcement responding to the attack, in which the church was also set ablaze",
+      "image": "https://th-i.thgim.com/public/incoming/57j2js/article70106386.ece/alternates/LANDSCAPE_1200/Church_Shooting_Michigan_71734.jpg"
+    },
+    {
+      "title": "Water and adventure sports facility inaugurated in Hubballi",
+      "url": "https://www.thehindu.com/news/national/karnataka/water-and-adventure-sports-inaugurated-in-hubballi/article70105767.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:14:59 +0530",
+      "summary": "Unkal Lake cleaned, beautified and developed under the Smart Cities project",
+      "image": ""
+    },
+    {
+      "title": "Murphy beats McGill to win British Open for first time",
+      "url": "https://www.bbc.com/sport/snooker/articles/cy85l2e2j5xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 22:14:53 GMT",
+      "summary": "Shaun Murphy beats Anthony McGill 10-7 in a thrilling final to win the British Open title for the first time.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0621/live/c99ce5e0-9cb2-11f0-9b03-63cb4d3852ef.jpg"
+    },
+    {
+      "title": "Reeves to guarantee paid work for young people unemployed for 18 months",
+      "url": "https://www.bbc.com/news/articles/c80gj2knrx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 22:13:31 GMT",
+      "summary": "The chancellor will commit to \"the abolition of long-term youth unemployment\" in her speech at Labour conference.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0104/live/6e3af170-9cac-11f0-8e15-edf4f5ab4f3b.jpg"
+    },
+    {
+      "title": "No ceasefire, Maoists must give up arms, says Amit Shah",
+      "url": "https://www.thehindu.com/news/national/no-ceasefire-maoists-must-give-up-arms-says-amit-shah/article70106145.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:11:31 +0530",
+      "summary": "Union Home Minister reiterates pledge to eradicate Left-Wing Extremism by March 2026, cites success of unified strategy under Modi government",
+      "image": "https://th-i.thgim.com/public/incoming/cg8d9l/article70106216.ece/alternates/LANDSCAPE_1200/PTI09_28_2025_000374B.jpg"
+    },
+    {
+      "title": "1,360 members of 445 families shifted from flood-hit villages to care centres in Yadgir",
+      "url": "https://www.thehindu.com/news/national/karnataka/1360-members-of-445-families-shifted-from-flood-hit-villages-to-care-centres-in-yadgir/article70105699.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:09:27 +0530",
+      "summary": "Road connectivity to 24 villages in the district has been disrupted after bridges/bridge-cum-barrages got submerged in the Bhima waters",
+      "image": ""
+    },
+    {
+      "title": "Prioritise heritage conservation over high-rise culture, says Lt. Governor Kailashnathan",
+      "url": "https://www.thehindu.com/news/cities/puducherry/prioritise-heritage-conservation-over-high-rise-culture-says-lt-governor-kailashnathan/article70105259.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:09:21 +0530",
+      "summary": "The Lt. Governor said demolition of old structures to build new tall buildings was tantamount to burying the city’s cherished heritage.",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/8ksbxh/article70105383.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-28%20at%205.35.34%20PM.jpeg"
+    },
+    {
+      "title": "APSSDC, OMCAP offer overseas jobs for homecare nurses in Qatar",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/apssdc-omcap-offer-overseas-jobs-for-homecare-nurses-in-qatar/article70106006.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:09:15 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Gang abducts and robs trio of ₹1.01 cr. in Bengaluru; nabbed within 15 minutes after police were alerted",
+      "url": "https://www.thehindu.com/news/national/karnataka/trio-abducted-robbed-of-101-cr-in-bengaluru-accused-nabbed-within-15-min-after-police-were-alerted/article70105260.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:05:21 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Volunteers, political parties distribute food, water to grieving relatives of victims at Karur hospital",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/volunteers-political-parties-distribute-food-water-to-grieving-relatives-of-victims-at-karur-hospital/article70105423.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:04:45 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/news/cities/Tiruchirapalli/2e466v/article70106275.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-28%20at%209.58.29%20PM.jpeg"
+    },
+    {
+      "title": "Research, innovation, entrepreneurship are thrust areas for Higher Education 2.0, says top NITI Aayog official",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/research-innovation-entrepreneurship-are-thrust-areas-for-higher-education-20-says-top-niti-aayog-official/article70105639.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 22:04:30 +0530",
+      "summary": "Mr. Shah said that the contribution of innovation and entrepreneurship has been reflected in the steady rise of start-ups in the country.",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/xxcqi3/article70105772.ece/alternates/LANDSCAPE_1200/VIT-29.jpeg"
+    },
+    {
+      "title": "Emotional Lowry almost lost for words after crucial Ryder Cup putt",
+      "url": "https://www.bbc.com/sport/golf/videos/c3vz7q00659o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 21:58:14 GMT",
+      "summary": "Shane Lowry is almost lost for words  following his crucial putt to retain the Ryder Cup for Europe.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8ed/live/52cb6380-9cb5-11f0-b741-177e3e2c2fc7.jpg"
+    },
+    {
+      "title": "Death toll in Karur stampede rises to 40; Justice Aruna Jagadeesan begins inquiries",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/death-toll-in-karur-stampede-rises-to-40-justice-aruna-jagadeesan-begins-inquiries/article70105243.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:56:07 +0530",
+      "summary": "Of the 40 dead, 17 were women, 14 men, and nine children. Medical teams completed post-mortems on all victims on September 27 night and began handing over the bodies to their families before dawn on September 28",
+      "image": "https://th-i.thgim.com/public/incoming/rshh9i/article70106258.ece/alternates/LANDSCAPE_1200/KMCH%20MORTUARY%202.JPG"
+    },
+    {
+      "title": "Karur stampede: VCK seeks ₹50 lakh compensation for victims’ families",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/karur-stampede-vck-seeks-50-lakh-compensation-for-victims-families/article70105859.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:55:48 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/bmg7lx/article70106265.ece/alternates/LANDSCAPE_1200/THOL_THIRUMAVALAVAN_VCK_PRESIDENT_3.jpg"
+    },
+    {
+      "title": "Two civilians killed in Ladakh protests cremated amid curfew in Leh",
+      "url": "https://www.thehindu.com/news/national/ladakh/two-civilians-killed-in-ladakh-protests-cremated-amid-curfew-in-leh/article70105886.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:52:21 +0530",
+      "summary": "The unrest in Ladakh is the BJP’s own creation. The same people who once cheered abrogation of Article 370  now feel betrayed by unkept promises. Youth anger, joblessness, and denial of Sixth Schedule rights have pushed them to the streets",
+      "image": "https://th-i.thgim.com/public/incoming/7e41kc/article70106238.ece/alternates/LANDSCAPE_1200/20250928164L.jpg"
+    },
+    {
+      "title": "Parts of Hyderabad receive light showers on Sunday night",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/parts-of-hyderabad-receive-light-showers-on-sunday-night/article70106201.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:51:58 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "HDK cautions against forced acquisition of farmlands in Bidadi, lashes out at Shivakumar",
+      "url": "https://www.thehindu.com/news/national/karnataka/hdk-cautions-against-forced-acquisition-of-farmlands-in-bidadi-lashes-out-at-shivakumar/article70106051.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:51:38 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/m267h8/article70106244.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-28%20at%2019.11.00.jpeg"
+    },
+    {
+      "title": "Saleem elected to CPI national executive",
+      "url": "https://www.thehindu.com/news/cities/puducherry/saleem-elected-to-cpi-national-executive/article70105520.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:50:53 +0530",
+      "summary": "The 25th party congress of the CPI was concluded in Chandigarh recently",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/l7uguv/article70105717.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-28%20at%207.22.54%20PM.jpeg"
+    },
+    {
+      "title": "It's possible to get Silksong's double jump in Act 1 well before you're supposed to, you just have to be enough of a platforming god to prove you don't need it",
+      "url": "https://www.pcgamer.com/games/action/its-possible-to-get-silksongs-double-jump-in-act-1-well-before-youre-supposed-to-you-just-have-to-be-enough-of-a-platforming-god-to-prove-you-dont-need-it/",
+      "source": "Ted Litchfield",
+      "published": "Sun, 28 Sep 2025 21:42:43 +0000",
+      "summary": "The route looks like a controller-snapping good time.",
+      "image": "https://cdn.mos.cms.futurecdn.net/VLx8ZhRZZyU49JNjoS2Bj9-1280-80.jpg"
+    },
+    {
+      "title": "Bodoland People’s Front stakes claim to form next Bodoland council",
+      "url": "https://www.thehindu.com/news/national/assam/bodoland-peoples-front-stakes-claim-to-form-next-bodoland-council/article70105024.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:38:58 +0530",
+      "summary": "The Hagrama Mohilary-led party said it was willing to work with rivals UPPL and BJP",
+      "image": "https://th-i.thgim.com/public/incoming/e55au2/article70106112.ece/alternates/LANDSCAPE_1200/PTI09_28_2025_000114B.jpg"
+    },
+    {
+      "title": "Large number of devotees participate in ‘Prabhat Pheri’",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/large-number-of-devotees-participate-in-prabhat-pheri/article70105656.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:38:11 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/qy2csj/article70106124.ece/alternates/LANDSCAPE_1200/VSP29_DASARA%206.JPG"
+    },
+    {
+      "title": "Punjab should be seen as India’s gateway to Eurasia, says Congress’ Bajwa",
+      "url": "https://www.thehindu.com/news/national/punjab/punjab-should-be-seen-as-indias-gateway-to-eurasia-says-congress-bajwa/article70105296.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:35:54 +0530",
+      "summary": "The Opposition leader proposed the creation of an ‘Amritsar-Rajpura economic corridor’ with ‘agro-processing clusters, industrial parks, and logistics hubs powering Punjab’s integration into global supply chains’",
+      "image": "https://th-i.thgim.com/public/incoming/4hpxp6/article70106195.ece/alternates/LANDSCAPE_1200/G17Q_0YWcAAYnar.jpg"
+    },
+    {
+      "title": "Migrants to face tougher conditions for settled status, home secretary to announce",
+      "url": "https://www.bbc.com/news/articles/c0m4g3zvy02o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 21:32:01 GMT",
+      "summary": "New tests will include learning English to a high standard, paying National Insurance and not claiming benefits.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e9a/live/e7ff7d70-9c9b-11f0-be60-77dafac10a24.jpg"
+    },
+    {
+      "title": "39 persons caught in stampede were brought dead: Karur Collector",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/39-persons-caught-in-stampede-were-brought-dead-karur-collector/article70105752.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:31:35 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Govt. school teacher held for sexual assault in Coimbatore",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/government-schools-physical-education-teacher-held-for-sexual-assault/article70106134.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:27:05 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Amberpet STP inaugurated; foundation laid for 39 STPs to treat sewage in ORR laid",
+      "url": "https://www.thehindu.com/news/national/telangana/amberpet-stp-inaugurated-foundation-laid-for-39-stps-to-treat-sewage-in-orr-laid/article70106040.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:23:50 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Vijay should ensure adequate arrangements for his cadre: Premallatha",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/vijay-should-ensure-adequate-arrangements-for-his-cadre-premallatha/article70106009.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:22:22 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Power tariff will come down by 13 paise per unit following APERC order: Energy Minister",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/power-tariff-will-come-down-by-13-paise-per-unit-following-aperc-order-energy-minister/article70106028.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:18:59 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "T-CHIP Semicon Constitution Summit 2025 concludes with MoUs, global roadmap",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/t-chip-semicon-constitution-summit-2025-concludes-with-mous-global-roadmap/article70105757.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:15:13 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "H. Raja slams Karur police over stampede response",
+      "url": "https://www.thehindu.com/news/cities/Madurai/h-raja-slams-karur-police-over-stampede-response/article70106083.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:14:42 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Survey: Eight assistant teachers suspended in Mysuru",
+      "url": "https://www.thehindu.com/news/national/karnataka/survey-eight-assistant-teachers-suspended-in-mysuru/article70106101.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:12:40 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Water level in Mullaperiyar dam stands at 131.20 feet",
+      "url": "https://www.thehindu.com/news/cities/Madurai/water-level-in-mullaperiyar-dam-stands-at-13120-feet/article70106013.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:12:36 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/vbzqxs/article70106125.ece/alternates/LANDSCAPE_1200/IMG_10216_18_11_2021_18__3_1_NODK7CT2.jpg"
+    },
+    {
+      "title": "Godavari river continues to be in spate, low-lying areas in Basar inundated",
+      "url": "https://www.thehindu.com/news/national/telangana/godavari-river-continues-to-be-in-spate-low-lying-areas-in-basar-inundated/article70105921.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:12:20 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "In stampede cases, police must prove ‘gross’ criminal negligence directly endangered human life, according to court verdicts",
+      "url": "https://www.thehindu.com/news/national/in-stampede-cases-the-police-must-prove-gross-criminal-negligence-directly-endangered-human-life-according-to-court-verdicts/article70105791.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:11:55 +0530",
+      "summary": "One of the offences levelled against TVK leaders in a case registered by the Karur Town Police following a stampede at a meeting addressed by actor Vijay is commission of an “act endangering life and personal safety of others”",
+      "image": "https://th-i.thgim.com/public/incoming/5k54aw/article70106138.ece/alternates/LANDSCAPE_1200/4861_28_9_2025_13_12_51_3_TVK_03.JPG"
+    },
+    {
+      "title": "Incessant rain batters Maharashtra; over 11,500 people shifted to relief camps",
+      "url": "https://www.thehindu.com/news/national/maharashtra/incessant-rain-batters-maharashtra-over-11500-people-shifted-to-relief-camps/article70105981.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:07:00 +0530",
+      "summary": "Six villages in Dharashiv cut off; CM Fadnavis terms next two days “critical” as IMD issues red alert for Mumbai, Konkan, and Marathwada",
+      "image": "https://th-i.thgim.com/public/incoming/uriytq/article70106053.ece/alternates/LANDSCAPE_1200/PTI09_28_2025_000304A.jpg"
+    },
+    {
+      "title": "Ganja, non-duty paid liquor seized during checks",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/ganja-non-duty-paid-liquor-seized-during-checks/article70105919.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:04:49 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/hbzzx5/article70105916.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-09-28%20at%2018.38.21_c9402afc.jpg"
+    },
+    {
+      "title": "Small boat carrying record 125 people crosses Channel",
+      "url": "https://www.bbc.com/news/articles/cn0re8x7172o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 21:04:03 GMT",
+      "summary": "Another migrant dies attempting the journey on a weekend which has seen a number of crossings.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fca3/live/bf497af0-9c61-11f0-b66e-67a4632b8ff2.jpg"
+    },
+    {
+      "title": "Search continues for drowned Bhavani devotees",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/search-continues-for-drowned-bhavani-devotees/article70105407.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 21:00:12 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Woman injured in wild boar attack in Idukki",
+      "url": "https://www.thehindu.com/news/national/kerala/woman-injured-in-wild-boar-attack-in-idukki/article70106042.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 20:57:27 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Scalpers are already selling the promise of an Asus ROG Xbox Ally X for over $2,000 when it's still available for pre-order at half the price",
+      "url": "https://www.pcgamer.com/hardware/scalpers-are-already-selling-the-promise-of-an-asus-rog-xbox-ally-x-for-over-usd2-000-when-its-still-available-for-pre-order-at-half-the-price/",
+      "source": "Stevie Bonifield",
+      "published": "Sun, 28 Sep 2025 20:57:16 +0000",
+      "summary": "The ROG Xbox Ally X is pricey enough as it is without paying a scalper double.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Z4vDy4ZTq3Ez22wJVGnKse-1280-80.jpg"
+    },
+    {
+      "title": "After stumbling out of the gate with poor sales as a PS5 exclusive, Final Fantasy 7: Rebirth director says it's 'doing very well on both PS5 and PC,' while 'a lot of the content is already playable' in the upcoming third game",
+      "url": "https://www.pcgamer.com/games/final-fantasy/after-stumbling-out-of-the-gate-with-poor-sales-as-a-ps5-exclusive-final-fantasy-7-rebirth-director-says-its-doing-very-well-on-both-ps5-and-pc-while-a-lot-of-the-content-is-already-playable-in-the-upcoming-third-game/",
+      "source": "Ted Litchfield",
+      "published": "Sun, 28 Sep 2025 20:54:20 +0000",
+      "summary": "Maybe the next one will sell better if it's on PC from the jump.",
+      "image": "https://cdn.mos.cms.futurecdn.net/wmnc8PJiQMNcHLJhYS74Bd-1280-80.jpg"
+    },
+    {
+      "title": "Slots for ‘Neril Subcollector’ project increased",
+      "url": "https://www.thehindu.com/news/national/kerala/slots-for-neril-subcollector-project-increased/article70106038.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 20:53:04 +0530",
+      "summary": "Idukki Subcollector completes two online sittings, 13 people submit complaints",
+      "image": ""
+    },
+    {
+      "title": "LDF backs NSS leadership that is under fire for endorsing government’s Sabarimala policy",
+      "url": "https://www.thehindu.com/news/national/kerala/ldf-backs-nss-leadership-that-is-under-fire-for-endorsing-governments-sabarimala-policy/article70105855.ece",
+      "source": "The Hindu",
+      "published": "Sun, 28 Sep 2025 20:49:43 +0530",
+      "summary": "Transport Minister K.B. Ganesh Kumar slams “scattered protests by a few disgruntled elements” and says Sukumaran Nair has not veered from NSS’s stated principle of political equi-distance",
+      "image": ""
+    },
+    {
+      "title": "Arsenal seize 'massive opportunity' by proving mentality",
+      "url": "https://www.bbc.com/sport/football/articles/cn4l8kzkr1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 20:45:35 GMT",
+      "summary": "Arsenal were in trouble as they trailed Newcastle with six minutes to go - but they are becoming a side who refuse to fold, and it gives them optimism for the challenges ahead, writes Ciaran Kelly.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c421/live/e9caff90-9ca4-11f0-b829-b95ae45b90af.jpg"
+    },
+    {
+      "title": "Don't underestimate peril for Labour, says Burnham",
+      "url": "https://www.bbc.com/news/articles/cn0xzpngj5xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 20:33:44 GMT",
+      "summary": "The mayor of Greater Manchester said those calling for loyalty were  \"underestimating the peril the party is in\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4fed/live/2cbc28f0-9c79-11f0-8277-67a32d4ec754.png"
+    },
+    {
+      "title": "There's a Silksong mod to double every boss in the game, in case it was getting too easy",
+      "url": "https://www.pcgamer.com/games/action/theres-a-silksong-mod-to-double-every-boss-in-the-game-in-case-it-was-getting-too-easy/",
+      "source": "Ted Litchfield",
+      "published": "Sun, 28 Sep 2025 19:57:14 +0000",
+      "summary": "The way it was meant to be played?",
+      "image": "https://cdn.mos.cms.futurecdn.net/6UWiZVDc2yNu5eM953U2gh-1280-80.jpg"
+    },
+    {
+      "title": "'Something we try might go wrong or it might not be good, but we'll address it': 2XKO director promises the team is committed to the new League of Legends fighting game",
+      "url": "https://www.pcgamer.com/games/something-we-try-might-go-wrong-or-it-might-not-be-good-but-well-address-it-2xko-director-promises-the-team-is-committed-to-the-new-league-of-legends-fighting-game/",
+      "source": "Stevie Bonifield",
+      "published": "Sun, 28 Sep 2025 19:36:10 +0000",
+      "summary": "Ahead of its early access release, 2XKO's director warns players it might not be perfect.",
+      "image": "https://cdn.mos.cms.futurecdn.net/KMNZzF2NoXuLV6QoKtaSa5-1280-80.jpg"
+    },
+    {
+      "title": "Rangers fans still angry but is tanker turning?",
+      "url": "https://www.bbc.com/sport/football/articles/cjr5qv12rqno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 19:16:04 GMT",
+      "summary": "Rangers fans remain unconvinced by head coach Russell Martin, but was the Ibrox side's victory at Livingston on Sunday evidence of improvement under the Englishman?",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82b2/live/a8016810-9c95-11f0-928c-71dbb8619e94.jpg"
+    },
+    {
+      "title": "'The team wanted to present more than a postcard or a backdrop': Forza Horizon 6 devs credit road trips and Hot Wheels DLC for upcoming racer",
+      "url": "https://www.pcgamer.com/games/racing/the-team-wanted-to-present-more-than-a-postcard-or-a-backdrop-forza-horizon-6-devs-credit-road-trips-and-hot-wheels-dlc-for-upcoming-racer/",
+      "source": "Stevie Bonifield",
+      "published": "Sun, 28 Sep 2025 19:01:06 +0000",
+      "summary": "The Forza Horizon 5 Hot Wheels DLC was the practice run for Horizon 6.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Phx7eaTZbraCPgnarNfAHj-1280-80.jpg"
+    },
+    {
+      "title": "Is Saros a reference to The King in Yellow book?",
+      "url": "https://www.polygon.com/saros-housemarque-king-yellow-book/",
+      "source": "Paulo Kawanishi",
+      "published": "Sun, 28 Sep 2025 19:00:16 GMT",
+      "summary": "Housemarque's new game Saros and the yellow hell its main character is stuck on might be connected to a 19th-century short story collection.",
+      "image": ""
+    },
+    {
+      "title": "This criminally overlooked Rick and Morty replacement is finally streaming on Netflix",
+      "url": "https://www.polygon.com/solar-opposites-on-netflix/",
+      "source": "Jake Kleinman",
+      "published": "Sun, 28 Sep 2025 18:01:16 GMT",
+      "summary": "Solar Opposites can be best described as Rick and Morty without the heady influence of Dan Harmon.",
+      "image": ""
+    },
+    {
+      "title": "Hackers contact Harrods after 430,000 customer records hit by IT breach",
+      "url": "https://www.bbc.com/news/articles/cpq5w324pd3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 17:25:38 GMT",
+      "summary": "The luxury department store said it was working with authorities, and the affected data was limited to basic details.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49a4/live/7875fa30-9c80-11f0-92db-77261a15b9d2.jpg"
+    },
+    {
+      "title": "No Rapture? Doomsday cult PC game Join Us offers an alternative",
+      "url": "https://www.polygon.com/doomsday-cult-survival-sim-join-us-rapture-apocalypse/",
+      "source": "Michael McWhertor",
+      "published": "Sun, 28 Sep 2025 17:15:16 GMT",
+      "summary": "Join Us is a doomsday cult survival sim coming to PC in 2026, letting you prep for the apocalypse in a fun way.",
+      "image": ""
+    },
+    {
+      "title": "Every game, trailer, and announcement in the PC Gaming Show Tokyo Direct",
+      "url": "https://www.pcgamer.com/gaming-industry/events-conferences/every-game-trailer-and-announcement-in-the-pc-gaming-show-tokyo-direct/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 17:12:47 +0000",
+      "summary": "Every. Single. Thing.",
+      "image": "https://cdn.mos.cms.futurecdn.net/KetyoKXxHPLi7JjgX5sZrR-1280-80.jpg"
+    },
+    {
+      "title": "Don't Lie is a freaky new horror game about a reclusive 'hikikomori' trapped in liminal spaces with terrifying hallucinations and so very many eyes",
+      "url": "https://www.pcgamer.com/games/horror/dont-lie-is-a-freaky-new-horror-game-about-a-reclusive-hikikomori-trapped-in-liminal-spaces-with-terrifying-hallucinations-and-so-very-many-eyes/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 17:12:01 +0000",
+      "summary": "The walls have eyes. Everything has eyes. The eyes might have eyes.",
+      "image": "https://cdn.mos.cms.futurecdn.net/3kvSnpMRKTH9YBWmgiT4va-1280-80.png"
+    },
+    {
+      "title": "New party game Task Time promises 'unlimited chaos' with over 500,000 task variations and the instruction to 'do what it takes' to win",
+      "url": "https://www.pcgamer.com/games/new-party-game-task-time-promises-unlimited-chaos-with-over-500-000-task-variations-and-the-instruction-to-do-what-it-takes-to-win/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 17:10:42 +0000",
+      "summary": "The studio behind this new party game includes former Fall Guys and Gang Beasts developers.",
+      "image": "https://cdn.mos.cms.futurecdn.net/CLhQqSzVHGa92qMPDmxhKC-1280-80.jpg"
+    },
+    {
+      "title": "Absolum's newest trailer teases killer music from the composer behind Elden Ring and Sekiro",
+      "url": "https://www.pcgamer.com/games/fighting/absolums-newest-trailer-teases-killer-music-from-the-composer-behind-elden-ring-and-sekiro/",
+      "source": "Justin Wagner",
+      "published": "Sun, 28 Sep 2025 17:09:23 +0000",
+      "summary": "The dark fantasy beat 'em up should make for a stellar soundscape.",
+      "image": "https://cdn.mos.cms.futurecdn.net/SF9YbsSdZ3bv8k8zNRjUPZ-1280-80.png"
+    },
+    {
+      "title": "Will you lead your foxfolk to war or peace in 4X kingdom builder Raev: Kingdom on the Distant Shores?",
+      "url": "https://www.pcgamer.com/games/strategy/will-you-lead-your-foxfolk-to-war-or-peace-in-4x-kingdom-builder-raev-kingdom-on-the-distant-shores/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 17:07:37 +0000",
+      "summary": "I'll be so sad if anything bad happens to these foxes.",
+      "image": "https://cdn.mos.cms.futurecdn.net/T6xpnDwVSTTjz6vb9cRrdK-1280-80.png"
+    },
+    {
+      "title": "Huntsman is like Alien: Isolation but with massive spiders instead of Xenomorphs, and its demo is coming next month",
+      "url": "https://www.pcgamer.com/games/horror/huntsman-is-like-alien-isolation-but-with-massive-spiders-instead-of-xenomorphs-and-its-demo-is-coming-next-month/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 17:06:08 +0000",
+      "summary": "Kill it with fire.",
+      "image": "https://cdn.mos.cms.futurecdn.net/gdGFrDZEFqEmjNHA2bUG5o-1280-80.png"
+    },
+    {
+      "title": "Arrests at protest supporting Palestine Action near Labour conference",
+      "url": "https://www.bbc.com/news/articles/cx20l1257l4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 17:05:04 GMT",
+      "summary": "Merseyside Police says arrests were made on suspicion of supporting the proscribed group.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47ff/live/3bfe3980-9c87-11f0-95c6-7592d7636e22.jpg"
+    },
+    {
+      "title": "Don't lie: You've always wanted to be a djent-fueled shapeshifting robot samurai, and Morbid Metal's imminent playtest will finally deliver the goods",
+      "url": "https://www.pcgamer.com/games/action/dont-lie-youve-always-wanted-to-be-a-djent-fueled-shapeshifting-robot-samurai-and-morbid-metals-imminent-playtest-will-finally-deliver-the-goods/",
+      "source": "Justin Wagner",
+      "published": "Sun, 28 Sep 2025 17:02:09 +0000",
+      "summary": "Can't pick a character? Just swap mid-combo.",
+      "image": "https://cdn.mos.cms.futurecdn.net/LHhsCEgN4KFXJxj2hPcjaS-1280-80.jpg"
+    },
+    {
+      "title": "Alien: Earth cast & crew talk art, eyeball aliens, and 'the ghost of Giger'",
+      "url": "https://www.polygon.com/alien-earth-special-effects-weta-workshop-interview/",
+      "source": "Claire Lewis",
+      "published": "Sun, 28 Sep 2025 17:01:16 GMT",
+      "summary": "The success of Noah Hawley's FX show relied heavily on the success of its practical effects and art design teams.",
+      "image": ""
+    },
+    {
+      "title": "Oku lets you live out life as a serene wandering poet who helps talking cats, tea ladies, and disgruntled fishermen",
+      "url": "https://www.pcgamer.com/games/oku-lets-you-live-out-life-as-a-serene-wandering-poet-who-helps-talking-cats-tea-ladies-and-disgruntled-fishermen/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 17:00:55 +0000",
+      "summary": "Isn't Oku great? Isn't it so beautiful? This is a haiku.",
+      "image": "https://cdn.mos.cms.futurecdn.net/jQ4cPseNVk6P2MYHzcZLs9-1280-80.jpg"
+    },
+    {
+      "title": "D-topia is about a city where 'life is curated by artificial intelligence to maximize happiness,' which actually sounds like something the tech industry is on the verge of pitching",
+      "url": "https://www.pcgamer.com/games/puzzle/d-topia-is-about-a-city-where-life-is-curated-by-artificial-intelligence-to-maximize-happiness-which-actually-sounds-like-something-the-tech-industry-is-on-the-verge-of-pitching/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 17:00:09 +0000",
+      "summary": "But how perfect is paradise, really?",
+      "image": "https://cdn.mos.cms.futurecdn.net/KmxLzgXfiGLjJYNtCCxnqT-1280-80.jpg"
+    },
+    {
+      "title": "Create your band in People of Note, a turn-based RPG musical that feels like the Kpop Demon Hunters tie-in game I wished for",
+      "url": "https://www.pcgamer.com/games/rpg/create-your-band-in-people-of-note-a-turn-based-rpg-musical-that-feels-like-the-kpop-demon-hunters-tie-in-game-i-wished-for/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:59:30 +0000",
+      "summary": "Blend genres in rhythmic battles.",
+      "image": "https://cdn.mos.cms.futurecdn.net/BzFnSVqjqobNZ4Uns6CWdm-1280-80.jpg"
+    },
+    {
+      "title": "Demi and the Fractured Dream brings a Zelda-like action adventure game to PC with stylish combat and mysterious characters",
+      "url": "https://www.pcgamer.com/games/adventure/demi-and-the-fractured-dream-brings-a-zelda-like-action-adventure-game-to-pc-with-stylish-combat-and-mysterious-characters/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:59:05 +0000",
+      "summary": "Stunning vistas and dangerous dungeons.",
+      "image": "https://cdn.mos.cms.futurecdn.net/fqqgQcKMP8vmi68Ygf6GVR-1280-80.jpg"
+    },
+    {
+      "title": "House Flipper 2 brings back the pets in an upcoming DLC that will add dozens of cats and dogs as well as hamster, bunnies, snakes, and a bunch of other cute critters to adopt",
+      "url": "https://www.pcgamer.com/games/life-sim/house-flipper-2-brings-back-the-pets-in-an-upcoming-dlc-that-will-add-dozens-of-cats-and-dogs-as-well-as-hamster-bunnies-snakes-and-a-bunch-of-other-cute-critters-to-adopt/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:57:05 +0000",
+      "summary": "Who's a good boy?",
+      "image": "https://cdn.mos.cms.futurecdn.net/C2wfvKNqn7bNCzEqK8bCxX-1280-80.png"
+    },
+    {
+      "title": "Outward 2 opts for immersion over power fantasy, but the RPG gives you all the tools you need to survive in its harsh world",
+      "url": "https://www.pcgamer.com/games/rpg/outward-2-opts-for-immersion-over-power-fantasy-but-the-rpg-gives-you-all-the-tools-you-need-to-survive-in-its-harsh-world/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:56:36 +0000",
+      "summary": "You're only as good as your preparation.",
+      "image": "https://cdn.mos.cms.futurecdn.net/aS5sEq7jkuTkPecreR8Mp4-1280-80.png"
+    },
+    {
+      "title": "Reach combines the best of Mirror's Edge and Prince of Persia in a sleek VR package",
+      "url": "https://www.pcgamer.com/games/vr/reach-combines-the-best-of-mirrors-edge-and-prince-of-persia-in-a-sleek-vr-package/",
+      "source": "Justin Wagner",
+      "published": "Sun, 28 Sep 2025 16:53:35 +0000",
+      "summary": "Ancient secrets, arcane archery, and oodles of first person platforming awaits.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Xf8bgKuoTMFsEJT7FvBsKC-1280-80.jpg"
+    },
+    {
+      "title": "Soulmask, the survival game that's basically Palworld but with people, is finally leaving early access, and it's coming with an ancient Egyptian DLC",
+      "url": "https://www.pcgamer.com/games/survival-crafting/soulmask-the-survival-game-thats-basically-palworld-but-with-people-is-finally-leaving-early-access-and-its-coming-with-an-ancient-egyptian-dlc/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:50:39 +0000",
+      "summary": "Soulmask will hit 1.0 later this year.",
+      "image": "https://cdn.mos.cms.futurecdn.net/UBoMNaD6ysnqXbjDTdzVXj-1280-80.jpg"
+    },
+    {
+      "title": "Dawn of War 4's 'guiding star' was the first in the series, but 'you're not trying to recreate the old game, you try to recreate the feeling'",
+      "url": "https://www.pcgamer.com/games/rts/dawn-of-war-4s-guiding-star-was-the-first-in-the-series-but-youre-not-trying-to-recreate-the-old-game-you-try-to-recreate-the-feeling/",
+      "source": "Justin Wagner",
+      "published": "Sun, 28 Sep 2025 16:49:05 +0000",
+      "summary": "Creative director Jan Theysen and senior game designer Elliott Verbiest explain how the sequel's inspirations affected what went into it.",
+      "image": "https://cdn.mos.cms.futurecdn.net/UTjFyg4BiMxRVVm4hqHbbG-1280-80.jpg"
+    },
+    {
+      "title": "If the average JRPG moves too slowly for you, keep an eye on Threads of Time, which gets through 12 million years and an apocalypse in one campaign",
+      "url": "https://www.pcgamer.com/games/rpg/if-the-average-jrpg-moves-too-slowly-for-you-keep-an-eye-on-threads-of-time-which-gets-through-12-million-years-and-an-apocalypse-in-one-campaign/",
+      "source": "Justin Wagner",
+      "published": "Sun, 28 Sep 2025 16:42:41 +0000",
+      "summary": "Threads of Time wears its inspirations proudly on its sleeve.",
+      "image": "https://cdn.mos.cms.futurecdn.net/2e3BdaHdZjrTvaavhKmTMj-1280-80.png"
+    },
+    {
+      "title": "In co-op open world survival game Join Us, you run a doomsday cult whose belief system is like 'a dynamic skill tree that evolves as the game goes on'",
+      "url": "https://www.pcgamer.com/games/survival-crafting/in-co-op-open-world-survival-game-join-us-you-run-a-doomsday-cult-whose-belief-system-is-like-a-dynamic-skill-tree-that-evolves-as-the-game-goes-on/",
+      "source": "Christopher Livingston",
+      "published": "Sun, 28 Sep 2025 16:41:43 +0000",
+      "summary": "Keep your followers content as the world comes to an end in this comedic take on the survival genre.",
+      "image": "https://cdn.mos.cms.futurecdn.net/Hb4VMFahRJ7vo8eqGfyPRD-1280-80.jpg"
+    },
+    {
+      "title": "'Planet Earth is about to be recycled': Join Us is a multiplayer game about leading a cult into doomsday and, apparently, riding grizzly bears",
+      "url": "https://www.pcgamer.com/games/survival-crafting/planet-earth-is-about-to-be-recycled-join-us-is-a-multiplayer-game-about-leading-a-cult-into-doomsday-and-apparently-riding-grizzly-bears/",
+      "source": "Justin Wagner",
+      "published": "Sun, 28 Sep 2025 16:41:12 +0000",
+      "summary": "It's the end of the world as we know it. You just know it a little earlier than everyone else.",
+      "image": "https://cdn.mos.cms.futurecdn.net/79eTVCs9x7QgyeMHrSdxgN-1280-80.jpg"
+    },
+    {
+      "title": "When you lose in this 'haunted board game', your builds become opponents for other players to fight asynchronously",
+      "url": "https://www.pcgamer.com/games/board-games/when-you-lose-in-this-haunted-board-game-your-builds-become-opponents-for-other-players-to-fight-asynchronously/",
+      "source": "Justin Wagner",
+      "published": "Sun, 28 Sep 2025 16:39:01 +0000",
+      "summary": "In tile-based autobattler Turnbound, you're up against the \"trapped souls\" of other players.",
+      "image": "https://cdn.mos.cms.futurecdn.net/RgyeXdNWR7iUPmqXYbie9k-1280-80.png"
+    },
+    {
+      "title": "'Liars must be punished': Dyping Escape looks creepy as hell, pitting you against a pair of eyes that seem to be taking over your PC",
+      "url": "https://www.pcgamer.com/games/horror/liars-must-be-punished-dyping-escape-looks-creepy-as-hell-pitting-you-against-a-pair-of-eyes-that-seem-to-be-taking-over-your-pc/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:38:04 +0000",
+      "summary": "What if I just unplug my keyboard, what then?",
+      "image": "https://cdn.mos.cms.futurecdn.net/jDcd8RgWGHmWVRV27ndATV-1280-80.png"
+    },
+    {
+      "title": "Descend into the murky depths of memory in Mind Diver, a trippy puzzle game set in an ocean of remembrance",
+      "url": "https://www.pcgamer.com/games/puzzle/descend-into-the-murky-depths-of-memory-in-mind-diver-a-trippy-puzzle-game-set-in-an-ocean-of-remembrance/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:37:37 +0000",
+      "summary": "Swim through the past.",
+      "image": "https://cdn.mos.cms.futurecdn.net/gu7oQoYg6gVHGN89rDJfTo-1280-80.png"
+    },
+    {
+      "title": "MotionRec is a puzzle platformer where you can record your movements and then play them back",
+      "url": "https://www.pcgamer.com/games/puzzle/motionrec-is-a-puzzle-platformer-where-you-can-record-your-movements-and-then-play-them-back/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:37:12 +0000",
+      "summary": "Everything you need to overcome these challenges is already within you.",
+      "image": "https://cdn.mos.cms.futurecdn.net/nB4k7inNWjZqnTWc39T7yB-1280-80.jpg"
+    },
+    {
+      "title": "Stylish combat, tragic bosses, and a world inspired by Asian folklore combine to make The Relic: First Guardian one of the most exciting upcoming action RPGs",
+      "url": "https://www.pcgamer.com/games/rpg/stylish-combat-tragic-bosses-and-a-world-inspired-by-asian-folklore-combine-to-make-the-relic-first-guardian-one-of-the-most-exciting-upcoming-action-rpgs/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:36:16 +0000",
+      "summary": "Just tell me where to get those daggers and jumping skills.",
+      "image": "https://cdn.mos.cms.futurecdn.net/3gzGCTNoXG8jDQShVXeunZ-1280-80.jpg"
+    },
+    {
+      "title": "Doomspire combines lots of my favorite things: deck builders, roguelikes, and fantasy, and it's out now",
+      "url": "https://www.pcgamer.com/games/card-games/doomspire-combines-lots-of-my-favorite-things-deck-builders-roguelikes-and-fantasy-and-its-out-now/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:35:02 +0000",
+      "summary": "Are you ready to descend into the abyss?",
+      "image": "https://cdn.mos.cms.futurecdn.net/7Tb8zgUeinj8yuaRFgqNBS-1280-80.jpg"
+    },
+    {
+      "title": "Farmbotic mashes up Stardew Valley and Satisfactory in a cross-platform farming sim where little robot buddies help grow your crops",
+      "url": "https://www.pcgamer.com/games/sim/farmbotic-mashes-up-stardew-valley-and-satisfactory-in-a-cross-platform-farming-sim-where-little-robot-buddies-help-grow-your-crops/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:32:13 +0000",
+      "summary": "Look at the adorable bunny ears on that robot.",
+      "image": "https://cdn.mos.cms.futurecdn.net/5CK3kRHP3chzfBC66aXevG-1280-80.jpg"
+    },
+    {
+      "title": "Killing Floor 3's Rearmament update drops this Halloween, bringing new weapons, a revamped perk system, and loads of bug fixes and performance improvements",
+      "url": "https://www.pcgamer.com/games/fps/killing-floor-3s-rearmament-update-drops-this-halloween-bringing-new-weapons-a-revamped-perk-system-and-loads-of-bug-fixes-and-performance-improvements/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:31:26 +0000",
+      "summary": "I can't wait to get my hands on that quadruple-barrelled shotgun.",
+      "image": "https://cdn.mos.cms.futurecdn.net/PqzTgo9w2VKxJozhkWuQVm-1280-80.jpg"
+    },
+    {
+      "title": "Cyberpunk roguelike Clawpunk's new trailer has a release date and more chainsaw cats than any other game I've seen, well, probably ever",
+      "url": "https://www.pcgamer.com/games/roguelike/cyberpunk-roguelike-clawpunks-new-trailer-has-a-release-date-and-more-chainsaw-cats-than-any-other-game-ive-seen-well-probably-ever/",
+      "source": "Justin Wagner",
+      "published": "Sun, 28 Sep 2025 16:28:20 +0000",
+      "summary": "What do punk cats listen to, anyway? The Rameownes? Con-purr-ge?",
+      "image": "https://cdn.mos.cms.futurecdn.net/8eyBeBgsRiqYTJuw542R8a-1280-80.png"
+    },
+    {
+      "title": "If humans ever live on Mars, will they 'bend the knee to Earth's institutions' or turn the Red Planet even redder? Mars Tactics puts the answer in your hands next year",
+      "url": "https://www.pcgamer.com/games/rts/if-humans-ever-live-on-mars-will-they-bend-the-knee-to-earths-institutions-or-turn-the-red-planet-even-redder-mars-tactics-puts-the-answer-in-your-hands-next-year/",
+      "source": "Justin Wagner",
+      "published": "Sun, 28 Sep 2025 16:27:44 +0000",
+      "summary": "Mars Tactics will be out in May 2026 with turn-based tactics, squad management, and interplanetary labor politics.",
+      "image": "https://cdn.mos.cms.futurecdn.net/6QtWQGRMJziGjQMatXDW6B-1280-80.png"
+    },
+    {
+      "title": "Hotel Barcelona's 'hardcore spirit' is inspired by the tough action games creator Swery65 worked on at the start of his career",
+      "url": "https://www.pcgamer.com/games/roguelike/hotel-barcelonas-hardcore-spirit-is-inspired-by-the-tough-action-games-creator-swery65-worked-on-at-the-start-of-his-career/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:25:48 +0000",
+      "summary": "I doubt that hotel has a good hygiene rating.",
+      "image": "https://cdn.mos.cms.futurecdn.net/sCydeiuwUAM7RfnbtUscph-1280-80.jpg"
+    },
+    {
+      "title": "Kaiju Cleanup sees you mopping up monsters from the inside out in a satirical blend of PowerWash Simulator and Hardspace: Shipbreaker",
+      "url": "https://www.pcgamer.com/games/sim/kaiju-cleanup-sees-you-mopping-up-monsters-from-the-inside-out-in-a-satirical-blend-of-powerwash-simulator-and-hardspace-shipbreaker/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:19:40 +0000",
+      "summary": "Perfect for gamers who are happy to get their hands dirty",
+      "image": "https://cdn.mos.cms.futurecdn.net/VYKMPtZ9vinnQ8UUMhZXVR-1280-80.jpg"
+    },
+    {
+      "title": "Extraction shooter Gravebound's bullet hell action adds an exciting twist to the genre, and you can try it out in an open play test right now",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/extraction-shooter-gravebounds-bullet-hell-action-adds-an-exciting-twist-to-the-genre-and-you-can-try-it-out-in-an-open-play-test-right-now/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:18:15 +0000",
+      "summary": "Danger is everywhere in this game.",
+      "image": "https://cdn.mos.cms.futurecdn.net/4osUTgQMstsoyGnfhTuFqC-1280-80.png"
+    },
+    {
+      "title": "BMX delivery, sumo-wrestling, fishing: Cozy gaming gets a little Crazy Taxi, as a treat, in Tanuki: Pon's Summer",
+      "url": "https://www.pcgamer.com/games/life-sim/bmx-delivery-sumo-wrestling-fishing-cozy-gaming-gets-a-little-crazy-taxi-as-a-treat-in-tanuki-pons-summer/",
+      "source": "Justin Wagner",
+      "published": "Sun, 28 Sep 2025 16:17:30 +0000",
+      "summary": "You won't believe how many part-time jobs this raccoon dog has.",
+      "image": "https://cdn.mos.cms.futurecdn.net/5nVQ8sHSHszLHDcFBnXYoM-1280-80.jpg"
+    },
+    {
+      "title": "Yakuza Kiwami 3 has 'completely revamped' action that lets you you fight with Ryukyu weapons and ninjas inspired by the Okinawa setting",
+      "url": "https://www.pcgamer.com/games/action/yakuza-kiwami-3-has-completely-revamped-action-that-lets-you-you-fight-with-ryukyu-weapons-and-ninjas-inspired-by-the-okinawa-setting/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:16:10 +0000",
+      "summary": "Masayoshi Yokoyama talks us through some of the big changes coming in Yakuza Kiwami 3 and Dark Ties.",
+      "image": "https://cdn.mos.cms.futurecdn.net/96r4g6vPpzkDB8WYbVYAF6-1280-80.jpg"
+    },
+    {
+      "title": "Bully 2 never happened due to 'bandwidth issues' according to Rockstar co-founder Dan Houser: 'You just can't do all the projects you want'",
+      "url": "https://www.pcgamer.com/games/action/bully-2-never-happened-due-to-bandwidth-issues-according-to-rockstar-co-founder-dan-houser-you-just-cant-do-all-the-projects-you-want/",
+      "source": "Rick Lane",
+      "published": "Sun, 28 Sep 2025 16:15:16 +0000",
+      "summary": "Bully? Pulp it.",
+      "image": "https://cdn.mos.cms.futurecdn.net/fryhWrFYTeJC7CcK3X65H5-1280-80.jpg"
+    },
+    {
+      "title": "A singing axolotl and a magical bunny team up in Billie Bust Up, a retro platformer with rhythmic boss battles and witchy movement abilities",
+      "url": "https://www.pcgamer.com/games/a-singing-axolotl-and-a-magical-bunny-team-up-in-billie-bust-up-a-retro-platformer-with-rhythmic-boss-battles-and-witchy-movement-abilities/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:10:43 +0000",
+      "summary": "A 3D platformer that brings back the joy of those childhood classics.",
+      "image": "https://cdn.mos.cms.futurecdn.net/HfVDCdaUp5M3KCMtQDieE3-1280-80.jpg"
+    },
+    {
+      "title": "I'm convinced dungeon crawlers have always needed skiing physics after Awaysis' newest trailer",
+      "url": "https://www.pcgamer.com/games/adventure/im-convinced-dungeon-crawlers-have-always-needed-skiing-physics-after-awaysis-newest-trailer/",
+      "source": "Justin Wagner",
+      "published": "Sun, 28 Sep 2025 16:09:09 +0000",
+      "summary": "Somewhere between classic Zelda and Human Fall Flat, you'll find self-billed \"dungeon brawler\" Awaysis.",
+      "image": "https://cdn.mos.cms.futurecdn.net/nVuraZ2suV8CYtfZvdEZSn-1280-80.png"
+    },
+    {
+      "title": "Explore a winter wonderland in Moomintroll: Winter's Warmth as you solve rescue animals in this cozy puzzle game",
+      "url": "https://www.pcgamer.com/games/puzzle/explore-a-winter-wonderland-in-moomintroll-winters-warmth-as-you-solve-rescue-animals-in-this-cozy-puzzle-game/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:08:06 +0000",
+      "summary": "Inspired by Tove Jansson's Moominland Midwinter.",
+      "image": "https://cdn.mos.cms.futurecdn.net/fAJPxV6yeKXZKy35GcgoXE-1280-80.png"
+    },
+    {
+      "title": "Play as the infamous Minotaur of Greek mythology in Minos, an Orcs Must Die-like roguelite where you build a deadly labyrinth full of dastardly traps",
+      "url": "https://www.pcgamer.com/games/play-as-the-infamous-minotaur-of-greek-mythology-in-minos-an-orcs-must-die-like-roguelite-where-you-build-a-deadly-labyrinth-full-of-dastardly-traps/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:06:15 +0000",
+      "summary": "A new perspective for the ancient tale.",
+      "image": "https://cdn.mos.cms.futurecdn.net/S77FvBZwGTrGgEZyCHdcmg-1280-80.png"
+    },
+    {
+      "title": "Earth Must Die looks like a sci-fi Monkey Island, with an extremely British cast that includes names from Taskmaster, Game of Thrones, and Doctor Who",
+      "url": "https://www.pcgamer.com/games/adventure/earth-must-die-looks-like-a-sci-fi-monkey-island-with-an-extremely-british-cast-that-includes-names-from-taskmaster-game-of-thrones-and-doctor-who/",
+      "source": "Issy van der Velde",
+      "published": "Sun, 28 Sep 2025 16:05:17 +0000",
+      "summary": "With voice actors from Final Fantasy, Game of Thrones, and Doctor Who, the performances in this sci-fi caper likely to be one of its strengths.",
+      "image": "https://cdn.mos.cms.futurecdn.net/TiqDcfUpsYKmPdtqAP7pwM-1280-80.png"
+    },
+    {
+      "title": "Nightdive's remaster of Blood is getting an overhaul with built-in mods in Blood: Refreshed Supply",
+      "url": "https://www.pcgamer.com/games/fps/nightdives-remaster-of-blood-is-getting-an-overhaul-with-built-in-mods-in-blood-refreshed-supply/",
+      "source": "Justin Wagner",
+      "published": "Sun, 28 Sep 2025 16:03:58 +0000",
+      "summary": "Caleb lives again, again, for another time.",
+      "image": "https://cdn.mos.cms.futurecdn.net/vnthkik64XRykdmHcK9Hw4-1280-80.png"
+    },
+    {
+      "title": "Hades 2’s cast ability is so much better than it was in Hades",
+      "url": "https://www.polygon.com/hades-2-melinoe-cast-ability/",
+      "source": "Austin Manchester",
+      "published": "Sun, 28 Sep 2025 16:00:15 GMT",
+      "summary": "Melinoë’s versatile cast ability takes Hades 2's combat to a whole new level, and is much better than Zagreus' cast from the original Hades.",
+      "image": ""
+    },
+    {
+      "title": "Swiss voters narrowly approve plan for electronic ID cards",
+      "url": "https://www.bbc.com/news/articles/cdr624j16jpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 15:55:38 GMT",
+      "summary": "The proposal was backed by 50.4% of voters, in the second Swiss ballot on the issue in four years.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bad5/live/82dc66a0-9c7e-11f0-95c6-7592d7636e22.jpg"
+    },
+    {
+      "title": "Jaguar Land Rover may need more than £1.5bn government loan guarantee, MP says",
+      "url": "https://www.bbc.com/news/articles/c62zggj69e0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 15:38:20 GMT",
+      "summary": "Liam Byrne spoke after the government announced it was backing a £1.5bn loan to the company, and warned cyber-attacks could become more common.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d262/live/65281cd0-9c5b-11f0-b66e-67a4632b8ff2.jpg"
+    },
+    {
+      "title": "'It's bigger than us': England aim to inspire after women's Rugby World Cup glory",
+      "url": "https://www.bbc.com/sport/rugby-union/articles/cd9ygg1l48zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sun, 28 Sep 2025 15:15:12 GMT",
+      "summary": "After beating Canada to lift the Women's World Cup in front of a record crowd, England celebrated at Battersea Power Station as they aim to inspire \"future Red Roses\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ac6/live/98efbeb0-9c79-11f0-b741-177e3e2c2fc7.jpg"
+    },
+    {
+      "title": "The greatest D&D video game is still making me a better Dungeon Master 25 years later",
+      "url": "https://www.polygon.com/baldurs-gate-2-25-anniversary-crpg-dungeons-dragons-dnd/",
+      "source": "Francesco Cacciatore",
+      "published": "Sun, 28 Sep 2025 15:00:15 GMT",
+      "summary": "Baldur's Gate 2 is 25 years old, and over all this time it has never stopped teaching me what is so great about Dungeons & Dragons",
+      "image": ""
+    }
+  ]
+}
