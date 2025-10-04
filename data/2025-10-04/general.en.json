@@ -1,0 +1,807 @@
+{
+  "date": "2025-10-04",
+  "section": "general",
+  "lang": "en",
+  "items": [
+    {
+      "title": "BBC News app",
+      "url": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Wed, 30 Apr 2025 14:04:28 GMT",
+      "summary": "Top stories, breaking news, live reporting, and follow news topics that match your interests",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cf6/live/d1e71250-9509-11ee-8df3-1d2983d8814f.png"
+    },
+    {
+      "title": "Why we struggle to protect the young from conspiracy theorist parents",
+      "url": "https://www.bbc.com/news/articles/c749d9557j2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Thu, 02 Oct 2025 23:11:02 GMT",
+      "summary": "The inquest following the death of Paloma Shemirani raises the question of how to prevent young people from health misinformation",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8d4/live/6ab642b0-9ec9-11f0-92db-77261a15b9d2.jpg"
+    },
+    {
+      "title": "Manchester Synagogue Attack: What We Know So Far",
+      "url": "https://www.bbc.co.uk/sounds/play/p0m6dq4y?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Thu, 02 Oct 2025 18:05:00 GMT",
+      "summary": "Keir Starmer says Britain must defeat rising antisemitic hatred.",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg"
+    },
+    {
+      "title": "Watch on iPlayer: Access All Areas - When Country Comes to Town",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m002k6z4?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Thu, 02 Oct 2025 13:00:00 GMT",
+      "summary": "Go behind the scenes as country music takes over the Royal Albert Hall.",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m5wjh6.jpg"
+    },
+    {
+      "title": "Assam to set up judicial commission to probe Zubeen Garg's death; ED, I-T likely to join inquiry",
+      "url": "https://www.thehindu.com/news/national/assam/zubeen-garg-death-probe-judicial-commission-ed-i-t-to-join-inquiry-oct-4-2025/article70123911.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 07:06:11 +0530",
+      "summary": "Chief Minister Sarma said the commission will be headed by Justice Soumitra Saikia of the Gauhati High Court",
+      "image": "https://th-i.thgim.com/public/incoming/pxz37i/article70123912.ece/alternates/LANDSCAPE_1200/PTI09_19_2025_000459B.jpg"
+    },
+    {
+      "title": "Gaza peace plan LIVE: Israel prepares to implement ‘first stage’ of Trump’s proposal",
+      "url": "https://www.thehindu.com/news/international/hamas-israeli-hostages-release-netanyahu-trump-gaza-peace-plan-updates/article70123913.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 06:58:05 +0530",
+      "summary": "After Hamas said it was ready to free all hostages, Donald Trump urged Israel to halt the bombing",
+      "image": ""
+    },
+    {
+      "title": "Morning Digest: Hamas ready to free hostages but wants further negotiation on Trump’s Gaza plan; Centre says cough syrups not contaminated but T.N. detects adulteration, and more",
+      "url": "https://www.thehindu.com/news/the-hindu-morning-digest-october-4-2025/article70123082.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 06:47:20 +0530",
+      "summary": "Here is a select list of stories to start the day",
+      "image": "https://th-i.thgim.com/public/incoming/d83wqv/article70123583.ece/alternates/LANDSCAPE_1200/Israel_Palestinians_Gaza_99959.jpg"
+    },
+    {
+      "title": "Lawsuit seeks to stop Trump’s $100,000 fee for H-1B visas",
+      "url": "https://www.thehindu.com/news/international/lawsuit-seeks-to-stop-trumps-100000-fee-for-h-1b-visas/article70123910.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 06:36:58 +0530",
+      "summary": "Lawsuit filed against Trump’s $100,000 H-1B visa fee, claiming chaos for employers, workers, and federal agencies",
+      "image": "https://th-i.thgim.com/public/incoming/1cxsqd/article69912492.ece/alternates/LANDSCAPE_1200/2025-08-07T124826Z_1241751617_RC2Y1GAT0O10_RTRMADP_3_USA-TRUMP-CENSUS.JPG"
+    },
+    {
+      "title": "Highways Dept. to put back Annadurai’s statue amid AIADMK’s protest in Tiruvannamalai",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/highways-dept-to-put-back-annadurais-statue-amid-aiadmks-protest-in-tiruvannamalai/article70121533.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 06:15:00 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/hfz27a/article70122050.ece/alternates/LANDSCAPE_1200/aDMK%20protest.jpeg"
+    },
+    {
+      "title": "Two million people rally in Italy for Gaza as general strike halts key services",
+      "url": "https://www.thehindu.com/news/international/two-million-people-rally-in-italy-for-gaza-as-general-strike-halts-key-services/article70123900.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 06:01:45 +0530",
+      "summary": "In Florence, protesters approached the gates of the Italian national soccer team’s training center to demand its upcoming World Cup qualifier against Israel not be played because of the war in Gaza.",
+      "image": "https://th-i.thgim.com/public/incoming/u3ao4p/article70123905.ece/alternates/LANDSCAPE_1200/2025-10-03T115309Z_1298716831_RC2B4HAQ4Y4D_RTRMADP_3_ISRAEL-PALESTINIANS-FLOTILLA-ITALY-NAPLES.JPG"
+    },
+    {
+      "title": "Government funding vote fails again in Senate as hopes fade for quick end to shutdown",
+      "url": "https://www.thehindu.com/news/international/government-funding-vote-fails-again-in-senate-as-hopes-fade-for-quick-end-to-shutdown/article70123882.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 05:27:00 +0530",
+      "summary": "Although Republicans control the White House and both chambers of Congress, the Senate's filibuster rules make it necessary for the government funding legislation to gain support from at least 60 of the 100 senators.",
+      "image": "https://th-i.thgim.com/public/incoming/n7darm/article70123898.ece/alternates/LANDSCAPE_1200/Government_Shutdown_10595.jpg"
+    },
+    {
+      "title": "In Karur, where there was no way out",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/karur-stampede-where-there-was-no-way-out/article70121911.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 05:20:00 +0530",
+      "summary": "On September 27, thousands of people gathered in Karur, Tamil Nadu, to attend a rally by actor-turned-politician Vijay. As the chief of the Tamilaga Vettri Kazhagam party arrived hours late, the crowd swelled and surged towards his vehicle, triggering a stampede that killed 41 people and injured ove",
+      "image": "https://th-i.thgim.com/public/incoming/wqzofa/article70121873.ece/alternates/LANDSCAPE_1200/4861_28_9_2025_13_12_51_4_TVK_04.JPG"
+    },
+    {
+      "title": "CM to inaugurate Katpadi’s first government hospital",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cm-to-inaugurate-katpadis-first-government-hospital/article70121521.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 05:11:00 +0530",
+      "summary": "The hospital will boast separate sections for cardiology, neurology, paediatrics, nephrology, obstetrics, and gynaecology. It will also have separate wards for emergency and accident cases",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/hlq4mn/article70121836.ece/alternates/LANDSCAPE_1200/Katpadi%20hospital.jpeg"
+    },
+    {
+      "title": "Aaditya Thackeray says he started the Mumbai 24/7 initiative in 2020; slams BJP for taking credit",
+      "url": "https://www.thehindu.com/news/cities/mumbai/aaditya-thackeray-says-he-started-the-mumbai-247-initiative-in-2020-slams-bjp-for-taking-credit/article70122200.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 04:42:18 +0530",
+      "summary": "Aaditya Thackeray said that the BJP which criticised me on ‘culture and safety’ over my ‘Mumbai 24/7’ policy, has re-issued a GR allowing retailers to stay open",
+      "image": "https://th-i.thgim.com/public/incoming/r5z6b8/article70123080.ece/alternates/LANDSCAPE_1200/11908_28_5_2025_18_38_36_1_DSC_4886.JPG"
+    },
+    {
+      "title": "Sean ‘Diddy’ Combs gets four years in prison for case involving sex workers, violence",
+      "url": "https://www.thehindu.com/news/international/sean-diddy-combs-gets-four-years-in-prison-for-case-involving-sex-workers-violence/article70123075.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 04:17:15 +0530",
+      "summary": "Combs was convicted in July of flying his girlfriends and male sex workers around the country to engage in drug-fueled sexual encounters, a practice that happened over many years and in different locations.",
+      "image": "https://th-i.thgim.com/public/incoming/p0gufv/article70123076.ece/alternates/LANDSCAPE_1200/2025-10-03T221753Z_479659125_RC2M4HAGXBPY_RTRMADP_3_PEOPLE-SEAN-COMBS.JPG"
+    },
+    {
+      "title": "Trump says Hamas ready for peace, tells Israel to stop bombing",
+      "url": "https://www.thehindu.com/news/international/trump-says-hamas-ready-for-peace-tells-israel-to-stop-bombing/article70123071.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 03:56:04 +0530",
+      "summary": "“Israel must immediately stop the bombing of Gaza, so that we can get the Hostages out safely and quickly!” Mr. Trump posted on Truth Social.",
+      "image": "https://th-i.thgim.com/public/incoming/1fqh1u/article70123073.ece/alternates/LANDSCAPE_1200/2025-10-03T182339Z_1742262658_RC2R1HA9NV8Y_RTRMADP_3_ISRAEL-PALESTINIANS-TRUMP.JPG"
+    },
+    {
+      "title": "Durga Puja is over, but Bengal colleges yet to complete undergraduate admissions",
+      "url": "https://www.thehindu.com/news/cities/kolkata/durga-puja-is-over-but-bengal-colleges-yet-to-complete-undergraduate-admissions/article70121617.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 03:35:03 +0530",
+      "summary": "The State Government will be finally closing the centralised admission portal on October 10, and it has asked colleges to individually fill up vacant seats after that date and complete the whole process by November 7.",
+      "image": "https://th-i.thgim.com/public/incoming/oq25hp/article70123068.ece/alternates/LANDSCAPE_1200/iStock-1461631391.jpg"
+    },
+    {
+      "title": "Hamas says ready to free hostages; Trump urges Israel to halt bombing",
+      "url": "https://www.thehindu.com/news/international/hamas-says-it-agrees-to-release-all-israeli-hostages-under-trumps-gaza-plan/article70122920.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 01:41:39 +0530",
+      "summary": "Hamas said that it accepts some elements of Trump’s peace plan, but others require further negotiation; Hamas official added that group will not disarm before the Israeli occupation ends",
+      "image": "https://th-i.thgim.com/public/incoming/n1zyu9/article70122921.ece/alternates/LANDSCAPE_1200/2025-10-02T163625Z_1800193486_RC2S3HAJLFCG_RTRMADP_3_ISRAEL-PALESTINIANS-FLOTILLA-FRANCE.JPG"
+    },
+    {
+      "title": "Scientists grow mini human brains to power computers",
+      "url": "https://www.bbc.com/news/articles/cy7p1lzvxjro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 04 Oct 2025 01:39:04 GMT",
+      "summary": "BBC News goes inside the lab powering computers with 'mini brains' grown from human cells.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d322/live/ec405a00-9f91-11f0-b9ae-cbef91e6ae73.jpg"
+    },
+    {
+      "title": "He reads, buys flowers and plays the ukulele. A dream man or is it all a performance?",
+      "url": "https://www.bbc.com/news/articles/cp8jrzejqjro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 04 Oct 2025 01:23:45 GMT",
+      "summary": "Competitors with tote bags full of sanitary pads and feminist literature faced off in central London.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0187/live/9c4ca860-a076-11f0-b741-177e3e2c2fc7.jpg"
+    },
+    {
+      "title": "Husband cannot claim exclusive ownership of jointly purchased property: Delhi HC",
+      "url": "https://www.thehindu.com/news/cities/Delhi/husband-cannot-claim-exclusive-ownership-of-jointly-purchased-property-delhi-hc/article70122917.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 01:10:04 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/sfxwvx/article70122918.ece/alternates/LANDSCAPE_1200/INDEX%20DELHI%20HIGH%20COURT%20%20DELHI%202025_09_04_20.jpg"
+    },
+    {
+      "title": "V.K. Malhotra built BJP’s base in the Capital: CM",
+      "url": "https://www.thehindu.com/news/cities/Delhi/vk-malhotra-built-bjps-base-in-the-capital-cm/article70122809.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 01:06:59 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/uxndti/article70122915.ece/alternates/LANDSCAPE_1200/VK%20MALHOTRA%20PRAYER%20MEETING%20CM%20DELHI%202025_03_10_7.jpg"
+    },
+    {
+      "title": "Wind and rain warnings as Storm Amy hits parts of UK",
+      "url": "https://www.bbc.com/news/articles/c0lky9nn948o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 04 Oct 2025 01:04:30 GMT",
+      "summary": "Some schools in Northern Ireland are closed, while several rail services and ferries in Scotland have been cancelled.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8417/live/ee9ce990-a03f-11f0-92db-77261a15b9d2.jpg"
+    },
+    {
+      "title": "They're making sex jokes in Saudi: Inside the controversial comedy festival",
+      "url": "https://www.bbc.com/news/articles/cwyn2yqpnnpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 04 Oct 2025 01:03:44 GMT",
+      "summary": "A-listers including Dave Chappelle, Bill Burr and Jack Whitehall have faced a backlash over the event.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c14/live/56c27be0-a066-11f0-b741-177e3e2c2fc7.png"
+    },
+    {
+      "title": "RSS did not take prior permission from JNU for holding march: SFI",
+      "url": "https://www.thehindu.com/news/cities/Delhi/rss-did-not-take-prior-permission-from-jnu-for-holding-march-sfi/article70122847.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 01:01:47 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/159ugf/article70122912.ece/alternates/LANDSCAPE_1200/JNU.jpg"
+    },
+    {
+      "title": "AAP, BJP trade blame over city’s hospital crisis",
+      "url": "https://www.thehindu.com/news/cities/Delhi/aap-bjp-trade-blame-over-citys-hospital-crisis/article70122905.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 01:00:45 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/utbvzi/article70122910.ece/alternates/LANDSCAPE_1200/PTI08_27_2025_000058B.jpg"
+    },
+    {
+      "title": "New Kendriya Vidyalaya to come up in Khazoori Khas: CM",
+      "url": "https://www.thehindu.com/news/cities/Delhi/new-kendriya-vidyalaya-to-come-up-in-khazoori-khas-cm/article70122889.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:59:03 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/q0bscr/article70122892.ece/alternates/LANDSCAPE_1200/PTI10_03_2025_000415B.jpg"
+    },
+    {
+      "title": "Three drown in sea in Sindhudurg district of Maharashtra; four missing",
+      "url": "https://www.thehindu.com/news/national/maharashtra/three-drown-in-sea-in-sindhudurg-district-of-maharashtra-four-missing/article70122854.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:58:17 +0530",
+      "summary": "The victims hail from Belgavi in Karnataka and Kudal in Maharashtra",
+      "image": "https://th-i.thgim.com/public/incoming/xh8ntv/article70122894.ece/alternates/LANDSCAPE_1200/11908_10_9_2024_20_2_11_1_IMG_5021.JPEG"
+    },
+    {
+      "title": "File complaints against lax officials over stubble burning: CAQM to district officials",
+      "url": "https://www.thehindu.com/news/cities/Delhi/file-complaints-against-lax-officials-over-stubble-burning-caqm-to-district-officials/article70122743.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:55:10 +0530",
+      "summary": "New directive aims at strengthening fight against air pollution, empowers top district head across Punjab, Haryana, Rajasthan, U.P., and Delhi to directly move courts against erring officials",
+      "image": "https://th-i.thgim.com/public/incoming/fs9q7x/article70122895.ece/alternates/LANDSCAPE_1200/PTI09_29_2025_000419B.jpg"
+    },
+    {
+      "title": "Transport employees’ union urges Minister to solve pending promotion issues",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/transport-employees-union-urges-minister-to-solve-pending-promotion-issues/article70122305.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:51:41 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/xoz60q/article70122865.ece/alternates/LANDSCAPE_1200/10745_3_10_2025_21_13_31_1_IMG_20251003_WA0104.JPG"
+    },
+    {
+      "title": "CPI(M) condemns police assault and detention of protesters in Ariyalur",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/cpim-condemns-police-assault-and-detention-of-protesters-in-ariyalur/article70121554.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:51:14 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/vil3x0/article70122891.ece/alternates/LANDSCAPE_1200/Shanmugam%204.jpg"
+    },
+    {
+      "title": "Chaitanyananda sent to 14-day judicial custody",
+      "url": "https://www.thehindu.com/news/cities/Delhi/chaitanyananda-sent-to-14-day-judicial-custody/article70122768.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:50:21 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/bxm5dg/article70122890.ece/alternates/LANDSCAPE_1200/PTI10_03_2025_000245B.jpg"
+    },
+    {
+      "title": "Vijayawada Utsav a cover for TDP’s loot, alleges  YSRCP leader",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/vijayawada-utsav-a-cover-for-tdps-loot-alleges-ysrcp-leader/article70121468.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:49:14 +0530",
+      "summary": "TDP leaders had collected somewhere between ₹70 crore and ₹100 crore from businesses, hotels, hospitals, and real estate firms in the name of Vijayawada Utsav, alleges Devineni Avinash",
+      "image": "https://th-i.thgim.com/public/incoming/zdm14f/article70122571.ece/alternates/LANDSCAPE_1200/Devineni_Avinash_Gudivada.jpg"
+    },
+    {
+      "title": "GVMC clears trees uprooted in gale on war-footing",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/gvmc-clears-trees-uprooted-in-gale-on-war-footing/article70121240.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:47:02 +0530",
+      "summary": "Clearance works have been completed in 62 locations by Thursday night, says GVMC Commissioner, adding that the works are on at the remaining 18 spots",
+      "image": "https://th-i.thgim.com/public/incoming/ph6bb5/article70122099.ece/alternates/LANDSCAPE_1200/VSP04_TREE%201.JPG"
+    },
+    {
+      "title": "Water Metro to commence services to Mattancherry from mid-October",
+      "url": "https://www.thehindu.com/news/national/kerala/water-metro-to-commence-services-to-mattancherry-from-mid-october/article70106285.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:47:02 +0530",
+      "summary": "‘Up to three ferries can berth at the floating pontoons at Mattancherry at a time, with one allowed to remain overnight, making it one of the biggest terminals’; ferries to run every 20 to 30 minutes",
+      "image": "https://th-i.thgim.com/public/incoming/bt7qkp/article70122747.ece/alternates/LANDSCAPE_1200/Water_metro01.JPG"
+    },
+    {
+      "title": "Absconding accused held in multi-level marketing fraud",
+      "url": "https://www.thehindu.com/news/cities/chennai/absconding-accused-held-in-multi-level-marketing-fraud/article70121598.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:45:21 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "BIE releases tentative timetable for Intermediate Public Exams- 2026",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/bie-releases-tentative-timetable-for-intermediate-public-exams-2026/article70121894.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:42:58 +0530",
+      "summary": "Intermediate first-year students will write their exams from February 23 to March 24, while the final-year students will write their papers from February 24 to March 23",
+      "image": ""
+    },
+    {
+      "title": "Money paid but no ship: The around-the-world cruise that is yet to set sail",
+      "url": "https://www.bbc.com/news/articles/c8xrd29r5ywo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 04 Oct 2025 00:41:27 GMT",
+      "summary": "The BBC has been speaking to retirees who want the firm selling the cruise to stop advertising and refund their deposits.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcca/live/fa42b3a0-a018-11f0-b741-177e3e2c2fc7.jpg"
+    },
+    {
+      "title": "Sales of electric cars hit record high in September",
+      "url": "https://www.bbc.com/news/articles/cwyd094168go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 04 Oct 2025 00:41:12 GMT",
+      "summary": "Sales of fully electric or hybrid vehicles made up more than half of all new car registrations in the UK last month.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e058/live/ac7c44b0-a06d-11f0-8687-4726d7177866.jpg"
+    },
+    {
+      "title": "APSCHE launches portal to build link between colleges, industries",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/apsche-launches-portal-to-build-link-between-colleges-industries/article70121664.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:41:07 +0530",
+      "summary": "Operating guidelines for the admission process of CETs- 2025, in compliance with the orders of the A.P. High Court, have also been released",
+      "image": ""
+    },
+    {
+      "title": "IIT-M launches employment training for diploma students",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/iit-m-launches-employment-training-for-diploma-students/article70122159.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:37:20 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "‘Accurate classification of cancer helps choose right combination of vaccines’",
+      "url": "https://www.thehindu.com/news/cities/chennai/accurate-classification-of-cancer-helps-choose-right-combination-of-vaccines/article70122015.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:35:41 +0530",
+      "summary": "Christian Ottensmeier, Director of Clinical Research, The Clatterbridge Cancer Center, delivered the ‘Dr. S. Krishnamurthi Memorial Oration’ recently",
+      "image": ""
+    },
+    {
+      "title": "Woman, her daughter found dead at staff quarters of hospital in Karnataka’s Shivamogga",
+      "url": "https://www.thehindu.com/news/national/karnataka/woman-her-daughter-found-dead-at-staff-quarters-of-hospital-in-karnatakas-shivamogga/article70121778.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:35:22 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "GCC launches upgraded portal, app for pet licensing; microchipping to begin on Oct. 8",
+      "url": "https://www.thehindu.com/news/cities/chennai/gcc-launches-upgraded-portal-app-for-pet-licensing-microchipping-to-begin-on-oct-8/article70122123.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:34:41 +0530",
+      "summary": "Around 13,000 pet licences have been issued since August 2023, says senior official; decision on imposing penalties for unlicensed dogs is yet to be taken; city has reported over one lakh dog bite cases from January 2024 till March 2025; six GCC-run clinics set to begin microchipping next week",
+      "image": "https://th-i.thgim.com/public/news/national/dfg9yy/article70122525.ece/alternates/LANDSCAPE_1200/MICROCHIPPINH.jpg"
+    },
+    {
+      "title": "Chennai Metro Rail Limited begins work to install more CCTV cameras at stations",
+      "url": "https://www.thehindu.com/news/cities/chennai/chennai-metro-rail-limited-begins-work-to-install-more-cctv-cameras-at-stations/article70120913.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:34:09 +0530",
+      "summary": "According to officials, there were delays in floating tenders as the cost estimation for the project had to be revised",
+      "image": "https://th-i.thgim.com/public/incoming/8ybcui/article70122873.ece/alternates/LANDSCAPE_1200/PARKING_THIRUMANGALAM_METRO_STATION_2.jpg"
+    },
+    {
+      "title": "One person arrested for beating man to death in Vyasarpadi",
+      "url": "https://www.thehindu.com/news/cities/chennai/one-person-arrested-for-beating-man-to-death-in-vyasarpadi/article70121440.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:30:57 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Baroness Mone-linked firm says chase our partners for the money",
+      "url": "https://www.bbc.com/news/articles/cy0v4plld8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 04 Oct 2025 00:24:06 GMT",
+      "summary": "A spokesperson for PPE Medpro says other companies also received money for providing gowns to the government and should be pursued to get it back.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8ed/live/2600a9b0-a079-11f0-bb47-b30225268691.jpg"
+    },
+    {
+      "title": "BJD accuses BJP government of complicity in recruitment scam in Odisha",
+      "url": "https://www.thehindu.com/news/national/odisha/bjd-accuses-bjp-government-of-complicity-in-recruitment-scam-in-odisha/article70122067.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:23:04 +0530",
+      "summary": "The regional party demanded a CBI inquiry into the job scam which it alleged was murkier than Vyapam scam of Madhya Pradesh",
+      "image": ""
+    },
+    {
+      "title": "Five persons arrested for two separate murders in Tirupattur, Tiruvannamalai",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/five-persons-arrested-for-two-separate-murders-in-tirupattur-tiruvannamalai/article70121513.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:12:31 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Local body polls in Kerala: State Election Commission imposes restrictions on transfers",
+      "url": "https://www.thehindu.com/news/national/kerala/local-body-polls-in-kerala-state-election-commission-imposes-restrictions-on-transfers/article70122859.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:11:54 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Parallel ROB at Falaknuma set to ease congestion in old city",
+      "url": "https://www.thehindu.com/news/national/telangana/parallel-rob-at-falaknuma-set-to-ease-congestion-in-old-city/article70122060.ece",
+      "source": "The Hindu",
+      "published": "Sat, 04 Oct 2025 00:11:45 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Gisèle Pelicot returns to court after trial made her an icon - and tore her family apart",
+      "url": "https://www.bbc.com/news/articles/cvg4l80gz7eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Sat, 04 Oct 2025 00:00:48 GMT",
+      "summary": "A rift has emerged between Gisèle Pelicot - the victim at the centre of the largest rape trial in French history - and her eldest children",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb02/live/afd1f4d0-a06c-11f0-9640-9757c7912ee3.jpg"
+    },
+    {
+      "title": "Americanswers… on 5 Live! Why has Trump changed his mind on Ukraine?",
+      "url": "https://www.bbc.co.uk/sounds/play/p0lq42dz?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Mon, 14 Jul 2025 17:34:00 GMT",
+      "summary": "And, will there be a boycott of the 2026 FIFA World Cup?",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0j72y80.jpg"
+    },
+    {
+      "title": "Andhra Pradesh Energy Minister seeks French investments, highlights growth opportunities",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-energy-minister-seeks-french-investments-highlights-growth-opportunities/article70122588.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:59:20 +0530",
+      "summary": "Gottipati Ravi Kumar pitches the State as an ideal destination for foreign investment in agriculture, electronics, green energy, and pharmaceuticals during a roadshow in Paris",
+      "image": "https://th-i.thgim.com/public/incoming/32sx2b/article70122724.ece/alternates/LANDSCAPE_1200/IMG-20251003-WA0048.jpg"
+    },
+    {
+      "title": "Karur stampede: Court dismisses anticipatory bail pleas of TVK leaders ‘Bussy’ Anand, Nirmal Kumar",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/karur-stampede-madurai-bench-of-madras-high-court-dismisses-anticipatory-bail-pleas-of-tvk-leaders-bussy-anand-nirmal-kumar/article70122462.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:56:23 +0530",
+      "summary": "Justice M. Jothiraman dismissed the pleas, taking into consideration the gravity of the incident, and that the probe was at a preliminary stage, and the injured were still in hospital.",
+      "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/a3zdjp/article70117386.ece/alternates/LANDSCAPE_1200/Bussy%20Anand%20TVK%203.jpeg"
+    },
+    {
+      "title": "Doddahatti Bore Gowda is best film; Rakshit Shetty, Archana Jois are best actor and actress",
+      "url": "https://www.thehindu.com/news/national/karnataka/doddahatti-bore-gowda-is-best-film-rakshit-shetty-archana-jois-are-best-actor-and-actress/article70122741.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:53:48 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/anw0kx/article70122846.ece/alternates/LANDSCAPE_1200/6700_19-9-2020_18-32-10_3_RAKSHITSHETTY_01.JPG"
+    },
+    {
+      "title": "Elderly woman found dead at Kumsi near Karnataka’s Shivamogga, murder suspected",
+      "url": "https://www.thehindu.com/news/national/karnataka/elderly-woman-found-dead-at-kumsi-near-karnatakas-shivamogga-murder-suspected/article70120067.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:52:39 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "GVMC chief directs officials to complete beautification works at the earliest",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/gvmc-chief-directs-officials-to-complete-beautification-works-at-the-earliest/article70122578.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:47:51 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Visakhapatnam gears up for ICC Women’s World Cup matches",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/visakhapatnam-gears-up-for-icc-womens-world-cup-matches/article70121773.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:45:52 +0530",
+      "summary": "District administration reviews arrangements on power, security, ticketing and spectator facilities; city to host five fixtures including two India games",
+      "image": "https://th-i.thgim.com/public/incoming/3dnfhi/article70122825.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-10-03%20at%2018.54.01.jpeg"
+    },
+    {
+      "title": "Gram Panchayat administration collapsed in Telangana: Bandi Sanjay",
+      "url": "https://www.thehindu.com/news/national/telangana/gram-panchayat-administration-collapsed-in-telangana-bandi-sanjay/article70122509.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:45:36 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "EPDCL suffered ₹1.78 crore damage; power restoration on war-footing basis, says CMD",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/epdcl-suffered-178-crore-damage-power-restoration-on-war-footing-basis-says-cmd/article70122654.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:41:02 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Mixed response to officials handling the media briefing on the Karur stampede",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/mixed-response-to-officials-handling-the-media-briefing-on-the-karur-stampede/article70122428.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:38:49 +0530",
+      "summary": "Opinion is divided among former civil servants and commentators. Some feel that the officials should not be involved in political matters and the political executive should be accountable for the whole episode. But some others see nothing wrong in what the officials have done",
+      "image": "https://th-i.thgim.com/public/incoming/93moz1/article70122804.ece/alternates/LANDSCAPE_1200/_DSC6889.JPG"
+    },
+    {
+      "title": "Jagan Mohan Reddy to visit Anakapalli district on October 9",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/jagan-mohan-reddy-to-visit-anakapalli-district-on-october-9/article70122720.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:33:28 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Two held for reportedly throwing stones at train, injuring man",
+      "url": "https://www.thehindu.com/news/national/kerala/two-held-for-reportedly-throwing-stones-at-train-injuring-man/article70122172.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:31:43 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Resident groups seek cancellation of public hearing on cement unit at Pedagantyada",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/resident-groups-seek-cancellation-of-public-hearing-on-cement-unit-at-pedagantyada/article70121464.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:30:06 +0530",
+      "summary": "VARWA and Nivas allege flaws in EIA study, warning of health hazards, toxic fly ash impact, and possible water scarcity from the proposed project",
+      "image": ""
+    },
+    {
+      "title": "Inter-state offender arrested",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/inter-state-offender-arrested/article70121637.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:27:45 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/5go1y4/article70122814.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-10-03%20at%2018.37.27.jpeg"
+    },
+    {
+      "title": "Lack of footpaths, increasing black spots behind rising pedestrian deaths in Bengaluru",
+      "url": "https://www.thehindu.com/news/national/karnataka/lack-of-footpaths-increasing-black-spots-behind-rising-pedestrian-deaths-in-bengaluru/article70122461.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:25:08 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Sean 'Diddy' Combs sentenced to more than four years in prison",
+      "url": "https://www.bbc.com/news/articles/czx0gx227z4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Fri, 03 Oct 2025 23:23:07 GMT",
+      "summary": "Combs apologised to his mother, children, and victims, specifically naming his two ex-girlfriends, Casandra Ventura and \"Jane\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6e/live/fc8e9cd0-a083-11f0-bb47-b30225268691.jpg"
+    },
+    {
+      "title": "Karnataka sees sharp rise in road accidents; Bengaluru among top five cities",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-sees-sharp-rise-in-road-accidents-bengaluru-among-top-five-cities/article70122164.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:17:13 +0530",
+      "summary": "Among 53 cities across India, Bengaluru ranked in the top five with a 30.3% increase in accidents; it was preceded by Ranchi (50.3%), Varanasi (46.3%), and Pune (35%)",
+      "image": ""
+    },
+    {
+      "title": "8-day terracotta sculpture workshop concludes in Visakhapatnam",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/8-day-terracotta-sculpture-workshop-concludes-in-visakhapatnam/article70122721.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:16:08 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Mysuru: Theatre personalities to take part in discussion on Kailasam",
+      "url": "https://www.thehindu.com/news/national/karnataka/mysuru-theatre-personalities-to-take-part-in-discussion-on-kailasam/article70121259.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:11:02 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "CPI M cadres, police clash in Ariyalur",
+      "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/cpi-m-cadres-police-clash-in-ariyalur/article70122788.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:10:34 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Thirumavalavan’s call for action against Vijay ends speculation on a likely alliance with TVK",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/thirumavalavans-call-for-action-against-vijay-ends-speculation-on-a-likely-alliance-with-tvk/article70122348.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:10:06 +0530",
+      "summary": "VCK general secretary D. Ravikumar says that Thirumavalavan   tried to be soft on the account of Mr. Vijay’s inexperience in politics, but changed his mind after listening to his video statement, in which he alluded to a conspiracy behind the death of 41 persons in the stampede at Karur",
+      "image": "https://th-i.thgim.com/public/incoming/4bdf9/article70122784.ece/alternates/LANDSCAPE_1200/THOL_THIRUMAVALAVAN_VCK_PRESIDENT_4.jpg"
+    },
+    {
+      "title": "Advocate Ashwin Kumar Joshi passes away in Mysuru",
+      "url": "https://www.thehindu.com/news/national/karnataka/advocate-ashwin-kumar-joshi-passes-away-in-mysuru/article70122257.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 23:01:44 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Hamas response to US Gaza plan is significant - but there are key omissions",
+      "url": "https://www.bbc.com/news/articles/cvg9myeqjl1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Fri, 03 Oct 2025 22:59:04 GMT",
+      "summary": "There is still a huge amount of detail to be worked through that are vital to the implementation of the US ceasefire proposal.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5e/live/d64fb330-a0a9-11f0-928c-71dbb8619e94.jpg"
+    },
+    {
+      "title": "Mamata Banerjee attacks Centre-run Damodar Valley Corporation for water release from dams during heavy rain alert",
+      "url": "https://www.thehindu.com/news/national/west-bengal/mamata-banerjee-attacks-centre-run-damodar-valley-corporation-for-water-release-from-dams-during-heavy-rain-alert/article70121864.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:53:54 +0530",
+      "summary": "Districts like Purba Bardhaman, Hooghly, Howrah, Murshidabad, and parts of Paschim Midnapore especially vulnerable to flooding, district and police officials on high alert, says Waterways and Irrigation Minister",
+      "image": "https://th-i.thgim.com/public/incoming/v412a3/article70122775.ece/alternates/LANDSCAPE_1200/20250924003L.jpg"
+    },
+    {
+      "title": "Slander against Dharmasthala is an attak on faith, beliefs of Hindus, says B. L. Santhosh",
+      "url": "https://www.thehindu.com/news/cities/Mangalore/slander-against-dharmasthala-is-an-attak-on-faith-beliefs-of-hindus-says-b-l-santhosh/article70122299.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:51:34 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/8el8wt/article70122771.ece/alternates/LANDSCAPE_1200/DSC_5791.JPG"
+    },
+    {
+      "title": "U.S. Senators question TCS, 9 others over H-1B visa filings after layoff of American staff",
+      "url": "https://www.thehindu.com/business/us-senators-question-tcs-9-others-over-h-1b-visa-filings-after-layoff-of-american-staff/article70122718.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:49:45 +0530",
+      "summary": "The Senators said their “inquiry” comes at a time when the unemployment rate in America’s tech sector is “well above” the overall jobless rate.",
+      "image": "https://th-i.thgim.com/public/incoming/hf9s9l/article70122760.ece/alternates/LANDSCAPE_1200/VSP04_TCS%204.JPG"
+    },
+    {
+      "title": "'Brave' Man Utd make 'statement' in Chelsea draw",
+      "url": "https://www.bbc.com/sport/football/articles/cpvl3p94107o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Fri, 03 Oct 2025 22:49:31 GMT",
+      "summary": "Manchester United end Chelsea's 100% start to the Women's Super League season in a \"statement\" draw, but they were left wanting more.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce8/live/b5634d30-a0a4-11f0-a678-e375131d5a07.jpg"
+    },
+    {
+      "title": "Police nab man from Bengaluru in ₹3.43 crore investment fraud",
+      "url": "https://www.thehindu.com/news/national/kerala/police-nab-man-from-bengaluru-in-343-crore-investment-fraud/article70122737.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:47:31 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "'World-class' Semenyo fires Bournemouth to 'unthinkable' heights",
+      "url": "https://www.bbc.com/sport/football/articles/cly18xx7rnno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Fri, 03 Oct 2025 22:45:43 GMT",
+      "summary": "While Bournemouth stars were leaving left, right and centre in the summer, one stayed - Antoine Semenyo - and he has taken the team up to second spot.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a099/live/252009b0-a0a5-11f0-a678-e375131d5a07.jpg"
+    },
+    {
+      "title": "Former Rajasthan Assembly Speaker Girraj Prasad Tiwari passes away at 105",
+      "url": "https://www.thehindu.com/news/national/rajasthan/former-rajasthan-assembly-speaker-girraj-prasad-tiwari-passes-away-at-105/article70122078.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:44:06 +0530",
+      "summary": "Former CM Ashok Gehlot said Mr. Tiwari, who lived a splendid life up to the age of 105, was an example of discipline and vivacity",
+      "image": ""
+    },
+    {
+      "title": "Senate stalemate sends US shutdown into second week",
+      "url": "https://www.bbc.com/news/articles/ce32eegrlpko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Fri, 03 Oct 2025 22:43:06 GMT",
+      "summary": "Two separate funding proposals failed on Friday as mass lay-offs and sweeping cuts loom over the government.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd98/live/b2ab9a80-a094-11f0-b1b3-b903aa8071ae.jpg"
+    },
+    {
+      "title": "Three Iranians arrested for cheating goldsmithery worker in Coimbatore",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/three-iranians-arrested-for-cheating-goldsmithery-worker-in-coimbatore/article70122715.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:40:20 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Pilots welfare group meets government agency probing AI 171 crash",
+      "url": "https://www.thehindu.com/news/national/pilots-welfare-group-meets-government-agency-probing-ai-171-crash/article70122492.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:39:13 +0530",
+      "summary": "Airline Pilots’ Association (ALPA)-India demands observer status in the probe to ensure accountability and transparency. After meeting AAIB and DGCA chiefs, its president, Captain Sam Thomas, says the association has been assured of quarterly meetings.",
+      "image": "https://th-i.thgim.com/public/incoming/dc0ufx/article70122739.ece/alternates/LANDSCAPE_1200/AI_VIS_7798.JPG"
+    },
+    {
+      "title": "New metro train set arrives at Hebbagodi Depot to improve service frequency on Yellow Line",
+      "url": "https://www.thehindu.com/news/cities/bangalore/new-metro-train-set-arrives-at-hebbagodi-depot-to-improve-service-frequency-on-yellow-line/article70122144.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:36:17 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/t16pvs/article70122729.ece/alternates/LANDSCAPE_1200/DSC_0901.JPG"
+    },
+    {
+      "title": "Conclave on migration for employment on October 7",
+      "url": "https://www.thehindu.com/news/national/kerala/conclave-on-migration-for-employment-on-october-7/article70122470.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:31:45 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Taliban ‘Foreign Minister’ Muttaqi to visit Russia next week",
+      "url": "https://www.thehindu.com/news/international/taliban-foreign-minister-muttaqi-to-visit-russia-next-week/article70122589.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:31:19 +0530",
+      "summary": "Ms. Zakharova said Afghanistan will be represented by ‘Foreign Minister’ Muttaqi, who will hold a separate meeting with Foreign Minister Lavrov on the sidelines of the event.",
+      "image": "https://th-i.thgim.com/public/incoming/nvqihb/article70122604.ece/alternates/LANDSCAPE_1200/IMG_RUSSIA-AFGHANISTAN-T_2_1_GVDDUBBC.jpg"
+    },
+    {
+      "title": "Pakistan government holds second round of talks with protest leaders in PoK to end demonstrations",
+      "url": "https://www.thehindu.com/news/international/pakistan-government-holds-second-round-of-talks-with-protest-leaders-in-pok-to-end-demonstrations/article70122205.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:30:06 +0530",
+      "summary": "At least six civilians and three police personnel have been killed during the ongoing demonstrations in the region. Nearly 172 police personnel and around 50 civilians sustained injuries during the demonstrations",
+      "image": "https://th-i.thgim.com/public/incoming/ng02rk/article70122336.ece/alternates/LANDSCAPE_1200/2025-10-03T151349Z_1950453087_RC294HA4R35M_RTRMADP_3_PAKISTAN-PROTEST.JPG"
+    },
+    {
+      "title": "KGMCTA holds candlelight protests across all medical colleges",
+      "url": "https://www.thehindu.com/news/national/kerala/kgmcta-holds-candlelight-protests-across-all-medical-colleges/article70122522.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:23:41 +0530",
+      "summary": "They have been protesting against the government’s neglect of the demands raised by doctors",
+      "image": "https://th-i.thgim.com/public/news/national/kerala/vhwt6p/article70122569.ece/alternates/LANDSCAPE_1200/IMG-20251003-WA0037.jpg"
+    },
+    {
+      "title": "Stalin indulging in deception on Katchatheevu issue: Palaniswami",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/stalin-indulging-in-deception-on-katchatheevu-issue-palaniswami/article70122557.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:18:19 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/50qkub/article70122705.ece/alternates/LANDSCAPE_1200/10213_3_10_2025_19_28_50_1_KA04EPSCAMPINGINPALACODE001.JPG"
+    },
+    {
+      "title": "Construction of 2,000-bed Osmania General Hospital complex begins in Hyderabad",
+      "url": "https://www.thehindu.com/news/national/telangana/new-2000-bed-osmania-general-hospital-complex-construction-begins-in-hyderabad/article70122303.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:18:13 +0530",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Cough syrups not contaminated, says Centre; T.N. test detects adulteration",
+      "url": "https://www.thehindu.com/sci-tech/health/cough-syrups-not-contaminated-says-centre-tamil-nadu-test-detects-adulteration/article70121793.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:16:08 +0530",
+      "summary": "Union Health Ministry says none of the cough syrup samples contained diethylene glycol or ethylene glycol that are known to cause serious kidney injury; Tamil Nadu says tests showed Coldrif batch had diethylene glycol, orders production halt",
+      "image": "https://th-i.thgim.com/public/incoming/r860z7/article70122692.ece/alternates/LANDSCAPE_1200/doctor-pouring-syrup-someone-side-view.jpg"
+    },
+    {
+      "title": "Mirwaiz allowed to visit Jama Masjid after 3 weeks, condemns coercive measures",
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/mirwaiz-allowed-to-visit-jama-masjid-after-3-weeks-condemns-coercive-measures/article70122355.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:09:12 +0530",
+      "summary": "Restrictions serve no purpose except to highlight the arbitrariness and high handedness of those wanting to rule by force rather than in the spirit of democracy, the Mirwaiz said",
+      "image": "https://th-i.thgim.com/public/incoming/futf8y/article70122638.ece/alternates/LANDSCAPE_1200/20250905313L.jpg"
+    },
+    {
+      "title": "Significant personality differences in girls studying in women’s colleges: Prof. Sabiha Bhoomi Gowda",
+      "url": "https://www.thehindu.com/news/national/karnataka/significant-personality-differences-in-girls-studying-in-women-colleges-and-co-ed-institutes-prof-sabiha-bhoomi-gowda/article70121357.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:04:10 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/5olldt/article70122660.ece/alternates/LANDSCAPE_1200/_DSC6106.JPG"
+    },
+    {
+      "title": "Synagogue attacker was on bail after rape arrest, police say",
+      "url": "https://www.bbc.com/news/articles/cly97ervz1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "published": "Fri, 03 Oct 2025 22:02:32 GMT",
+      "summary": "Counter terror police also say Al-Shamie may have been influenced by \"extreme Islamist ideology\".",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7014/live/b50aaa10-a09d-11f0-85af-1377c963b9be.jpg"
+    },
+    {
+      "title": "Centre fines ‘Drishti IAS’ for misleading advertisements",
+      "url": "https://www.thehindu.com/news/national/centre-fines-drishti-ias-for-misleading-advertisements/article70122476.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 22:02:11 +0530",
+      "summary": "This is the second penalty imposed on Drishti IAS for similar conduct after the Central Consumer Protection Authority (CCPA) had fined the institute ₹3 lakh in September 2024",
+      "image": "https://th-i.thgim.com/public/incoming/c8zddb/article70122628.ece/alternates/LANDSCAPE_1200/G2QIugbWsAATLk0.jpg"
+    },
+    {
+      "title": "Russia regularly targets U.K. satellites: space command",
+      "url": "https://www.thehindu.com/news/international/russia-regularly-targets-uk-satellites-space-command/article70122618.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 21:58:20 +0530",
+      "summary": "We're seeing our satellites being jammed by the Russians on a reasonably persistent basis, says Major General Paul Tedman",
+      "image": "https://th-i.thgim.com/public/incoming/w58jv8/article70122630.ece/alternates/LANDSCAPE_1200/2025-10-03T000834Z_1368291040_RC233HAIGCDQ_RTRMADP_3_EUROPE-DEFENSE-SPACE-BRITAIN.JPG"
+    },
+    {
+      "title": "Book listing ‘set of 21 copper plate inscriptions’ to be brought out soon",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/book-listing-set-of-21-copper-plate-inscriptions-to-be-brought-out-soon/article70121052.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 21:58:02 +0530",
+      "summary": "To be released by the Prime Minister on October 16; Archaeological Survey of India says it will contain inscriptions belonging to Vijayanagara, Reddi, Gajapati, Recharla Chiefs, Reddis of Rajamahendravarma, and Chamgalva dynasties and Nawabs of Kurnool",
+      "image": "https://th-i.thgim.com/public/incoming/qogr3j/article70122150.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-10-03%20at%2016.36.15.jpeg"
+    },
+    {
+      "title": "Kaleshwaram barrages to be repaired as govt. calls for Expressions of Interest",
+      "url": "https://www.thehindu.com/news/national/telangana/kaleshwaram-barrages-to-be-repaired-as-govt-calls-for-expressions-of-interest/article70122540.ece",
+      "source": "The Hindu",
+      "published": "Fri, 03 Oct 2025 21:54:51 +0530",
+      "summary": "",
+      "image": "https://th-i.thgim.com/public/incoming/vypftv/article70122613.ece/alternates/LANDSCAPE_1200/2248_13_2_2024_19_56_10_1_13HYNGG_LAKSHMIBARRAGE18.JPG"
+    }
+  ]
+}
